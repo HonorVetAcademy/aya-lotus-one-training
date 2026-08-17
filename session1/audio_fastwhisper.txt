@@ -1,0 +1,1319 @@
+[1.87 -> 12.61]  I am taking one random job ID from IaaS.
+[12.61 -> 14.61]  Can you guys see my screen?
+[14.61 -> 17.61]  Yeah.
+[17.61 -> 23.61]  I've taken any job description from IaaS and I've searched it on Job Deva.
+[23.61 -> 27.61]  When you search it on Job Deva, you will find this page opening up.
+[27.61 -> 30.61]  Here, you see this attachment option.
+[30.61 -> 33.61]  You need to open this attachment option.
+[33.61 -> 35.61]  These are the two PDFs which are going to be there.
+[35.61 -> 39.61]  Unit details, this is a very mandatory field,
+[39.61 -> 44.61]  but you will find this field in, say, 60 or 70% of the jobs.
+[44.61 -> 48.61]  Not every job from IaaS will have this unit details part.
+[48.61 -> 53.61]  But job description, you'll find for every job.
+[53.61 -> 58.61]  Some low-level positions, they don't give the unit detail,
+[58.61 -> 62.61]  but majority, all the RN positions, you would always find the unit detail.
+[63.61 -> 70.58]  This is what the PDF document looks like.
+[70.58 -> 73.58]  It has all of the details about the job
+[73.58 -> 77.58]  and what unit description field look like.
+[77.58 -> 89.52]  This looks somehow like this.
+[89.52 -> 94.96]  When you go through this unit description part,
+[94.96 -> 97.96]  you will find unit name here.
+[97.96 -> 100.96]  This will include the hospital's name along with the job title.
+[101.96 -> 104.96]  Then the department where the department person is going to work with,
+[104.96 -> 109.96]  unit type, further what is the department where the candidate is going to work,
+[109.96 -> 111.96]  date when this was issued.
+[111.96 -> 116.96]  This date may vary from months till year as well.
+[116.96 -> 118.96]  You will find dates from 2025 as well.
+[118.96 -> 120.96]  That is okay.
+[120.96 -> 125.96]  Facility, density, discipline is like the field,
+[125.96 -> 128.96]  job description or specialty.
+[129.96 -> 132.96]  This is going to be the very basic information.
+[132.96 -> 136.96]  You will find all of this information in job description as well.
+[136.96 -> 138.96]  If I find-
+[138.96 -> 141.96]  Nani, show it from the website so that you first of all show it from there.
+[141.96 -> 145.96]  Then they know that this information exists over here as well.
+[145.96 -> 148.96]  This is just a screenshot of whatever we are going to show you.
+[148.96 -> 160.36]  Pick the job that Harshita gave me in the morning.
+[160.36 -> 167.58]  I think the job has been closed now.
+[167.58 -> 169.58]  I will not be able to find this.
+[169.58 -> 174.09]  Anyways, I'll pick that, the other job.
+[174.09 -> 177.09]  Doesn't matter. Pick anything.
+[177.09 -> 179.09]  This one doesn't have the unit.
+[179.09 -> 182.62]  This one has.
+[182.62 -> 186.62]  This is the specific job which you were talking about.
+[186.62 -> 189.62]  Okay. Let's go over this one.
+[189.62 -> 193.62]  This has basically two fields, job details and requirements.
+[193.62 -> 196.62]  First, I'll go through the requirement part because that is something
+[196.62 -> 198.62]  which is a basic thing.
+[198.62 -> 200.62]  This is going to be universal for all of the jobs.
+[200.62 -> 204.62]  If required, that is going to vary from job to job again.
+[204.62 -> 206.62]  This will have all of the details.
+[206.62 -> 212.62]  Jahan, maybe say an RN license or maybe BLS
+[212.62 -> 216.62]  or any sort of education which is required to be
+[216.62 -> 219.62]  associated through some specific facility.
+[219.62 -> 223.62]  BLS or ACLS has to be from AHA or ARC.
+[223.62 -> 226.62]  No other association would be accepted.
+[226.62 -> 228.62]  You will find all of the details here.
+[228.62 -> 231.62]  Say, for example, you are confused that
+[231.62 -> 234.62]  if this specific facility is going to accept ARC or no,
+[234.62 -> 238.62]  you will always find it under requirements.
+[238.62 -> 240.62]  You don't have to go back to the client checking in.
+[240.62 -> 246.13]  You will always find it here in the requirements.
+[246.13 -> 249.13]  Just like that, you will find all of the other associations
+[249.13 -> 253.13]  and education where should it be verified
+[253.13 -> 255.13]  or where should it be certified.
+[255.13 -> 259.05]  You will find all of those here.
+[259.05 -> 261.05]  Jahan, just give them a download of this page
+[261.05 -> 263.05]  because it doesn't change much, right?
+[263.05 -> 265.05]  But it changes some facility to facility.
+[265.05 -> 269.05]  It does, but not a lot of changes are there.
+[269.05 -> 271.05]  A majority, it would stay.
+[271.05 -> 274.05]  You could use that as a general guide, right?
+[274.05 -> 277.71]  Correct.
+[277.71 -> 279.71]  Coming back to the job details,
+[279.71 -> 281.71]  there's a general option where you'll find the status.
+[281.71 -> 285.71]  Contract group is the group from which the facility
+[285.71 -> 287.71]  has been associated.
+[287.71 -> 289.71]  Union code and profession is ARAN,
+[289.71 -> 294.71]  sociality should be wherever the candidate is going to be working.
+[294.71 -> 296.71]  Then this is the main part, unit.
+[296.71 -> 299.71]  This document contains all of the major information.
+[299.71 -> 302.71]  For one, you guys can ignore this part
+[302.71 -> 306.71]  or maybe the other things, but the end decision is unit.
+[306.71 -> 308.71]  So, for example, I'll take an example of this.
+[308.71 -> 313.71]  It says 16 hours non-billable orientation.
+[314.71 -> 325.58]  But if I open this unit part,
+[325.58 -> 333.55]  now this document says 48 hours of orientation.
+[333.55 -> 335.55]  Which one would you consider?
+[335.55 -> 339.70]  You will always consider the unit part.
+[339.70 -> 343.70]  You do not go back to the description part and check that one.
+[343.70 -> 345.70]  You will always consider the unit part.
+[345.70 -> 347.70]  This is the major thing.
+[347.70 -> 351.70]  Your access to yours of experience required.
+[351.70 -> 354.70]  From top to bottom, don't jump through.
+[354.70 -> 355.70]  Okay?
+[359.67 -> 361.67]  So you want me to go through this?
+[361.67 -> 366.67]  On the unit, you just start by scrolling down and explaining every field.
+[366.67 -> 367.67]  Okay.
+[367.67 -> 369.67]  So basically this has unit name,
+[369.67 -> 373.67]  which will include again the title and along with that the facility.
+[373.67 -> 378.67]  This is the information which is taken care by the client itself.
+[378.67 -> 380.67]  You don't have to go through this.
+[380.67 -> 384.67]  Again, like I said, this is from 2023.
+[384.67 -> 386.67]  Coming back to the patient group,
+[386.67 -> 390.67]  if your candidate does not have experience with adults,
+[390.67 -> 394.67]  for example, and the candidate has experience with neonates,
+[394.67 -> 396.67]  no, that is going to be a reject.
+[396.67 -> 399.67]  You will have to take care of this part.
+[399.67 -> 401.67]  If they have mentioned patient age group,
+[401.67 -> 404.67]  you will have to be very specific when it comes to this thing.
+[404.67 -> 407.67]  Now, this says staffing ratio.
+[407.67 -> 410.67]  There is one is to six nights, one is to six and weekends also one is to six.
+[410.67 -> 415.67]  You will have to make sure that your candidate has worked with one is to six patient ratio.
+[416.67 -> 421.67]  It should not be in your selling points also that the candidate is comfortable working.
+[421.67 -> 423.67]  One is to six patient ratio.
+[423.67 -> 426.67]  You literally have to say that in your selling points.
+[426.67 -> 430.67]  You have to say, remember, these are auto offer in auto offer.
+[430.67 -> 433.67]  They expect that whatever is the job requirement, you have checked,
+[433.67 -> 438.67]  you have acknowledged and you are giving that acknowledgement back to them.
+[438.67 -> 441.67]  He ha many cardia many candidate, go, but I had the candidate.
+[441.67 -> 442.67]  Okay.
+[442.67 -> 445.67]  Hey, I got up here and he got okay.
+[445.67 -> 452.23]  I got off and I, because they are not going to be the ones interview the honey.
+[452.23 -> 453.23]  I got interview.
+[453.23 -> 455.23]  How about the job on the interview letter?
+[455.23 -> 457.23]  Well, push that we have one is to six of them.
+[457.23 -> 458.23]  Okay.
+[458.23 -> 459.23]  Oh, one is to five.
+[459.23 -> 460.23]  Okay.
+[460.23 -> 461.23]  Oh, one is to seven.
+[461.23 -> 462.23]  Okay.
+[462.23 -> 463.23]  Oh, what a honey happy.
+[463.23 -> 464.23]  Well, Concarica.
+[464.23 -> 466.23]  Well, come happening.
+[466.23 -> 469.23]  That job falls on you.
+[469.23 -> 474.23]  You are the one who is basically interviewing the candidate and based on all the
+[475.23 -> 479.23]  required parameters, you are the ones who are telling the facility manager.
+[479.23 -> 480.23]  Yeah.
+[480.23 -> 481.23]  The candidate is okay with this.
+[481.23 -> 482.23]  The candidate is okay with this.
+[482.23 -> 484.23]  The candidate is okay with this.
+[484.23 -> 485.23]  Okay.
+[485.23 -> 486.23]  I got up.
+[486.23 -> 487.23]  No, I got a car.
+[487.23 -> 489.23]  So Joe, but the review car, I was going to put on the app.
+[489.23 -> 491.23]  Nicky, I'm going to keep up.
+[491.23 -> 492.23]  Okay.
+[492.23 -> 494.23]  So my, uh, I got up.
+[494.23 -> 496.23]  Bill book, perfect candidate.
+[496.23 -> 497.23]  Like in happening, yeah.
+[497.23 -> 499.23]  Coaching like I was making candidates.
+[499.23 -> 500.23]  Okay.
+[500.23 -> 501.23]  Hey, can it float?
+[501.23 -> 502.23]  Okay.
+[502.23 -> 503.23]  Hey, can it, we can coverage.
+[503.23 -> 504.23]  So okay.
+[504.23 -> 505.23]  Hey.
+[505.23 -> 506.23]  Aenders got enough energy because of an event, right?
+[506.23 -> 507.23]  They crisis, baby, not in a better way.
+[507.23 -> 520.09]  So you get telepathically even go Merc a
+[520.09 -> 521.59]  got poisoned.
+[521.59 -> 522.59] Vssels?
+[522.59 -> 525.67]  Yaka, barring that situation, how would they know whether I should I
+[525.67 -> 528.34]  as to it or not.
+[528.34 -> 532.84]  So this is why it is very important that you write it back there.
+[532.84 -> 534.34]  These are your selling points.
+[534.34 -> 537.14]  Those are your selling points.
+[537.14 -> 540.68]  So, this is, you know...
+[540.68 -> 568.14]  So, this is you know, LTC is the position.
+[568.14 -> 597.69]  And
+[597.69 -> 620.65]  this
+[620.65 -> 621.65]  1 is to 5.
+[621.65 -> 629.64]  So, this patient ratio is very important.
+[629.64 -> 640.55]  So, easily you should ask them what is the maximum and mid-surge you have handled.
+[640.55 -> 647.55]  So, both those candidates are comfortable with 1 is to 6 but can even handle up to 1
+[647.55 -> 648.55]  is to 8.
+[648.55 -> 651.55]  That is a selling point.
+[652.55 -> 655.55]  So, you should ask them what is the maximum and mid-surge you have handled.
+[655.55 -> 657.55]  So, you should ask them what is the maximum and mid-surge you have handled.
+[657.55 -> 662.87]  Yes.
+[686.87 -> 697.61]  So, if the person has enough experience working with adults, you will find all of the details.
+[697.61 -> 703.61]  When it comes to unit section, the moment you see unit details, always open it and check it.
+[703.61 -> 706.61]  You will find all of the details.
+[706.61 -> 709.61]  If you have any questions, you will find all the answers here.
+[709.61 -> 713.61]  You will not have to go back to the client.
+[713.61 -> 715.61]  You will be checking in.
+[715.61 -> 716.61]  Can we do this or no?
+[716.61 -> 740.19]  We will check the
+[746.61 -> 749.87]  Yes, you will even see that.
+[751.61 -> 752.95]  So this tells you, yes.
+[752.95 -> 756.25]  I can shift, 7 to 7 30.
+[761.03 -> 761.57]  Shabam.
+[762.53 -> 763.37]  Karshata clear.
+[763.87 -> 764.63]  Clear on this part.
+[765.37 -> 765.77]  Nitesh?
+[765.77 -> 766.57]  Yes, sir.
+[767.37 -> 771.15]  Because I want to make sure that you guys, and then again, I am not doubting that you
+[771.15 -> 771.73]  do not know that.
+[771.73 -> 775.21]  Nitesh, I'm not doubting that you do not know that, but I want to do my job in
+[775.21 -> 776.29]  explaining it to you once.
+[776.53 -> 779.51]  Once I know I have explained it to you, then you can never come back to me and
+[779.51 -> 783.53]  say that you do not know this because I know I explained it to you.
+[784.61 -> 787.49]  So then this, my expectation is
+[796.61 -> 801.25]  so that you also train right before us, you are the trainer, you are the leads,
+[801.31 -> 802.71]  you are the manager.
+[802.71 -> 803.93]  So we want to train you.
+[803.93 -> 808.69]  We want to make sure that you know this because then down your folks, you are able
+[808.69 -> 811.17]  to explain to them also, but train them as well.
+[812.65 -> 813.69]  These things are important.
+[813.69 -> 815.33]  Again, it's an auto offer.
+[824.13 -> 825.69]  You have to do all the job.
+[832.90 -> 838.10]  You know, this is even harder than the other one because you, you have to do all of this.
+[843.52 -> 845.04]  So you have to do all of this.
+[845.04 -> 847.00]  So you have to do all of this.
+[851.48 -> 851.98]  Okay.
+[853.52 -> 857.68]  And from all of this, you will get to know that this is a 12 hours, three days shift.
+[858.64 -> 862.24]  No rotational shifts would be provided in case this was, yes, you will have to
+[862.24 -> 865.28]  check with a candidate if he's open for rotating shifts or no.
+[865.60 -> 868.84]  Again, that should be there in the selling points as a confirmation that the
+[868.84 -> 870.78]  candidate is open for rotation shifts.
+[871.68 -> 872.52]  With that in place.
+[877.20 -> 877.70]  Okay.
+[879.52 -> 882.00]  When the timing changed, they are going to start crying.
+[883.12 -> 887.60]  And the issue is going to be because you did not read the information
+[887.60 -> 889.08]  that was already provided to you.
+[889.24 -> 891.16]  So the fault does not lie with the candidate.
+[891.16 -> 892.08]  The fault lies with you.
+[898.23 -> 902.75]  Then if I come back to schedule requirements call required, it does not say
+[902.75 -> 904.79]  yes, then it automatically says no.
+[904.95 -> 908.03]  If there is no option of no, then it's a no.
+[908.03 -> 911.71]  Otherwise if it is there, then you will have to go back and confirm this
+[911.71 -> 915.39]  with the account manager or maybe the POC who's handling it here.
+[917.72 -> 918.22]  Float.
+[918.52 -> 922.36]  If yes, it is required, but if you tell the candidate and check in, if the
+[922.36 -> 927.52]  candidate is okay floating to the other department, again, we can
+[927.52 -> 928.84]  coverage one of the selling points.
+[928.84 -> 929.32]  Eight second.
+[929.76 -> 930.26]  Float.
+[930.26 -> 933.84]  Just say, if you remember, right.
+[934.08 -> 941.00]  So between the facilities, that is going to be between departments.
+[941.00 -> 951.20]  You have to make sure that a candidate is okay to travel to different places.
+[953.35 -> 957.79]  So that, and then if it is written in your selling points, you have to write
+[957.99 -> 961.23]  the candidate is okay to float to different facilities.
+[972.47 -> 980.23]  So this is why it is very, very important that you read it properly.
+[980.51 -> 983.03]  That it is not just a float.
+[983.03 -> 984.47]  Float can be two types, right?
+[984.63 -> 990.51]  Float within the departments or within the units in the same facility or float
+[990.59 -> 994.31]  between two different facilities, three different facilities, four different facilities,
+[994.31 -> 995.83]  whatever number of facilities there are.
+[999.34 -> 999.84]  Okay.
+[1006.26 -> 1009.66]  And here is why this confirmation, I mean, time and again,
+[1009.66 -> 1012.74]  confirmations are required is because of your thing only.
+[1012.74 -> 1016.82]  And even if you do not confirm, tell me one thing, I'll give you, I'll ask a
+[1016.82 -> 1019.10]  straight question from all of the team members here.
+[1019.42 -> 1023.38]  So going forward, you have a team and you know that there are three members in the team.
+[1023.66 -> 1024.94]  Just listen to a candidate.
+[1024.94 -> 1028.82]  If you have a candidate, you will confirm that you have a submission,
+[1028.82 -> 1031.62]  you will have a submission without checking anything.
+[1031.62 -> 1033.94]  And you know, the other two would do their work.
+[1034.22 -> 1036.98]  They will check everything and then only they'll submit.
+[1037.22 -> 1038.22]  What would you prefer?
+[1040.56 -> 1043.96]  Of course, the other two, the ones who do their work properly and eventually you
+[1043.96 -> 1046.20]  will ignore the submissions coming from the last one.
+[1048.04 -> 1050.28]  That is how teams work with Aya as well.
+[1050.64 -> 1054.44]  I will stop looking at the submissions.
+[1054.44 -> 1055.92]  They will stop looking at the submissions.
+[1055.92 -> 1059.92]  They will stop looking at the submissions.
+[1059.92 -> 1062.52]  Why would I even waste my time here?
+[1063.24 -> 1065.32]  They have 300 or maybe thousand.
+[1065.80 -> 1069.04]  I don't know how many vendors working with them already.
+[1069.04 -> 1070.84]  Do you think that they have time to waste?
+[1073.74 -> 1076.94]  So what happens is perception, right?
+[1098.79 -> 1101.23]  Sir, you will not look at it one more time.
+[1101.23 -> 1104.39]  You will just reject it right away or look for another option first.
+[1104.39 -> 1105.07]  Exactly.
+[1107.85 -> 1109.45]  You keep on guessing details.
+[1109.45 -> 1114.29]  You keep on guessing.
+[1114.77 -> 1116.29]  You keep on guessing.
+[1116.29 -> 1118.21]  You keep on guessing.
+[1118.85 -> 1120.69]  What they want you to qualify.
+[1120.69 -> 1121.21]  Right?
+[1121.21 -> 1122.61]  What they want you to qualify.
+[1122.61 -> 1123.85]  What they want you to qualify.
+[1124.53 -> 1127.49]  What they want you to qualify.
+[1127.77 -> 1129.53]  So you can't do that.
+[1133.67 -> 1135.27]  And honestly, I'm not going to sugarcoat it.
+[1135.27 -> 1136.79]  I'm not going to sugarcoat it.
+[1139.17 -> 1140.69]  I'm not going to sugarcoat it.
+[1140.69 -> 1142.33]  I'm going to sugarcoat it.
+[1144.05 -> 1146.73]  I'm going to sugarcoat it.
+[1149.49 -> 1153.21]  And you will not get a lot of time.
+[1156.37 -> 1157.85]  And then again, these things...
+[1159.57 -> 1163.01]  Remember this is how healthcare works.
+[1163.37 -> 1164.81]  It does not matter.
+[1165.01 -> 1167.49]  If you want to make a right sourcing, you can do it.
+[1167.89 -> 1169.73]  You can do it.
+[1206.06 -> 1210.54]  And then again, you are going to remain consistent.
+[1211.26 -> 1215.22]  If you want to make a right sourcing, you can do it.
+[1215.22 -> 1217.66]  But if you want to make a style of working, you can do it.
+[1217.66 -> 1220.90]  If you want to make a style of working, you can do it.
+[1220.90 -> 1228.54]  But if you want to make a right sourcing, you can do it.
+[1228.54 -> 1229.46]  You will check.
+[1232.30 -> 1234.26]  Otherwise, you will get confidence.
+[1242.37 -> 1242.85]  Take it.
+[1242.85 -> 1243.77]  Let's scroll down.
+[1243.77 -> 1249.57]  This is a good idea to make a right sourcing of your healthcare.
+[1249.57 -> 1256.54]  It will help you.
+[1256.54 -> 1258.22]  You can do it.
+[1258.22 -> 1261.66]  You can get information on it.
+[1261.66 -> 1268.86]  This is a good idea to make a right sourcing.
+[1268.86 -> 1269.86]  You can do it.
+[1269.86 -> 1270.86]  You can do it.
+[1270.86 -> 1275.66]  This is your company's company's company, because it is a great experience.
+[1275.66 -> 1277.66]  Experience
+[1297.43 -> 1299.99]  Because he mentioned that exactly
+[1300.87 -> 1304.20]  Yeah
+[1304.20 -> 1306.20]  Next time notice
+[1309.72 -> 1318.09]  system console this pick on here but was selling notes me Jana come here but
+[1318.09 -> 1332.58]  you had a crack on a Q and a pictures chief documentation system epic right
+[1332.58 -> 1337.90]  I'm seeing me in the facility key information next can give a radiology
+[1337.90 -> 1342.70]  be heavy heavy head who is it I'm the coverage Cassie oh Tia right
+[1342.70 -> 1347.74]  one on electric in-house how much intensivists who a car CRN a how much
+[1347.74 -> 1353.08]  a way he had a lot of so there is on the ground may NPV look even on a key
+[1353.08 -> 1358.30]  poor time but NPV way gate so I got we can deduct a push like even cars staff
+[1358.30 -> 1362.32]  guess about that this is what they're saying the her time paid JL of going
+[1362.32 -> 1374.96]  about okay you can scroll down yeah no you don't
+[1374.96 -> 1384.78]  okay current guy okay how they go Joe a papers yeah Joe a paper certifications
+[1384.78 -> 1395.11]  war Tn right cap required hair character was supposed to have a suit yeah so this
+[1395.11 -> 1400.35]  is where you see key a poke you can see it do required hair Agar one he had
+[1400.35 -> 1405.47]  yep and in a lady haka local yeah calco's give us very boss or resume submit
+[1405.47 -> 1413.99]  required. It should be available in hand.
+[1413.99 -> 1431.58]  It should be in your possession the moment you are submitting the resume.
+[1432.58 -> 1446.33]  It should be available in your possession the moment you are submitting the resume.
+[1455.33 -> 1463.30]  It should be available in your possession the moment you are submitting the resume.
+[1501.72 -> 1533.21]  You even
+[1533.21 -> 1535.21]  have to review.
+[1535.21 -> 1552.47]  And I'm not saying that we are dealing with humans on the other side.
+[1552.47 -> 1555.97]  I cannot say that every human is going to act the same way.
+[1555.97 -> 1560.67]  But I am telling you the fact that there are humans on the other side, they are so nitpicky
+[1560.67 -> 1566.37]  that there are interested in maintaining IV force, whatever, maintaining IV force.
+[1566.37 -> 1569.45]  I'm not saying that they are going to act the same way, but they are going to be able to
+[1569.45 -> 1570.45]  do that.
+[1570.45 -> 1578.14]  But I am going to say that if you are a human, then you are going to be able to do that.
+[1578.14 -> 1581.68]  But you are going to be able to do that.
+[1581.68 -> 1583.08]  So you have to be able to do that.
+[1583.08 -> 1584.86]  Here you are going to be able to do that.
+[1584.86 -> 1586.66]  It is all up to you.
+[1586.66 -> 1589.82]  But we cannot do anything, there is nothing you can do.
+[1589.82 -> 1595.74]  So, there is nothing you can do but I want you to understand that they even take on this
+[1595.74 -> 1597.98]  thing.
+[1597.98 -> 1598.98]  No skills required.
+[1598.98 -> 1617.01]  This is not a description of the job, right?
+[1617.01 -> 1618.51]  This is a description of the unit.
+[1618.51 -> 1628.02]  He is the unit in the character.
+[1628.02 -> 1632.82]  Say that if there are, there is something to say, this is required.
+[1632.82 -> 1634.58]  This is another required section.
+[1634.58 -> 1641.82]  Just in case if your candidate has marked himself out of four, one or two, they will reject
+[1641.82 -> 1642.82]  it.
+[1642.82 -> 1644.26]  That is not going to work.
+[1644.26 -> 1653.34]  Anything which is marked below three and is required that has to be taken care of.
+[1653.34 -> 1654.34]  They check.
+[1655.34 -> 1658.98]  Tell me if there is anyone who has not seen a checklist.
+[1658.98 -> 1668.78]  I assume all of you have seen a checklist, right?
+[1668.78 -> 1673.25]  You see all of these proficiency and frequency.
+[1673.25 -> 1678.25]  For example, this cardio pulmonary candidate has rated himself frequency.
+[1678.25 -> 1684.25]  So, it was a reject.
+[1684.25 -> 1689.53]  DCM was not too late.
+[1689.53 -> 1696.47]  If this is something which is required, this is not going to work.
+[1696.47 -> 1705.34]  You will have to check each and every detail in the checklist.
+[1705.34 -> 1706.82]  Coming back to the skills part.
+[1706.82 -> 1716.81]  So, you will find all of the skills preferred and required here in under the skill section.
+[1716.81 -> 1719.81]  All of this will match with the ones you have outside.
+[1719.81 -> 1722.97]  In case unit details is not there, you will find all of the details.
+[1722.97 -> 1724.05]  They consider this one.
+[1724.05 -> 1728.85]  But just in case unit section is there, always and always open the section and check.
+[1729.81 -> 1736.21]  Whenever I review a profile, I make sure that all of these skills are there in the resume.
+[1736.21 -> 1740.85]  If it is not there in the resume, I make sure that all of these skills are there in the checklist.
+[1740.85 -> 1742.45]  In case it is missing from the checklist.
+[1742.45 -> 1749.17]  For example, cardio monitoring and emergency response have some other name in the checklist.
+[1749.17 -> 1751.09]  It is missing.
+[1751.09 -> 1752.65]  And it is missing from the resume itself.
+[1752.65 -> 1755.69]  I will make sure that if it has another name in the checklist,
+[1755.69 -> 1757.49]  I will make sure that it should be there in the resume.
+[1759.49 -> 1765.01]  If it is missing, I will make sure that all of the skills are preferred and required.
+[1765.01 -> 1768.21]  If it is not required, it is a required skill.
+[1769.89 -> 1771.97]  Starting and maintaining IVs.
+[1771.97 -> 1774.21]  We showed you on the other unit detail.
+[1774.21 -> 1775.09]  It was a required skill.
+[1775.09 -> 1776.21]  So, what is the required skill?
+[1776.21 -> 1777.97]  Starting and maintaining.
+[1777.97 -> 1782.45]  If it is not required, you will be required to prepare line management and all of that.
+[1782.45 -> 1785.01]  So, pick line management, peripheral or routine management.
+[1785.01 -> 1787.25]  It is required for the required skill.
+[1787.97 -> 1795.54]  I hope this is not becoming too much overload.
+[1797.54 -> 1805.87]  This is something you guys have been doing.
+[1805.87 -> 1813.95]  I hope, you know, but we are like, we are going a little bit more in detail showing you both the sides of it.
+[1813.95 -> 1814.75]  That's the only thing.
+[1814.75 -> 1817.55]  Otherwise, I hope you already know all of this.
+[1822.42 -> 1825.54]  And if I come back, work experience.
+[1825.54 -> 1828.02]  This will always have all of the details.
+[1828.02 -> 1831.78]  If any charge experience is required, teaching experience is required,
+[1831.78 -> 1836.98]  community hospital experience is required, LTSE and trauma levels again.
+[1837.54 -> 1840.66]  Now, it says charge nurse experience is preferred.
+[1841.22 -> 1846.34]  So, you will always and always find somebody who has worked as a charge nurse
+[1846.34 -> 1847.94]  because this is something which is preferred.
+[1847.94 -> 1853.70]  And whenever they say preferred, in the only in the work experience part,
+[1853.70 -> 1855.14]  considerable that is required.
+[1856.74 -> 1862.26]  With AYA, if it says that preferred, consider it as required.
+[1864.66 -> 1868.50]  I bet my skinny ass on it, it actually means required.
+[1871.49 -> 1872.93]  That is how AYA works.
+[1876.05 -> 1880.21]  If they say two years of experience is required, you will always find this year.
+[1880.21 -> 1881.73]  Two years of experience is required.
+[1881.73 -> 1883.65]  They need somebody with two experience.
+[1883.65 -> 1886.61]  One year, eight months, 10 months, 11 months would not work.
+[1887.73 -> 1889.09]  Two years means two years.
+[1889.09 -> 1890.21]  Do not even think of
+[1893.41 -> 1894.85]  Again, patient ratio.
+[1894.85 -> 1897.57]  You can always submit somebody with one is to seven ratio,
+[1897.57 -> 1899.73]  but do not submit somebody with one is to five.
+[1900.29 -> 1900.85]  Do not.
+[1902.53 -> 1905.73]  Electronic documentation required, epic.
+[1905.73 -> 1911.97]  Even if they would have said preferred here, consider this as required.
+[1911.97 -> 1913.41]  Epic is required.
+[1913.41 -> 1915.17]  And when they say two years of experience,
+[1915.17 -> 1920.37]  late short or trying somebody who has experience with Epic as well for two years.
+[1920.37 -> 1922.93]  Yes, I was gonna good point.
+[1922.93 -> 1926.93]  If they say epic required and the years of experience required is two,
+[1926.93 -> 1929.25]  this same two years will translate to this also.
+[1935.73 -> 1944.59]  They literally calculated from month to month.
+[1966.24 -> 1969.92]  You have to then again, all of those things go into selling points.
+[1973.04 -> 1973.92]  So this experience,
+[1975.92 -> 1976.64]  right?
+[1976.64 -> 1977.52]  Epic,
+[1980.96 -> 1984.16]  but acknowledge the fact the candidate has over one and a half years of experience
+[1984.16 -> 1988.56]  in Epic and feels very comfortable with the software that goes into your selling points.
+[1991.92 -> 1993.20]  You're falling short somewhere.
+[1994.16 -> 1996.88]  You still have to say it in a bit of positive spin.
+[2004.48 -> 2005.92]  So it's very comfortable doing it.
+[2013.34 -> 2015.10]  So that all becomes how you sell it.
+[2015.10 -> 2018.70]  And that is where we keep on telling you, you should know how to sell your candidate.
+[2018.70 -> 2020.30]  You should know how to sell your candidate.
+[2040.16 -> 2041.28]  What type of facilities this.
+[2048.06 -> 2063.86]  So actually, I was with that.
+[2063.86 -> 2064.34]  That's fine.
+[2066.64 -> 2072.08]  Okay, when facilities have like hospital has multiple facilities,
+[2072.08 -> 2076.00]  quite drama level, one host of people trauma level to take quite drama level to you.
+[2076.48 -> 2079.04]  So you should always write the address as well.
+[2095.07 -> 2097.63]  This is giving all of this here because I have been,
+[2098.51 -> 2102.91]  I mean, my history says it's facility time level teaching trauma and whatnot.
+[2102.91 -> 2105.07]  Otherwise, if you are doing
+[2105.07 -> 2118.74]  Okay.
+[2118.74 -> 2121.38]  It's a private, non-profit, short term, acute care.
+[2127.94 -> 2129.38]  Like we were discussing in the morning.
+[2171.18 -> 2173.42]  It does not matter what is written in the resume.
+[2184.77 -> 2187.89]  Do you understand what I'm trying to say?
+[2187.89 -> 2188.37]  Yes, sir.
+[2190.05 -> 2190.53]  Yes, sir.
+[2191.41 -> 2192.05]  Right.
+[2192.05 -> 2195.33]  And this is exactly what all the recruiters need to understand.
+[2195.33 -> 2202.45]  But I hope you are able to carry that.
+[2202.45 -> 2206.05]  This is very, very, very important and that becomes the differentiator.
+[2255.33 -> 2274.85]  So you might think
+[2285.33 -> 2309.17]  Okay, this is how it is being interpreted on the other side.
+[2309.17 -> 2310.13]  That should make sense.
+[2313.02 -> 2313.50]  Yes, sir.
+[2318.70 -> 2320.54]  Do you want me to show one of the rejections?
+[2321.74 -> 2327.58]  No, I still want to go over to this person and then you could show them the rejections.
+[2328.86 -> 2330.62]  I don't think we need to show them a proof.
+[2330.62 -> 2332.54]  I hope you believe what we are telling you.
+[2332.54 -> 2332.70]  Right.
+[2332.70 -> 2334.94]  I mean, you know, you can always show you.
+[2337.26 -> 2339.02]  But we always incorporate.
+[2351.50 -> 2360.98]  So why am I going to take a chance?
+[2366.93 -> 2367.97]  Why would I not do that?
+[2367.97 -> 2369.57]  I don't know.
+[2369.57 -> 2371.57]  Once you start doing that and she can give you the exact, you know,
+[2385.01 -> 2389.97]  literally you can cut and paste this whole thing for the facility and type it over this.
+[2389.97 -> 2391.41]  Okay.
+[2391.41 -> 2394.61]  So I prepared teaching already.
+[2394.61 -> 2395.65]  Yes.
+[2398.37 -> 2401.17]  Then we go back to that unit type unit.
+[2403.54 -> 2404.18]  Scroll down.
+[2406.94 -> 2408.14]  To the last?
+[2408.14 -> 2408.62]  Yes.
+[2412.46 -> 2412.94]  Okay.
+[2412.94 -> 2418.46]  So teaching hospital experience.
+[2418.46 -> 2422.86]  Right.
+[2422.86 -> 2423.34]  Yeah.
+[2423.34 -> 2423.82]  Yeah.
+[2423.82 -> 2424.38]  It's many.
+[2424.38 -> 2427.82]  So you would see it preferred somewhere.
+[2427.82 -> 2438.62]  Perfect.
+[2438.62 -> 2440.22]  Long-term acute care, right?
+[2440.46 -> 2441.42]  Long-term acute care.
+[2481.38 -> 2482.10]  Right.
+[2482.10 -> 2490.26]  Okay.
+[2490.26 -> 2490.74]  Believe me.
+[2492.26 -> 2495.54]  If your candidate has worked in a teaching facility,
+[2497.14 -> 2499.62]  please write it in your selling points.
+[2514.08 -> 2517.28]  So this is why we always tell you that you should know
+[2521.92 -> 2523.12]  what is K Y C.
+[2523.12 -> 2524.64]  K Y C is know your customer.
+[2525.28 -> 2525.44]  Right.
+[2544.40 -> 2544.88]  Correct.
+[2546.96 -> 2547.44]  Okay.
+[2547.44 -> 2547.92]  Okay.
+[2547.92 -> 2549.44]  So
+[2549.44 -> 2552.00]  I'm going to do a teaching facility.
+[2552.00 -> 2552.32]  Yeah.
+[2552.32 -> 2553.20]  It's got normal level.
+[2553.20 -> 2553.52]  Yeah.
+[2553.52 -> 2554.00]  Normal level.
+[2556.80 -> 2557.44]  To working.
+[2559.44 -> 2559.84]  Normal level.
+[2562.88 -> 2563.76]  It's a much better.
+[2564.96 -> 2565.76]  But in general,
+[2566.32 -> 2566.88]  is facility.
+[2566.88 -> 2567.36]  Yeah.
+[2567.36 -> 2569.36]  Yeah.
+[2569.36 -> 2569.84]  Details.
+[2569.84 -> 2571.04]  Is facility.
+[2571.04 -> 2571.52]  True.
+[2571.52 -> 2571.76]  True.
+[2571.76 -> 2572.80]  Yeah.
+[2572.80 -> 2573.84]  It's got to work.
+[2573.84 -> 2574.08]  Okay.
+[2575.04 -> 2575.84]  So
+[2598.16 -> 2600.40]  you are trying to sell your resume, right?
+[2600.40 -> 2601.20]  So you're gonna write.
+[2606.75 -> 2607.39]  Fair.
+[2607.39 -> 2607.87]  Okay.
+[2630.30 -> 2633.74]  That's why we ask you to check these things.
+[2636.78 -> 2638.22]  When you do your K Y C,
+[2638.22 -> 2640.14]  you know what sort of a facility is.
+[2640.14 -> 2644.06]  Inpatient or outpatient facilities.
+[2673.92 -> 2676.92]  I'm not going to be able to open that situation.
+[2676.92 -> 2678.92]  I'm not going to open that situation.
+[2678.92 -> 2687.42]  Make sense?
+[2687.42 -> 2690.42]  I'm not going to reject any of these things.
+[2690.42 -> 2693.42]  You see how many things are going to play.
+[2695.42 -> 2697.42]  At least, I'm not going to play.
+[2697.42 -> 2698.42]  I'm not going to play.
+[2698.42 -> 2701.42]  I'm going to play 70% match on top summit.
+[2701.42 -> 2703.42]  I'm not going to play.
+[2703.42 -> 2706.42]  I'm going to play hard core requirements.
+[2706.42 -> 2708.42]  I'm going to play hard core requirements.
+[2708.42 -> 2710.42]  I'm not going to back up the situation else.
+[2710.42 -> 2713.42]  Even from 1-3, I'm going to flaw 65%
+[2713.42 -> 2716.40]  What I said how many questions are going to be there after
+[2716.40 -> 2720.42]  I'm going to agony reseting the situation.
+[2720.42 -> 2722.42]  It might just be very bizarre.
+[2722.42 -> 2723.40]  What was going on?
+[2723.42 -> 2727.42]  Last week I addressed a question about how we can fix local issues.
+[2731.58 -> 2735.58]  Looks like we still have an outpatient facility now,
+[2735.58 -> 2739.60]  without this value D 00.
+[2739.60 -> 2751.96]  But the candidate is comfortable working in an inpatient setting.
+[2751.96 -> 2758.00]  Is that a better situation than letting the IAA guys see you over there?
+[2758.00 -> 2762.36]  I have a very good experience in the inpatient facility.
+[2762.36 -> 2768.12]  And I acknowledge that the candidate is comfortable working in an inpatient facility.
+[2768.12 -> 2770.00]  So, I can tell you what is better.
+[2770.00 -> 2771.52]  Which is a better situation?
+[2771.52 -> 2776.56]  I address my shortcomings myself.
+[2776.56 -> 2778.08]  I call it that thing.
+[2778.08 -> 2780.96]  I have a lot of experience in the inpatient facility.
+[2780.96 -> 2785.04]  I have a lot of experience in the inpatient facility.
+[2785.04 -> 2789.24]  he is a man who has a lot of knowledge.
+[2789.84 -> 2791.44]  What is his situation better than yours?
+[2795.84 -> 2798.04]  Do you know what I have to say?
+[2798.04 -> 2800.44]  Do you know what's better than yours?
+[2800.44 -> 2801.44]  What is better than yours?
+[2801.44 -> 2804.64]  He is doing his job.
+[2804.64 -> 2806.64]  He's doing everything.
+[2806.64 -> 2809.64]  He's very happy to have a job with him.
+[2809.64 -> 2810.84]  He's very happy.
+[2810.84 -> 2813.44]  So he has to be surprised.
+[2814.84 -> 2815.84]  So what is better than yours?
+[2815.84 -> 2821.84]  He knows the facility.
+[2821.84 -> 2827.84]  So he knows the facility.
+[2827.84 -> 2841.36]  That is what it is.
+[2841.36 -> 2848.36]  Trust me, that is because of the reputation of this organization.
+[2848.36 -> 2850.36]  Maybe the company has built.
+[2850.36 -> 2855.32]  they must have neglected that part. they must have not seen it.
+[2856.68 -> 2859.88]  We have to struggle a lot.
+[2873.92 -> 2876.96]  and this is why we are so hardcore about
+[2876.96 -> 2889.73]  We do not let you deviate from that because we know that is what is going to work and then
+[2889.73 -> 2890.73]  again you know.
+[2920.73 -> 2928.50]  So you are not going to get hurt.
+[2928.50 -> 2929.50]  Make sense guys?
+[2929.50 -> 2934.02]  Yes sir.
+[2934.02 -> 2935.02]  Fair.
+[2935.02 -> 2941.42]  It is a friend of mine who is 50 miles away.
+[2941.42 -> 2946.62]  You should always write that the candidate is these many miles away and is eligible to
+[2946.62 -> 2947.62]  be a traveler.
+[2947.62 -> 2948.62]  How many miles?
+[2948.62 -> 2950.93]  50 miles radius.
+[2950.93 -> 2956.14]  If you get a driver license you have to travel.
+[3020.97 -> 3053.93]  Like we were discussing license this has to be in hand at the time of submission had this
+[3053.93 -> 3058.49]  been written that it is required at the time of offer. We could have given an exception
+[3058.49 -> 3063.49]  to get a VLS expired and the person will get renewed upon offer. But in this case, that
+[3063.49 -> 3069.56]  is not going to work. They need it at the time of the submission. With that in place,
+[3069.56 -> 3075.68]  like we were discussing floating, traveler may be floated to any Cone Health campus as
+[3075.68 -> 3081.12]  needed. You will have to check with a candidate that if he or she is comfortable floating
+[3081.12 -> 3082.56]  to the other facilities.
+[3090.48 -> 3093.32]  Yeah, let's go back to that unit thing because I just want to finish it off.
+[3098.70 -> 3101.90]  Orientation details, like 48 hours. It doesn't matter.
+[3110.98 -> 3116.38]  Again, you know, can anyone be back? I mean, I you're just in front of me. So can you
+[3116.38 -> 3117.46]  explain to me is,
+[3117.46 -> 3118.46]  what does this mean?
+[3118.46 -> 3124.76]  That they will take only one request. You have to mention at the time of submission.
+[3124.76 -> 3129.64]  And if they give us an offer after that, they will not accept if a candidate has any
+[3129.64 -> 3130.96]  request for time off.
+[3132.96 -> 3139.88]  Okay, so suggest I understand your explain one request, one span of time is
+[3139.88 -> 3145.84]  that's it. That's it. That one block, one block of vacation, one span of time.
+[3145.84 -> 3149.68]  That's it. That one block, one block of vacation would be allowed.
+[3162.44 -> 3165.36]  What she's trying to say is it can be 10th.
+[3165.36 -> 3170.48]  Say if your candidate needs day off on 10th and 12th. It can be 10th to 12th.
+[3170.48 -> 3172.32]  It cannot be 10 and 12th.
+[3173.68 -> 3175.84]  If you say 10th and 12th, yeah.
+[3184.10 -> 3187.82]  It's not a travel experience.
+[3187.82 -> 3190.82]  I think this is a...
+[3213.30 -> 3214.90]  Why is this point important?
+[3215.90 -> 3217.90]  Harchada, you cannot answer this question.
+[3217.90 -> 3221.90]  No, Harchada, somebody else tells me.
+[3221.90 -> 3222.90]  No.
+[3223.90 -> 3231.35]  Yeah, we are on camera.
+[3231.35 -> 3232.35]  Go ahead.
+[3232.35 -> 3236.87]  Yes sir. So in my perception, it is really important because some of the
+[3236.87 -> 3240.35]  candidate doesn't have the particular colour for that particular scrub.
+[3240.35 -> 3244.35]  If for example, in the other facility, for which facility we are going to
+[3244.35 -> 3248.35]  submit the candidate and the previous experience that particular candidate
+[3248.35 -> 3251.35]  having the red scrub, but here it is required blue.
+[3251.35 -> 3254.35]  So we need to ask the candidate, do you have that particular scrub?
+[3254.35 -> 3256.35]  So that's why.
+[3256.35 -> 3257.35]  Yes.
+[3257.35 -> 3260.35]  This is the...
+[3260.35 -> 3265.35]  So, this is the explicit meaning.
+[3265.35 -> 3268.35]  What is the implicit meaning of this?
+[3268.35 -> 3274.00]  Anybody knows that?
+[3274.00 -> 3275.00]  Talk about that.
+[3275.00 -> 3276.00]  What is the case?
+[3276.00 -> 3277.00]  What is the case of the facility?
+[3277.00 -> 3279.00]  It is called scrub colour.
+[3280.00 -> 3281.00]  Yes.
+[3281.00 -> 3285.00]  And majority of the nurses hate white.
+[3285.00 -> 3287.00]  So, what is the case?
+[3287.00 -> 3288.00]  What is the case?
+[3288.00 -> 3289.00]  What is the case?
+[3289.00 -> 3290.00]  What is the case of the candidate?
+[3290.00 -> 3291.00]  What is the case of the candidate?
+[3291.00 -> 3294.00]  What is the case of the scrub colour white?
+[3294.00 -> 3295.00]  What is the case of the job?
+[3295.00 -> 3302.82]  What is the case of the white scrub?
+[3302.82 -> 3306.82]  So, this is why this always needs to go into your selling points.
+[3306.82 -> 3309.82]  That candidate is okay with a...
+[3309.82 -> 3314.22]  Cissor blue scrub colours.
+[3314.22 -> 3322.22]  I think I told you guys a lot of things that need to go into the selling point.
+[3322.22 -> 3324.22]  I hope somebody was making notes of that.
+[3324.22 -> 3327.22]  I hope somebody was making notes of that.
+[3327.22 -> 3331.22]  Otherwise, next time, I will review the cardiothos.
+[3331.22 -> 3333.22]  Just go over it one more time with them.
+[3333.22 -> 3336.22]  But you understand now why it is so important.
+[3336.22 -> 3339.22]  So, I think that this is why this blue is not a bad thing.
+[3339.22 -> 3342.22]  It is because the car is not a bad thing.
+[3342.22 -> 3346.22]  So, I think that this is why this blue is not a bad thing.
+[3346.22 -> 3349.22]  But whatever reason, blue does not fit my skin colour.
+[3349.22 -> 3352.22]  Why blue is not a bad thing?
+[3352.22 -> 3358.22]  I think it is because the candidate is a good job.
+[3358.22 -> 3362.36]  It is a blue color.
+[3362.36 -> 3364.36]  But it is also because of white colour.
+[3364.36 -> 3367.36]  So, white colour is a bad thing.
+[3367.36 -> 3369.36]  So, white colour is a bad thing.
+[3369.36 -> 3371.36]  White colour is a bad thing.
+[3371.36 -> 3376.28]  So, this is why you have to read it, boss.
+[3376.28 -> 3383.44]  You have to read it over here.
+[3383.44 -> 3385.44]  Take it away.
+[3385.44 -> 3389.44]  Then there is one more thing that the scrub will be provided.
+[3389.44 -> 3394.44]  If this was a tick on the provided part, they would have provided.
+[3394.44 -> 3400.44]  Now that they are not providing it, the candidate has to get his own scrub.
+[3400.44 -> 3402.44]  That is why also colour is important.
+[3402.44 -> 3406.44]  Remember, P.J. and the candidate showed up at the facility in the wrong scrubs.
+[3406.44 -> 3410.44]  They terminated the contract or something like that.
+[3410.44 -> 3414.44]  They told them that they were not providing it.
+[3414.44 -> 3418.44]  They told them that they were not providing it.
+[3418.44 -> 3421.44]  They told them that they were not providing it.
+[3421.44 -> 3423.44]  They told them that they were not providing it.
+[3423.44 -> 3428.44]  Whatever screw up happened because of scrubs, that happened.
+[3428.44 -> 3434.44]  But the facility might even send a candidate back.
+[3434.44 -> 3441.51]  So, that is how important the scrub colour is.
+[3441.51 -> 3450.96]  Guys, anything that anybody did not understand,
+[3450.96 -> 3454.96]  any poor part that you want us to go over with you back again.
+[3454.96 -> 3456.96]  Yes, you want.
+[3456.96 -> 3459.96]  Sir, I just wanted to check regarding the orientation details.
+[3459.96 -> 3461.96]  It is mentioned like 48 hours.
+[3461.96 -> 3466.96]  Does it mean like only 16 hours is non-beliable and rest 2 hours are available?
+[3466.96 -> 3468.96]  What does it mean 48 hours are non-beliable?
+[3468.96 -> 3470.96]  48 hours is non-beliable.
+[3470.96 -> 3477.16]  This is why it is important you have to check over here.
+[3477.16 -> 3484.14]  Sir, as discussed today, like I discussed the same with Sunita,
+[3484.14 -> 3488.14]  and she told me the orientation hours will be 16,
+[3488.14 -> 3493.14]  as the orientation will be 48, but only 16 hours will be non-beliable.
+[3493.14 -> 3495.14]  This is what she told me.
+[3495.14 -> 3496.14]  Okay.
+[3496.14 -> 3498.14]  Look, I could be wrong.
+[3498.14 -> 3501.14]  So, I would rather go with whatever Harshita is saying.
+[3501.14 -> 3503.14]  Yes, sir.
+[3505.14 -> 3512.68]  Like him, did she check from the PO or how did she check?
+[3512.68 -> 3523.68]  She just told me that these are the orientation hours given by the facility.
+[3523.68 -> 3526.68]  But you heard of her own health right previously.
+[3526.68 -> 3530.68]  So, let's check all of those details that we must have shared in.
+[3531.68 -> 3540.68]  When you accept the PO, this is exactly what you need to check.
+[3540.68 -> 3542.68]  That is what you need to check.
+[3542.68 -> 3545.68]  So, that is what you need to check.
+[3545.68 -> 3564.76]  So, that is one thing that leads.
+[3564.76 -> 3574.76]  So, you need to know that you must accept the trigger.
+[3574.76 -> 3581.34]  Okay.
+[3581.34 -> 3584.34]  And you have to check the dates.
+[3584.34 -> 3586.34]  So, you have to check the dates.
+[3586.34 -> 3588.34]  So, you have to check the dates.
+[3588.34 -> 3592.29]  So, you have to check the dates.
+[3592.29 -> 3598.57]  Okay.
+[3598.57 -> 3599.57]  Okay.
+[3599.57 -> 3601.57]  Yeah, now you can go to the...
+[3601.57 -> 3603.57]  Just one more thing.
+[3603.57 -> 3606.57]  Anybody else who has any questions?
+[3606.57 -> 3623.01]  When it says unit accepts first-time travelers, it says travel experience required, no.
+[3623.01 -> 3627.68]  But they do accept first-time travelers.
+[3627.68 -> 3629.68]  You see, travel experience, no.
+[3629.68 -> 3631.68]  But travel experience is a plus as well.
+[3631.68 -> 3649.70]  So, this is something which is required and they do accept first-time travelers.
+[3649.70 -> 3653.70]  There was one more thing.
+[3653.70 -> 3657.81]  I wanted to end.
+[3657.81 -> 3659.81]  Yeah, I think I'm good.
+[3659.81 -> 3662.81]  Coming back to the job details part.
+[3662.81 -> 3670.31]  So, whatever information you find here, you might have to...
+[3670.31 -> 3676.31]  If the information contradicts from here along with that, the one in the unit details,
+[3676.31 -> 3679.31]  always consider the one which is there in the unit details.
+[3679.31 -> 3684.31]  Because here, the details which are mentioned here, these are almost...
+[3684.31 -> 3687.31]  Maximum number of times, these are copy-placed.
+[3687.31 -> 3690.31]  Here, they see cone here, MSP.
+[3690.31 -> 3695.75]  They will always put by default information.
+[3695.75 -> 3699.75]  So, always consider the one which has the unit details,
+[3699.75 -> 3701.75]  which is there in the unit details.
+[3701.75 -> 3708.76]  Then you'll always see a shift was 3 into 12.
+[3708.76 -> 3713.76]  But here, what they accept is day shift is 7 to 7.30
+[3713.76 -> 3718.76]  and then night was 7.30 in the morning.
+[3718.76 -> 3723.81]  Because this was night, that is why this is here.
+[3723.81 -> 3730.81]  Had this been days, too, you would have considered 7 to 7.30 in the evening.
+[3730.81 -> 3733.81]  Job location, this is again very important why.
+[3733.81 -> 3738.81]  Always and always check this, that if there is any local radius rule,
+[3738.81 -> 3744.81]  you will always have to check this address with the one you have.
+[3744.81 -> 3746.81]  And then address is important.
+[3746.81 -> 3748.81]  This is the type check.
+[3748.81 -> 3752.81]  The facility or the address, the trauma level,
+[3752.81 -> 3754.81]  facility to facility changes.
+[3754.81 -> 3758.81]  Teaching type, the vote, the bed size, this is the change.
+[3758.81 -> 3762.81]  This is why you want to make sure that you put in not just the name of the facility,
+[3762.81 -> 3764.81]  but the address.
+[3764.81 -> 3771.37]  When you are checking, what you have.
+[3771.37 -> 3775.65]  Then again, block schedules, it says no.
+[3775.65 -> 3780.65]  But if this has been, this would have reflected as yes,
+[3780.65 -> 3783.65]  you will again have to check with the candidate if he's okay with that.
+[3783.65 -> 3792.76]  With that in place, all of the COVID-19 and everything, it is required.
+[3792.76 -> 3796.76]  Now, if we know what's wrong, let's go section by section.
+[3796.76 -> 3797.76]  Let's not.
+[3797.76 -> 3800.76]  Page rate, pay when paid, overtime multiplier.
+[3800.76 -> 3802.76]  Yeah, that's right.
+[3802.76 -> 3806.76]  Again, 48 hours in one week, 1.25.
+[3806.76 -> 3810.76]  That would mean that while we have to pay the candidate overtime,
+[3810.76 -> 3815.20]  the facility is not paying us the overtime.
+[3815.20 -> 3817.20]  And even when they will pay us the overtime,
+[3817.20 -> 3819.20]  1.25 is the overtime.
+[3819.20 -> 3824.73]  1.59 is the overtime.
+[3824.73 -> 3826.73]  The overtime,
+[3826.73 -> 3830.73]  the candidate has the charge, except for the year.
+[3830.73 -> 3832.73]  So you get $5 more.
+[3832.73 -> 3835.73]  On call, written on the data.
+[3838.14 -> 3840.14]  And let me ask somebody else.
+[3840.14 -> 3844.14]  Can somebody explain to me the difference between on call and call back?
+[3844.14 -> 3846.14]  Harald, can you do that?
+[3846.14 -> 3851.34]  Sure, sir.
+[3851.34 -> 3857.34]  So on the meaning of on call is like the nurse is,
+[3857.34 -> 3859.34]  like the nurse is in the hospital.
+[3859.34 -> 3865.34]  And if she goes back to the home,
+[3865.34 -> 3868.34]  so from there, if the call can come,
+[3868.34 -> 3871.34]  so she has to come back to the hospital.
+[3871.34 -> 3875.34]  And the call back is like she can work from,
+[3875.34 -> 3885.00]  she has to be present in the hospital.
+[3885.00 -> 3887.00]  Kind of sort of, I know what you are trying to say,
+[3887.00 -> 3889.00]  but you still didn't explain it properly.
+[3889.00 -> 3891.00]  Anybody else wants to explain it?
+[3891.00 -> 3893.00]  Safna, you want to do that?
+[3893.00 -> 3899.84]  Yes, sir.
+[3899.84 -> 3902.84]  So the on call is when there is an emergency in the hospital,
+[3902.84 -> 3907.84]  so they will ask her nurse to schedule on a call outside the hospital.
+[3907.84 -> 3910.84]  She has to be available for the on call.
+[3910.84 -> 3915.84]  And call back is when she has to be present in the facility.
+[3915.84 -> 3922.59]  Yes, kind of correct.
+[3922.59 -> 3924.59]  So let me explain it to you guys.
+[3924.59 -> 3926.59]  In plain simple English.
+[3926.59 -> 3937.59]  What it means is, if I say you have to be on call from my shift ends at 7.30,
+[3937.59 -> 3941.59]  let's assume the shift ends in the evening at 7.30.
+[3941.59 -> 3947.59]  And I say you have to be on call from 10 p.m. to 1 a.m.
+[3947.59 -> 3949.59]  or 8 p.m. to 1 a.m.
+[3949.59 -> 3954.59]  Or you have to be on call from 7 p.m. to 7 a.m. in the morning.
+[3954.59 -> 3956.59]  That means,
+[3956.59 -> 3985.70]  I am compensating you with $7.50.
+[3985.70 -> 3990.06]  Akar mein abkoh on call jaap mein abkoh bhola wa abkoh on call rahoh.
+[3990.06 -> 3992.18]  Or mein abkoh call kar diya.
+[3992.18 -> 3994.14]  To come to the facility.
+[3994.14 -> 3999.26]  To firme abkoh, he call back time which is just jabap apne gharse nahi kalte.
+[3999.26 -> 4000.94]  Mein gharse yeh tapshiro jaat hain kal.
+[4000.94 -> 4003.46]  So 1.25 times johe hai.
+[4003.46 -> 4006.18]  Hame wo dengar again hain mein do bataag hai over time shiro jaag hai.
+[4006.18 -> 4009.86]  Ya call back rate.
+[4009.86 -> 4012.50]  Rajeev, call back is after the shift.
+[4012.50 -> 4013.50]  Ya ya ya.
+[4013.50 -> 4014.74]  After the shift if they ask.
+[4014.74 -> 4015.74]  Ya.
+[4015.74 -> 4016.74]  Two states.
+[4016.74 -> 4019.50]  One call and they have to come back.
+[4019.50 -> 4022.02]  So that's the call back.
+[4022.02 -> 4023.02]  So tap.
+[4023.02 -> 4024.02]  Hame yeh hain mein de nah padayga.
+[4024.02 -> 4027.02]  Ma hain mein to johe be rate de nah padayga, only de nah padayga.
+[4027.02 -> 4028.02]  Right.
+[4028.02 -> 4029.02]  But professor Reddy will.
+[4029.02 -> 4031.42]  So this is the basically the difference between these on call.
+[4031.42 -> 4032.42]  On call kamat labhat.
+[4032.42 -> 4035.50]  Aabhune gharah yeh bahiya tum pati manana kainee jana.
+[4035.50 -> 4036.50]  Be available.
+[4036.50 -> 4040.10]  Or to be available, ham tume sa dollar n 50 cents.
+[4040.10 -> 4043.10]  Un han toke lain, de hain toke lain han toke lain han nana dar hain vara bhi havara.
+[4043.10 -> 4044.10]  Lage nakar zurat pad gayi.
+[4044.10 -> 4045.10]  Hortume bapas hana.
+[4045.10 -> 4047.10]  Then of course we will have to pay you time.
+[4047.10 -> 4048.10]  Right.
+[4048.10 -> 4049.10]  We will have to compensate your time.
+[4049.10 -> 4052.10]  So that is the call back.
+[4052.10 -> 4055.98]  Pay the shift ends at 7.30 in the morning and you were working.
+[4055.98 -> 4061.10]  You were on call back till 9.30 then you will be compensated for 7.30 from 7.30 to 9.30
+[4061.10 -> 4064.46]  on 1.25 times of the pay rate.
+[4064.46 -> 4065.46]  This is what the client is going to be last.
+[4065.46 -> 4067.46]  If they continued but not there.
+[4067.46 -> 4068.46]  Yes.
+[4068.46 -> 4070.98]  But it does not mean only continuation of work.
+[4070.98 -> 4075.94]  It also means if they went back home and then they had to come back.
+[4075.94 -> 4084.22]  So any time that they come back and work all of that time would be that.
+[4084.22 -> 4086.34]  So one of our friend is a cardiologist and believe me.
+[4086.34 -> 4089.34]  Jabin ham pati manare othe ho hamay shaun kali oda hai.
+[4089.34 -> 4091.34]  Har hamay chaw sku pala jatia.
+[4091.34 -> 4094.34]  Ho hai rupi bibi do no different different cards manat hain.
+[4094.34 -> 4097.34]  Kage pata hai kar kal aag hai tojana padega.
+[4097.34 -> 4098.34]  Hah hai hai.
+[4098.34 -> 4099.34]  Ho hai hai hai hai.
+[4099.34 -> 4100.34]  Hah hai hai.
+[4100.34 -> 4101.34]  Hah hai hai.
+[4101.34 -> 4103.18]  So that he can leave.
+[4103.18 -> 4105.54]  So I know this thing very well because you know.
+[4105.54 -> 4106.54]  No, the kathas.
+[4106.54 -> 4107.54]  Jaap bata hai hai hai.
+[4107.54 -> 4112.43]  You know, tabhi teri kala hai tihi.
+[4112.43 -> 4113.43]  Okay.
+[4113.43 -> 4114.43]  Facility details.
+[4114.43 -> 4117.35]  This will have the facility address.
+[4117.35 -> 4121.91]  You will always find cone help MSP but there would be different different different different
+[4121.91 -> 4122.99]  locations.
+[4122.99 -> 4130.71]  So you will always have to check this job location rather than this one.
+[4130.71 -> 4132.75]  And schedule again block schedules.
+[4132.75 -> 4133.75]  No.
+[4133.75 -> 4136.03]  If this was yes you will have to check with the candidate.
+[4136.03 -> 4138.35]  All details observed holidays.
+[4138.35 -> 4145.43]  When they say that candidate will be compensated on 1.25, I mean we would be compensated on
+[4145.43 -> 4149.07]  1.25 times of the bill rate.
+[4149.07 -> 4152.31]  These are the holidays we are eligible for.
+[4152.31 -> 4153.31]  This 1.5 times.
+[4153.31 -> 4158.79]  Is nisargarpuhi auditing holiday, we cannot go back to the client saying 1.5 time compensate
+[4158.79 -> 4162.73]  for the because the candidate worked.
+[4162.73 -> 4166.33]  So, this is the case with Martin Luther King who has a federal holiday.
+[4166.33 -> 4167.33]  Again, Jaap bana hai.
+[4167.33 -> 4168.33]  So it does not matter.
+[4168.33 -> 4184.92]  One more thing that when this is something which is, which is related to us that the client
+[4184.92 -> 4185.92]  is billing us.
+[4185.92 -> 4192.76]  You will always have to check the holiday multiplier, the overtime multiplier and all
+[4192.76 -> 4196.72]  of the other multipliers as per the state rule as well.
+[4196.72 -> 4200.60]  Our candidate will be able to that as per the state mandate 1.5 times.
+[4200.60 -> 4205.08]  You didn't check that but you will go back to the candidate saying 1.25 times.
+[4205.08 -> 4209.52]  You will always have to check the state law and then speak with the candidate.
+[4209.52 -> 4210.52]  Minimum wage rate.
+[4210.52 -> 4216.03]  Then again, COVID-19.
+[4216.03 -> 4217.03]  Jaap bana hai.
+[4217.03 -> 4219.75]  Since flu vaccination is required.
+[4219.75 -> 4223.51]  Yes this is required at the time of the offer but you will always have to check
+[4223.51 -> 4226.43]  with the candidate if they have flu vaccination or no.
+[4226.43 -> 4230.31]  Or if there are any medical or religious exemptions.
+[4230.31 -> 4234.11]  In case there are any medical or religious exemptions please do go to the onboarding
+[4234.11 -> 4239.99]  team or do come to us checking in if this is something which is acceptable or no.
+[4239.99 -> 4242.79]  We do not want any backouts at the time of offers.
+[4242.79 -> 4256.17]  Sir, this is like some things that the religion,
+[4287.48 -> 4301.96]  the religion, the religion, the religion, the religion.
+[4301.96 -> 4312.64]  But you cannot use that because you will find lot of facilities.
+[4312.64 -> 4314.64]  They do not give the exemption.
+[4314.64 -> 4325.13]  Let's go over the job overview first and then we will go to the other side.
+[4325.25 -> 4328.41]  So job overview will always have the description.
+[4328.41 -> 4329.41]  Jaap bana hai.
+[4329.41 -> 4330.41]  Kuthu line of description.
+[4330.41 -> 4331.41]  Minsakti hai.
+[4331.41 -> 4332.41]  And a scc body description.
+[4332.41 -> 4333.41]  Minsakti hai.
+[4333.41 -> 4335.81]  But again you will have to refer to any details.
+[4335.81 -> 4339.97]  When they say that you have to answer the following questionnaire that doesn't mean
+[4339.97 -> 4344.09]  that this is the only questionnaire you will have to add in the selling points.
+[4344.09 -> 4346.73]  This is one of the additional part which you have to add.
+[4346.73 -> 4353.09]  But make sure to always and always answer this at the time of submission itself.
+[4353.09 -> 4360.13]  Is your candidate aware that they have been submitted on this XYZ location and have they
+[4360.13 -> 4361.61]  reviewed the job description?
+[4361.61 -> 4363.65]  It should always be Y or N.
+[4363.65 -> 4365.49]  Do not add yes or no.
+[4365.49 -> 4370.57]  Jaise likha vah vah se likna y or n likha to y and n he likna hai.
+[4370.57 -> 4372.81]  Yes or no mat likna.
+[4372.81 -> 4377.01]  Is your candidate flexible with scheduling and aware that the client has zero tolerance policy
+[4377.01 -> 4382.05]  and so read all of these questions and then answer accordingly.
+[4382.05 -> 4383.05]  Yes or no.
+[4383.05 -> 4387.13]  It doesn't mean that you go ahead yourself and write yes to all of them.
+[4387.13 -> 4391.21]  What it means is, kiaap uz bande ko patao ghe.
+[4391.21 -> 4396.01]  You will tell this to that candidate of yours, kibos in kie hai.
+[4396.01 -> 4397.01]  Are you okay with that?
+[4397.01 -> 4398.01]  Do you accept?
+[4398.01 -> 4401.61]  You know, literally, you know, are you okay with this?
+[4401.61 -> 4405.89]  You know, they're not having any zero tolerance for tardiness and absence.
+[4405.89 -> 4410.81]  You know, are there any barriers that will prevent you from completing compliance on
+[4410.81 -> 4411.81]  time?
+[4411.81 -> 4412.81]  Yes or no.
+[4412.81 -> 4413.81]  The compliance, the headline is 12 in the bedrooms.
+[4413.81 -> 4415.81]  They prior to the start date.
+[4415.81 -> 4418.81]  So, ye aku bataana padega.
+[4418.81 -> 4422.65]  Or, ye, nak paeya bataana.
+[4422.65 -> 4425.97]  Again, let me ask somebody.
+[4425.97 -> 4429.53]  Let me ask Sapna Goswami this time.
+[4429.53 -> 4433.81]  So Sapna, agar nai k bande ko me aaju svan desa baab karang.
+[4433.81 -> 4437.85]  Okay, our job kis star date hai 9 manki.
+[4437.85 -> 4441.41]  Or end date hai whatever, 12, 30 ki, right?
+[4441.41 -> 4443.41]  Tamai rtos ka ke manga.
+[4443.41 -> 4449.56]  Rtos ka ke manga.
+[4449.56 -> 4452.56]  You take kis duration ka rtos dane baab karang.
+[4452.56 -> 4461.00]  Requested time of like after one or two week of the joining, we will ask.
+[4461.00 -> 4465.64]  One or two week after the joining to mardang hai.
+[4465.64 -> 4466.64]  No.
+[4466.64 -> 4467.64]  Okay.
+[4467.64 -> 4473.19]  Just lean abatab.
+[4473.19 -> 4480.79]  When we call, we ask them that what are the requested time offs that you need.
+[4480.79 -> 4481.79]  Okay.
+[4481.79 -> 4483.79]  What kis duration ke manga?
+[4483.79 -> 4491.03]  Bahra gust hai, bande ki start job, date of start, ke kita first September hai.
+[4491.03 -> 4494.03]  And end 30th December hai.
+[4494.03 -> 4497.03]  What kis duration ke rtos manga?
+[4497.03 -> 4500.03]  What kis duration ke rtos dane hai?
+[4500.03 -> 4503.03]  What are 13 weeks haos ke?
+[4503.03 -> 4504.03]  Okay.
+[4504.03 -> 4516.27]  Anybody who disagrees with her, anybody who agrees with her, if you agree, say that.
+[4516.27 -> 4518.27]  But what hapig wahi hain hai?
+[4518.27 -> 4519.27]  Yes, wala hai.
+[4519.27 -> 4520.27]  Haar o tahne wala.
+[4520.27 -> 4521.27]  Tho wo hot hake manga ya bata.
+[4521.27 -> 4522.27]  All those who agree with her.
+[4522.27 -> 4538.34]  Okay.
+[4538.34 -> 4541.34]  Haar shara toh me bata hai.
+[4541.34 -> 4543.34]  You do not agree with them.
+[4543.34 -> 4550.34]  Yes sir, I don't agree with them because the rtos should be from the date of submission.
+[4550.34 -> 4561.16]  If I am submitting the candidate now, today, so I should know when the time of is from today to the end of the assignment.
+[4561.16 -> 4562.16]  Okay, you are having the on-boarding process as well.
+[4562.16 -> 4563.16]  Right.
+[4563.16 -> 4564.16]  You think the on-boarding, yes sir.
+[4564.16 -> 4565.16]  We missed that part, yeah.
+[4565.16 -> 4566.16]  Of course.
+[4566.16 -> 4569.16]  So now I am disagreeing with you.
+[4569.16 -> 4572.48]  Thar manga, you are working for him.
+[4572.48 -> 4573.48]  Yes.
+[4573.48 -> 4582.48]  Because one of my candidate went on vacations and later when she came back, her leg got fractured and due to that, the assignment was cancelled.
+[4583.48 -> 4586.48]  M, why is that important, right?
+[4586.48 -> 4592.48]  Aya me, again, haar aa nahi na baudh area bata aadi aa nahi ke kesin hai.
+[4592.48 -> 4593.48]  Time of lya bai.
+[4593.48 -> 4595.48]  Ferebi ki sikha, except ho gay ho gaya.
+[4595.48 -> 4598.48]  I can tell you there are a lot of account managers in aya.
+[4598.48 -> 4605.48]  Aa ghar bande ga koi bhi, time of during the, from today till the on-boarding process, where stardate me.
+[4606.48 -> 4612.48]  Aa ghar koi ji bhi una, request time of un hone wo kandit kabhi, except karna hai na hai.
+[4612.48 -> 4616.88]  Tukhi, risk hai.
+[4617.88 -> 4623.88]  Banda ga koch ho gaya, ye ho gaya, boh ho gaya, you know, wo rest na hai na chattai hai.
+[4625.88 -> 4635.88]  Tukhi abhavo kandaka hai, ke dee haam ne haam skedul kararete, ye gararete, aam hai chhotiyage, aam hai chadage, kos ke vezhe stardit pusho hai, un ko ye rakte, stardit pusho hai jareke.
+[4636.88 -> 4641.88]  Tia banda aori stard kar gaya, ho ske baad go, beach man doh din kyut chhoti laili, ye it's okay.
+[4641.88 -> 4645.88]  Tukhi, assignment stard ke nahi ga bhaad ga beach man chodh de hai, the penalties wo haan, right?
+[4645.88 -> 4650.88]  Hambh hai bhi penalty hai, ho ske bhaad ne, ho ske bhi penalty hai, aabhi doh koi penalty, ke ke nahi.
+[4650.88 -> 4659.20]  Toh, they do not want to take a risk. It's a very big risk.
+[4659.20 -> 4664.20]  Aya kusan, you know, like, just leave me, you understand what I'm trying to explain.
+[4664.20 -> 4675.11]  Tadaa me rakko, ki kyaasan, ye haam hai.
+[4676.11 -> 4683.11]  Ki matlab chabhan kyaan di reit ko matlab pusht hain hai, tabham usi from the time like.
+[4685.11 -> 4691.11]  Ki matlab onboarding times, pal, ye sein pushli, ke ke jo bhi te rei matlab hai, artyo zho gara.
+[4691.11 -> 4694.36]  Kike wo risk hai.
+[4694.36 -> 4700.36]  Ka hai, hamne bohat hai fati ka hai, more, it happens more than, you know, often.
+[4700.36 -> 4705.36]  Ki, ki, pusht hai, me pushna kus ho jataa, ban naga kis, ye me reit ho, ye ho gayi, me ban chala, ye ho gaya,
+[4705.36 -> 4709.36]  ye mohog, ye hai, ye she kadul ni, ya hiya, ye hiya, ye me bahamsa bahamsa, aang hai,
+[4709.36 -> 4714.36]  ye nahi hora, right, I mean fair ko choh, ye hai, aau, sta, ke started, push oni shi roti hai,
+[4714.36 -> 4719.36]  ye hai, roos ke baaj hai, kani, hai, klyan, ye hai, they get upset at us and then they cancel.
+[4719.36 -> 4722.36]  Baata kya hai, hai, mein bhande kale hai, hai, mein bhande kale hai, hai, mein bhandi kale,
+[4722.36 -> 4723.36]  ke hain, ye haam, position cancel.
+[4723.36 -> 4725.36]  But literally, ye ho jataa, the frustration ho jataa, ye hai.
+[4725.36 -> 4745.44]  So, it is very important that you have a BPP, which is a start date, and start date is a start date.
+[4745.44 -> 4749.44]  So, you have to have a decision to make a decision.
+[4749.44 -> 4752.44]  You have to have a client to make a decision.
+[4752.44 -> 4756.44]  So, you have to have a client to make a decision to make a decision.
+[4756.44 -> 4760.75]  So, you have to have a risk.
+[4760.75 -> 4772.00]  So, knowing the risk, you have to have a client to confirm that you have a boss to make a decision.
+[4772.00 -> 4783.00]  You have to have a conversation with the candidate.
+[4783.00 -> 4787.00]  How would you make sure that you have a client to make a decision?
+[4788.00 -> 4791.00]  So, you have to have a client to make a decision.
+[4791.00 -> 4795.00]  So, you have to have a client to make a decision.
+[4795.00 -> 4801.48]  So, you have to have a scenario to make a decision.
+[4801.48 -> 4809.92]  So, it is very, very important that you should know if there are any RTOs even during that time.
+[4809.92 -> 4818.76]  So, you have to have a risk.
+[4818.76 -> 4829.48]  You have to have a knowing risk.
+[4830.48 -> 4834.48]  Now, let's go back to this question.
+[4834.48 -> 4837.48]  Question number three.
+[4837.48 -> 4849.48]  Are there any barriers that would prevent you from completing a plan?
+[4849.48 -> 4852.48]  Of course, the same thing you just explained.
+[4853.48 -> 4854.48]  Right?
+[4854.48 -> 4855.48]  Yes.
+[4855.48 -> 4856.48]  Are there any barriers?
+[4856.48 -> 4857.48]  Upcoming vacation?
+[4857.48 -> 4858.48]  Yes.
+[4858.48 -> 4859.48]  No, sir, but maybe later started over.
+[4859.48 -> 4860.48]  Yes.
+[4860.48 -> 4861.48]  Maybe.
+[4861.48 -> 4862.48]  Maybe, yes.
+[4862.48 -> 4863.48]  Yes.
+[4863.48 -> 4864.48]  Yes.
+[4864.48 -> 4865.48]  Yes.
+[4865.48 -> 4866.48]  Yes.
+[4866.48 -> 4870.64]  Yes.
+[4870.64 -> 4871.64]  Yes.
+[4871.64 -> 4872.64]  Yes.
+[4872.64 -> 4873.64]  Yes.
+[4873.64 -> 4874.64]  Yes.
+[4874.64 -> 4875.64]  Yes.
+[4875.64 -> 4876.64]  Yes.
+[4876.64 -> 4877.64]  Yes.
+[4877.64 -> 4878.64]  Yes.
+[4878.64 -> 4881.18]  Yes.
+[4881.18 -> 4882.18]  Yes.
+[4882.18 -> 4883.18]  Yes.
+[4883.18 -> 4884.18]  Yes.
+[4884.18 -> 4885.18]  Yes.
+[4885.18 -> 4886.18]  Yes.
+[4886.18 -> 4887.18]  Yes.
+[4887.18 -> 4888.18]  Yes.
+[4888.18 -> 4889.18]  Yes.
+[4889.18 -> 4890.18]  Yes.
+[4890.18 -> 4891.18]  Yes, sir.
+[4891.18 -> 4892.18]  You can always figure out from this.
+[4892.18 -> 4893.18]  Yes.
+[4893.18 -> 4894.18]  It means, candidates are in a separate age.
+[4894.18 -> 4900.18]  They are in a separate age.
+[4900.18 -> 4902.81]  Yes.
+[4902.81 -> 4903.81]  Yes.
+[4903.81 -> 4907.85]  Yes.
+[4907.85 -> 4908.85]  Yes.
+[4908.85 -> 4909.85]  Yes.
+[4909.85 -> 4910.85]  Yes.
+[4910.85 -> 4911.85]  Yes.
+[4911.85 -> 4912.85]  Yes.
+[4912.85 -> 4913.85]  Yes.
+[4913.85 -> 4914.85]  Yes.
+[4914.85 -> 4915.85]  Yes.
+[4915.85 -> 4916.85]  Yes.
+[4916.85 -> 4917.85]  Yes.
+[4917.85 -> 4918.85]  Yes.
+[4918.85 -> 4919.85]  Yes.
+[4919.85 -> 4920.85]  Yes.
+[4920.85 -> 4921.85]  Yes.
+[4921.85 -> 4929.85]  low. Client co-candidates, medium, sub-middle count.
+[4929.85 -> 4933.85]  That means no, co-exception.
+[4933.85 -> 4938.85]  Always seek.
+[4938.85 -> 4941.85]  And negotiate.
+[4941.85 -> 4950.85]  Try to be taken in concentration.
+[4950.85 -> 4952.85]  And then you have to be taken in the
+[4952.85 -> 4954.85]  same way.
+[4954.85 -> 4956.85]  That's not how things work.
+[4956.85 -> 4959.85]  The candidate is taking vacation.
+[4959.85 -> 4962.85]  The explanation is that the candidate is taking vacation.
+[4962.85 -> 4964.85]  The candidate is aware that they would have to finish.
+[4964.85 -> 4966.85]  All the compliance work before leaving on vacation.
+[4966.85 -> 4970.85]  I mean, yes, this conversation has happened with the candidate.
+[4970.85 -> 4976.85]  You understand just now how important that is?
+[4976.85 -> 4979.85]  The client is going to be aware that they would have to finish.
+[4979.85 -> 4987.36]  All the compliance work before leaving on vacation.
+[4987.36 -> 4994.08]  I mean, yes, this conversation has happened with the candidate.
+[4994.08 -> 5000.35]  So you understand just now how important that is?
+[5000.35 -> 5005.35]  The client is going to be aware that the important thing is
+[5005.35 -> 5007.35]  that they will not even move forward.
+[5007.35 -> 5009.35]  They will not even move forward.
+[5009.35 -> 5011.35]  They will not even move forward.
+[5011.35 -> 5013.35]  They will not even move forward.
+[5013.35 -> 5017.68]  They will not even move forward.
+[5017.68 -> 5023.43]  They will not even move forward.
+[5023.43 -> 5028.43]  Point number four.
+[5028.43 -> 5030.43]  I think that's all.
+[5030.43 -> 5033.28]  Point number four.
+[5033.28 -> 5036.28]  So there is an EKG exam.
+[5036.28 -> 5038.28]  Your candidate should be aware that
+[5038.28 -> 5040.28]  the co-candidates should be aware that
+[5040.28 -> 5042.28]  EKG exam is not qualified.
+[5042.28 -> 5046.28]  If they do not qualify, they could not be hired.
+[5046.28 -> 5050.28]  It's important that if they fail,
+[5050.28 -> 5052.28]  they will not be able to get married.
+[5052.28 -> 5054.28]  They will not be able to get married.
+[5054.28 -> 5056.28]  They will not be able to get married.
+[5056.28 -> 5065.34]  They will not be able to get married.
+[5065.34 -> 5068.34]  There is no ifs and buts at that point in time.
+[5068.34 -> 5072.34]  It was explicitly told to you that if you do not clear this,
+[5072.34 -> 5078.15]  you cannot start the assignment.
+[5078.15 -> 5112.26]  You have to have a certain degree of confidence.
+[5112.26 -> 5134.26]  I hope you understand.
+[5134.26 -> 5137.26]  These are all risks.
+[5137.26 -> 5139.26]  It is called risk mitigation.
+[5139.26 -> 5144.26]  In this case, you are trying to mitigate risk.
+[5144.26 -> 5146.26]  If you do not have an EKG exam,
+[5146.26 -> 5149.26]  you might get an EKG exam at the end of the day,
+[5149.26 -> 5152.26]  and you are not getting an EKG exam.
+[5152.26 -> 5154.26]  It is risk mitigation.
+[5154.26 -> 5160.88]  It does not mean that it is not an EKG exam.
+[5160.88 -> 5162.88]  When people fall out, everything happens.
+[5162.88 -> 5165.88]  But you cannot start the assignment.
+[5165.88 -> 5172.64]  You have to mitigate it.
+[5172.64 -> 5175.64]  Anybody who does not understand this,
+[5175.64 -> 5190.30]  Sakshi, Kolbir, Rajneesh, anybody who has any doubts on any of the items that I know you guys are on the page too.
+[5190.30 -> 5192.30]  So I forgot to ask you guys.
+[5192.30 -> 5196.30]  But I think it's clear now.
+[5196.30 -> 5205.25]  I don't know why people don't like talking to me. I'm the most hated person.
+[5205.25 -> 5206.25]  I don't know.
+[5206.25 -> 5209.25]  I don't know why people don't like talking to me.
+[5209.25 -> 5217.25]  But if you don't want to ask me, it would be perfectly fine that you can ask Nandani later on.
+[5217.25 -> 5224.25]  But I would want you to go away understanding all of these points.
+[5224.25 -> 5239.85]  I don't know if you have noticed this or not.
+[5239.85 -> 5245.85]  But in the unit detail section, telemetry experience was mentioned as preferred.
+[5245.85 -> 5248.85]  This was not required.
+[5248.85 -> 5252.85]  You see, preferred. Telemetry was under-preferred.
+[5252.85 -> 5260.85]  This was the sole net search position, but this was mentioned as an study due to EKG requirement.
+[5260.85 -> 5270.77]  You will have to get this thing checked with the organinidate that EKG is something which is very important.
+[5270.77 -> 5276.77]  If they can change the title of the job, that means this is something very, very important.
+[5276.77 -> 5281.77]  And the patient population, as in the ones they're going to deal with, the patient they are going to deal with,
+[5281.77 -> 5290.94]  would be the ones which are usually tackled by the net search nurses.
+[5290.94 -> 5296.94]  Then 3s to 12 are the shift timings, days, and 71 to 7 p.m.
+[5296.94 -> 5299.94]  The audit says nights.
+[5299.94 -> 5301.94]  You will have to be very, very careful.
+[5301.94 -> 5307.94]  Now, this is something which is a copy paste thing.
+[5307.94 -> 5317.77]  This is a night's job. Always consider this one. Do not go after this.
+[5317.77 -> 5323.77]  Then EOW, every other weekend, is required. Holidays as needed.
+[5323.77 -> 5329.77]  You will have to check this thing with the candidate that if he or she is working on holidays or not.
+[5329.77 -> 5332.77]  And you will have to tell them that they will be compensated accordingly.
+[5332.77 -> 5334.77]  They will again check.
+[5334.77 -> 5337.77]  Eventually, you have no holiday.
+[5337.77 -> 5344.77]  Some candidates might tell you that I cannot work on this holiday, but I cannot work on this holiday.
+[5344.77 -> 5347.77]  So you would have to start writing that.
+[5347.77 -> 5357.72]  What happens is then, Haya goes and asks the physician if he is working on this holiday.
+[5357.72 -> 5362.72]  So, if they have to go on holiday coverage, then they will go ahead and check the holiday.
+[5366.85 -> 5367.85]  And one more thing.
+[5367.85 -> 5375.85]  If you are working on holidays, you will have to sell one point for a comfortable working on holidays.
+[5375.85 -> 5381.85]  You will have to make sure that these holidays are not included in the RTOs whenever there is this thing written.
+[5381.85 -> 5382.85]  Holidays are needed.
+[5382.85 -> 5388.28]  You understand that point?
+[5388.28 -> 5390.28]  What Nananija said?
+[5390.28 -> 5392.28]  Yes, sir.
+[5392.28 -> 5394.28]  Everybody else?
+[5394.28 -> 5400.72]  Sakshi, you understood that point?
+[5400.72 -> 5405.25]  Yes, sir.
+[5406.25 -> 5418.72]  Coming back to the float part again, candidate Kubatana, that candidate may have to float to any of the Kone Health facilities.
+[5418.72 -> 5431.02]  And he searched Kalena, maybe charged GPTs about Kalena Kaun, Kaun's Kone Health facilities.
+[5431.02 -> 5442.58]  I think it was N.C.
+[5464.76 -> 5472.11]  You can always and always find all of these information on charged GPT or maybe serve internet here and there.
+[5472.11 -> 5475.11]  And always cross verify information from charged GPT and Gemini.
+[5475.11 -> 5478.11]  They might contradict the information.
+[5478.11 -> 5487.45]  Minimum two years of experience required and first time travellers are okay.
+[5487.45 -> 5491.45]  Like we discussed, two years of experience means a minimum two years of experience.
+[5491.45 -> 5496.45]  Your one year and 11 months, one year, 10 months would not work.
+[5497.45 -> 5509.45]  First time travellers are okay, but you will have to get the confirmation again from the candidate and make sure that later on he or she doesn't back out from this first time traveller thing.
+[5509.45 -> 5517.45]  Let me ask, why do you think first time travellers are okay?
+[5517.45 -> 5518.45]  What would you do?
+[5518.45 -> 5522.45]  Why majority of the time they are not okay with first time travellers?
+[5526.49 -> 5534.49]  Because first time travellers may face issues in housing and the environment, culture and everything.
+[5534.49 -> 5535.49]  Exactly.
+[5537.49 -> 5541.49]  I think that if you travel, they do not know that there are 13 weeks of travel, right?
+[5541.49 -> 5546.49]  You can't wait for the next day, you can't wait for the next day, you can't wait for the next time, you can't wait for the next time.
+[5546.49 -> 5548.49]  I mean, that's a totally different experience.
+[5549.49 -> 5552.49]  If you travel, they should be able to adjust to this.
+[5552.49 -> 5562.49]  So this is why a lot of times, you know, or if you are a first time traveller, you have to go to a bus.
+[5562.49 -> 5565.49]  How do you think you will be able to manage all of this?
+[5566.49 -> 5571.49]  If somebody is travelling for the first time and you are putting their resume, do you even know this area?
+[5571.49 -> 5575.49]  No, I'm just saying, somebody might say, oh, I know Greensboro, I grew up over there.
+[5576.49 -> 5578.49]  Oh, I know Greensboro, I have friends over there, right?
+[5578.49 -> 5580.49]  So, who are the selling point?
+[5580.49 -> 5587.49]  The candidate is comfortable because he has friends and families in that area and a support system to help him out.
+[5588.49 -> 5589.49]  Right?
+[5589.49 -> 5595.49]  If you are a person travelling for the first time, he knows or she knows how to do this.
+[5596.49 -> 5599.49]  And worst case scenario is, there was already one support system.
+[5602.70 -> 5605.70]  You should have a conversation, how you would do this.
+[5606.70 -> 5607.70]  One more thing, guys.
+[5607.70 -> 5611.70]  For example, this is a situation question for everyone.
+[5612.70 -> 5623.70]  Say I have, or maybe I have an RN who has taken the licence in the month of March, in the month of March 2026.
+[5623.70 -> 5626.70]  Now, she wants to apply as a first time traveller.
+[5626.70 -> 5628.70]  Can I submit the candidate or no?
+[5629.70 -> 5630.70]  No.
+[5630.70 -> 5636.06]  And can somebody explain to me why?
+[5642.92 -> 5644.92]  I will simplify Nandini's question.
+[5645.92 -> 5647.92]  And I will simplify her question, right?
+[5647.92 -> 5649.92]  Because right now the question is very difficult.
+[5649.92 -> 5652.92]  You should know the exact answer, then only you can answer that.
+[5652.92 -> 5662.92]  I will simplify the question by saying, what is the minimum staff requirement to have been worked in a facility to be considered a traveller?
+[5664.92 -> 5665.92]  I gave you the answer.
+[5666.92 -> 5667.92]  You just fill in the number now.
+[5668.92 -> 5672.44]  Minimum one year?
+[5673.44 -> 5674.44]  No.
+[5675.44 -> 5676.44]  18 months?
+[5676.44 -> 5678.72]  No.
+[5678.72 -> 5679.72]  Two years?
+[5679.72 -> 5682.72]  I don't know, but after I tell you, you have the answer.
+[5685.72 -> 5686.72]  It's two years.
+[5686.72 -> 5697.55]  To be considered travel eligible, you need to have had staff experience in that particular specialty for two years.
+[5698.55 -> 5700.55]  Otherwise, you are not a traveller.
+[5701.55 -> 5703.55]  So what she said over there was,
+[5714.55 -> 5715.55]  First time traveller allowed.
+[5724.55 -> 5727.55]  They are not eligible to be a traveller
+[5727.55 -> 5728.55]  you know.
+[5728.55 -> 5733.80]  They're not eligible.
+[5734.80 -> 5741.80]  So that's universal rule, but isn't it one year?
+[5741.80 -> 5752.46]  Sir, I think this particular rule is only for Ohio Cleveland Clinic that they need a
+[5752.46 -> 5755.48]  10 months of home experience prior to travel.
+[5755.48 -> 5760.52]  But I have submitted mandates in the past with one year of staff experience and I have submitted
+[5760.52 -> 5763.60]  them of travel assignments and they have done like, you know, three, four extensions
+[5763.60 -> 5764.64]  there as well.
+[5764.64 -> 5766.64]  So I don't know.
+[5766.64 -> 5774.24]  Like I said, I've got to explicitly, like rule of the thumb, yes, you would want one or two
+[5774.24 -> 5779.64]  years experience and that, I think that they need to have license, like if you are a traveler,
+[5779.64 -> 5781.64]  you will have to have a minimum one year.
+[5781.64 -> 5786.64]  Minimum one year, I don't know, I don't know.
+[5787.64 -> 5795.64]  Yeah, Ohio Cleveland Clinic, then 18 months of experience prior to travel, only then they'll consider him as a traveler.
+[5795.64 -> 5798.64]  Yeah, you're right.
+[5798.64 -> 5801.64]  Then again, you got to remember, I don't do this every day, right?
+[5801.64 -> 5806.64]  I have a form, but it is okay.
+[5806.64 -> 5807.64]  Of course, sir.
+[5807.64 -> 5808.64]  I'm sure.
+[5808.64 -> 5818.60]  Then the traveler would be required to pass EKG exam during onboarding.
+[5818.60 -> 5830.60]  For locals, this might be at the first day or maybe in the first week of the, first week, but for travelers, this has to be done at the time of onboarding itself.
+[5830.60 -> 5834.60]  So you, again, you will have to get confirmations on this.
+[5834.60 -> 5850.46]  Then observation patients, if you remember this section, you're in unit details, patient diagnosis.
+[5850.46 -> 5859.74]  Candidate has to deal with all of this when it comes to the roles and responsibilities.
+[5859.74 -> 5864.74]  And then again, go back to this, scroll up.
+[5864.74 -> 5868.74]  No, go back to the, not this one, the other one, the job description.
+[5868.74 -> 5869.74]  Scroll up.
+[5869.74 -> 5871.74]  Look at the first question.
+[5871.74 -> 5879.94]  You see this question?
+[5884.49 -> 5895.49]  So expectation, expectation, yes, job description, observation of patient respiratory conditions, the problem, general medical diagnosis as appropriate,
+[5895.49 -> 5902.49]  and they are okay with doing that.
+[5902.49 -> 5909.82]  That's the meaning of that question over there.
+[5909.82 -> 5917.24]  So that's what you have to tell them.
+[5917.24 -> 5918.24]  Are you okay?
+[5918.24 -> 5919.24]  Are you okay?
+[5919.24 -> 5920.24]  Yes.
+[5920.24 -> 5923.24]  That is technically not a yes.
+[5923.24 -> 5931.97]  So that's what it's trying to tell you.
+[5931.97 -> 5937.97]  But just saying that med search, that does not finish our job.
+[5937.97 -> 5939.97]  You actually have to tell them.
+[5939.97 -> 5953.48]  I think it happened one time.
+[5953.48 -> 5965.40]  End of life, it goes against my Christian beliefs.
+[5965.40 -> 5968.16]  I think it happened one time.
+[5968.16 -> 5971.04]  I think it happened one time.
+[5971.04 -> 5973.04]  I think it happened one time.
+[5973.04 -> 5980.96]  So that's the reason that they are asking you specifically,
+[5980.96 -> 5984.64]  that you have discussed what you are asking.
+[5984.64 -> 5992.91]  Abab, I hope you understand.
+[5992.91 -> 5994.91]  When we ask you, did you screen the candidate?
+[5994.91 -> 5995.43]  Right?
+[5995.43 -> 5997.43]  Now you understand what we mean by that?
+[5997.43 -> 5998.95]  Yes, sir.
+[5998.95 -> 6000.39]  Right?
+[6000.39 -> 6002.39]  I think it happened.
+[6002.39 -> 6005.39]  Yes, I screened the candidate.
+[6005.39 -> 6007.39]  I think it happened.
+[6007.39 -> 6009.39]  I think it happened.
+[6009.39 -> 6011.39]  You are not understanding.
+[6011.39 -> 6013.39]  You have to understand.
+[6013.39 -> 6015.39]  You have to understand.
+[6015.39 -> 6017.39]  You have to understand.
+[6017.39 -> 6019.39]  Yes, you screened the candidate.
+[6019.39 -> 6021.39]  Yes.
+[6021.39 -> 6024.39]  So, what the expectation is, right?
+[6024.39 -> 6027.39]  The expectation of that, yes, I screened the candidate,
+[6027.39 -> 6028.39]  is this.
+[6028.39 -> 6031.79]  Absolutely.
+[6031.79 -> 6037.28]  You have to understand.
+[6037.28 -> 6038.28]  I think it happened.
+[6038.28 -> 6040.28]  You have to understand.
+[6040.28 -> 6043.28]  Yes, I get the expectation.
+[6043.28 -> 6045.28]  You have to understand.
+[6045.28 -> 6047.28]  What I was expecting.
+[6047.28 -> 6050.28]  What I was expecting was the expectation.
+[6050.28 -> 6052.28]  You would have seen that.
+[6052.28 -> 6053.28]  Because we are on the same page.
+[6053.28 -> 6056.28]  We know what you are expecting.
+[6056.28 -> 6059.28]  And I want you to be on the same page.
+[6059.28 -> 6093.06]  But literally we go by that.
+[6093.06 -> 6119.30]  We go item by item, we do not skip.
+[6119.30 -> 6123.34]  There is no complexity to the way we do things.
+[6123.34 -> 6125.22]  But you cannot rush through it.
+[6125.22 -> 6126.82]  That is one thing I will tell you.
+[6126.82 -> 6133.22]  You cannot rush through it.
+[6133.22 -> 6137.10]  It takes you five, I mean yes it is taking you longer to read through all of this today.
+[6137.10 -> 6141.14]  But when you will start doing it on your own, you would literally know how to skim through
+[6141.14 -> 6145.04]  the important points.
+[6145.04 -> 6146.36]  And you would have to do that.
+[6146.36 -> 6160.44]  I mean what is my expectation out of her.
+[6160.44 -> 6161.44]  My expectation is
+[6178.73 -> 6201.93]  I am going to go item by item, item by item and ask you if you can get the

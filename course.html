@@ -1,0 +1,752 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Aya-Lotus One Mastery — Recruiter Training</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#050f14; --navy2:#0c1f24; --indigo:#0e3b3a; --blue:#1f6e6b; --blue-light:#3f9490;
+  --gold:#d8ac5c; --gold-deep:#9c6c22; --gold-soft:#f3e2bc;
+  --ink:#181510; --paper:#f7f3ea; --card:#fffdf8; --line:#e6ddc9; --line-soft:#efe8d8;
+  --ok:#12805a; --ok-soft:#e5f5ee; --warn:#a5291f; --warn-soft:#fbeae8; --muted:#736a58;
+  --accent:#1f6e6b; --accent-soft:#e8f1ef; --accent2:#d8ac5c;
+  --r-sm:8px; --r-md:12px; --r-lg:18px; --r-xl:26px;
+  --shadow-sm:0 1px 2px rgba(30,20,5,0.07), 0 1px 1px rgba(30,20,5,0.04);
+  --shadow-md:0 14px 34px -8px rgba(30,20,5,0.18);
+  --shadow-lg:0 36px 80px -22px rgba(5,15,20,0.45);
+  --serif:'Fraunces', Georgia, 'Cambria', serif;
+  --sans:'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0; font-family:var(--sans);
+  font-size:15px; line-height:1.6; color:var(--ink);
+  background:
+    radial-gradient(900px 500px at 100% -8%, rgba(31,110,107,0.08), transparent 60%),
+    radial-gradient(700px 480px at -6% 10%, rgba(216,172,92,0.13), transparent 55%),
+    var(--paper);
+}
+.app{display:flex; min-height:100vh;}
+::-webkit-scrollbar{width:10px; height:10px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:rgba(15,23,42,0.14); border-radius:8px; border:2px solid transparent;}
+::-webkit-scrollbar-thumb:hover{background:rgba(42,95,214,0.4);}
+
+/* SIDEBAR */
+.sidebar{width:320px; flex-shrink:0; background:linear-gradient(180deg,#0c1f40,#0a1830 55%,#081426);
+  position:sticky; top:0; height:100vh; overflow-y:auto; padding:22px 14px 40px;
+  box-shadow:1px 0 0 rgba(255,255,255,0.04) inset;}
+.sidebar::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.14);}
+.brand{display:flex; align-items:center; gap:12px; padding:4px 10px 20px; border-bottom:1px solid rgba(255,255,255,0.08); margin-bottom:16px;}
+.brand .logo{width:42px;height:42px;border-radius:11px; background:#fff;
+  display:flex;align-items:center;justify-content:center; padding:6px;
+  box-shadow:0 4px 14px rgba(0,0,0,0.25), inset 0 1px 0 rgba(255,255,255,0.6);}
+.brand .logo img{width:100%; height:100%; object-fit:contain;}
+.brand h1{font-size:15px; margin:0; font-weight:700; color:#fff; font-family:var(--serif); letter-spacing:.2px;}
+.brand span{font-size:10px; color:#9fb0d4; display:block; letter-spacing:1.1px; text-transform:uppercase; margin-top:3px; font-weight:600;}
+
+.progress-wrap{margin:6px 10px 20px;}
+.progress-bar{height:7px;border-radius:6px;background:rgba(255,255,255,0.1);overflow:hidden;}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--gold-deep),var(--gold));width:0%;transition:width .6s cubic-bezier(.22,.9,.3,1); box-shadow:0 0 10px rgba(200,150,62,0.5);}
+.progress-label{font-size:11px;color:#8fa0c4;margin-top:8px; display:flex; justify-content:space-between; letter-spacing:.2px;}
+
+.nav-btn{display:flex; align-items:center; gap:8px; width:100%; text-align:left; padding:10px 12px; border-radius:var(--r-sm); border:none; background:none;
+  font-size:12.5px; font-weight:700; color:#b7c4e2; cursor:pointer; margin-bottom:6px; letter-spacing:.2px; transition:.15s;}
+.nav-btn:hover{background:rgba(255,255,255,0.07); color:#fff;}
+.nav-btn.active{background:rgba(200,150,62,0.16); color:var(--gold-soft); box-shadow:inset 0 0 0 1px rgba(200,150,62,0.3);}
+
+.mod-block{margin-bottom:4px;}
+.mod-head{display:flex; align-items:center; gap:9px; padding:10px 10px; border-radius:var(--r-sm); cursor:pointer; user-select:none; transition:.15s;}
+.mod-head:hover{background:rgba(255,255,255,0.06);}
+.mod-head .mnum{width:23px;height:23px;border-radius:50%;background:rgba(255,255,255,0.1);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:10.5px;font-weight:800;color:#c3cee8;}
+.mod-head.done .mnum{background:linear-gradient(150deg,#22a67a,var(--ok)); color:#fff; box-shadow:0 2px 8px rgba(18,128,90,0.4);}
+.mod-head .mtitle{font-size:12.8px; font-weight:700; color:#e7ecf7; flex:1; letter-spacing:.1px;}
+.mod-head .chev{font-size:10px; color:#7b8bb0; transition:.2s;}
+.mod-head.collapsed .chev{transform:rotate(-90deg);}
+.lesson-list{list-style:none; margin:2px 0 12px; padding:0 0 0 15px; display:flex; flex-direction:column; gap:2px;
+  border-left:1px solid rgba(255,255,255,0.08); margin-left:11px;}
+.lesson-list.collapsed{display:none;}
+.lesson-item{display:flex; align-items:center; gap:9px; padding:7px 10px; border-radius:var(--r-sm); cursor:pointer; font-size:12px; color:#a8b6d6; transition:.15s;}
+.lesson-item:hover{background:rgba(255,255,255,0.06); color:#fff;}
+.lesson-item.active{background:rgba(42,95,214,0.22); color:#fff; font-weight:700; box-shadow:inset 2px 0 0 var(--gold);}
+.lesson-item .lnum{width:17px;height:17px;border-radius:50%;background:rgba(255,255,255,0.1); flex-shrink:0; display:flex; align-items:center; justify-content:center; font-size:8.5px; font-weight:800; color:#c3cee8;}
+.lesson-item.done .lnum{background:var(--ok); color:#fff;}
+.lesson-item.active .lnum{background:var(--gold); color:#1a1206;}
+.lesson-item.locked{opacity:.45; cursor:not-allowed;}
+.lesson-item.locked:hover{background:none;}
+.lesson-item.locked .lnum{background:rgba(255,255,255,0.06); font-size:9px;}
+.lesson-item .llbl{flex:1; line-height:1.3;}
+.lesson-item .ltime{font-size:10px; color:#7484a8; flex-shrink:0; font-variant-numeric:tabular-nums;}
+
+/* MAIN */
+.main{flex:1; display:flex; flex-direction:column; min-width:0;}
+.topbar{display:flex; justify-content:space-between; align-items:center; padding:18px 36px;
+  border-bottom:1px solid var(--line); background:rgba(255,255,255,0.85); backdrop-filter:blur(10px);
+  position:sticky; top:0; z-index:5;}
+.topbar h2{margin:0; font-size:19px; font-weight:700; font-family:var(--serif); letter-spacing:.1px;}
+.topbar .sub{font-size:12px; color:var(--muted); margin-top:3px;}
+.badge{font-size:10.5px; padding:6px 14px; border-radius:20px; background:linear-gradient(120deg,var(--accent-soft),#fff); color:var(--accent);
+  font-weight:800; letter-spacing:.5px; text-transform:uppercase; border:1px solid rgba(42,95,214,0.18);}
+.content{flex:1; padding:32px 44px 70px; max-width:1000px; margin:0 auto; width:100%;}
+
+/* LANDING PAGE */
+.hero{background:
+    radial-gradient(600px 300px at 90% -20%, rgba(200,150,62,0.35), transparent 60%),
+    radial-gradient(500px 260px at 0% 120%, rgba(91,139,240,0.3), transparent 60%),
+    linear-gradient(135deg,var(--navy),var(--indigo) 130%);
+  border-radius:var(--r-xl); padding:52px 46px; color:#fff; margin-bottom:30px; box-shadow:var(--shadow-lg); position:relative; overflow:hidden;}
+.hero::after{content:''; position:absolute; inset:0; background:repeating-linear-gradient(115deg, rgba(255,255,255,0.025) 0px, rgba(255,255,255,0.025) 1px, transparent 1px, transparent 7px); pointer-events:none;}
+.hero .kicker{font-size:11px; text-transform:uppercase; letter-spacing:2px; color:var(--gold-soft); font-weight:800; margin-bottom:14px; position:relative;}
+.hero h1{font-size:38px; margin:0 0 16px; font-weight:600; line-height:1.15; font-family:var(--serif); position:relative; max-width:720px;}
+.hero p{font-size:15.5px; color:#c9d6f2; max-width:640px; margin:0 0 26px; position:relative; line-height:1.65;}
+.hero-meta{display:flex; gap:30px; flex-wrap:wrap; margin-top:24px; position:relative;}
+.hero-meta div{font-size:11.5px; color:#93a6d4; text-transform:uppercase; letter-spacing:.6px; font-weight:700;}
+.hero-meta b{display:block; font-size:19px; color:#fff; font-weight:700; margin-top:4px; font-family:var(--serif);}
+.cta-btn{background:linear-gradient(135deg,var(--gold),var(--gold-deep)); color:#1a1206; border:none; padding:13px 28px; border-radius:9px;
+  font-weight:800; font-size:14px; cursor:pointer; box-shadow:0 8px 22px -6px rgba(200,150,62,0.55); position:relative; letter-spacing:.2px;}
+.cta-btn:hover{filter:brightness(1.06); transform:translateY(-1px);}
+
+.card{background:var(--card); border:1px solid var(--line); border-radius:var(--r-lg); padding:26px 28px; margin-bottom:20px; box-shadow:var(--shadow-sm); transition:box-shadow .2s;}
+.card h3{margin:0 0 14px; font-size:16.5px; font-weight:700; font-family:var(--serif);}
+.card ul{margin:0; padding-left:20px;}
+.card li{margin-bottom:8px;}
+.two-col{display:grid; grid-template-columns:1fr 1fr; gap:18px;}
+.mini-stat{background:var(--accent-soft); border-radius:var(--r-md); padding:14px 16px;}
+.mini-stat b{display:block; color:var(--accent); font-size:13px; margin-bottom:3px;}
+
+.module-grid{display:flex; flex-direction:column; gap:11px;}
+.module-card{border:1px solid var(--line); border-radius:var(--r-md); padding:17px 19px; display:flex; align-items:center; gap:16px; cursor:pointer; transition:.2s; background:#fff;}
+.module-card:hover{border-color:var(--accent); box-shadow:var(--shadow-md); transform:translateY(-1px);}
+.module-card .midx{width:38px;height:38px;border-radius:10px;background:linear-gradient(150deg,var(--accent-soft),#e2ebfb); color:var(--accent); display:flex; align-items:center; justify-content:center; font-weight:800; flex-shrink:0; font-family:var(--serif); font-size:15px;}
+.module-card .mbody{flex:1;}
+.module-card .mbody h4{margin:0 0 3px; font-size:14.5px; font-weight:700;}
+.module-card .mbody p{margin:0; font-size:12.5px; color:var(--muted);}
+.module-card .mcount{font-size:11px; color:var(--muted); flex-shrink:0; text-align:right; font-weight:600;}
+
+/* LESSON PLAYER */
+.lesson-head{margin-bottom:20px;}
+.module-nav{display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid var(--line);}
+.mod-nav-btn{background:none; border:1px solid var(--line); color:var(--muted); font-size:11.5px; font-weight:700; padding:7px 13px; border-radius:20px; cursor:pointer; transition:.15s; white-space:nowrap;}
+.mod-nav-btn:hover:not(:disabled){border-color:var(--accent); color:var(--accent); background:var(--accent-soft);}
+.mod-nav-btn:disabled{opacity:.35; cursor:default;}
+.module-nav-current{font-size:10.5px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:800; flex-shrink:0;}
+.lesson-head .lkicker{font-size:11px; text-transform:uppercase; letter-spacing:1.2px; color:var(--gold-deep); font-weight:800; margin-bottom:8px;}
+.lesson-head h1{font-size:27px; margin:0 0 10px; font-weight:600; font-family:var(--serif); letter-spacing:.1px;}
+.lesson-head .obj{font-size:14px; color:var(--muted);}
+.video-wrap{background:#0a0f1c; border-radius:var(--r-lg); overflow:hidden; box-shadow:var(--shadow-md); margin-bottom:24px; position:relative; border:1px solid rgba(255,255,255,0.06);}
+video{width:100%; display:block; max-height:520px; background:#0a0f1c; cursor:pointer;}
+.video-meta{display:flex; justify-content:space-between; align-items:center; padding:11px 18px; background:#0a0f1c; color:#8ea3c4; font-size:11.5px; border-top:1px solid rgba(255,255,255,0.06);}
+.video-meta button{background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.14); color:#dbe6f2; padding:7px 13px; border-radius:7px; font-size:11.5px; cursor:pointer; font-weight:600; transition:.15s;}
+.video-meta button:hover{background:rgba(200,150,62,0.22); border-color:rgba(200,150,62,0.4); color:var(--gold-soft);}
+
+.custom-controls{display:flex; align-items:center; gap:12px; padding:12px 18px 14px; background:#0a0f1c;}
+.cc-playbtn{width:34px;height:34px;border-radius:50%;background:linear-gradient(150deg,var(--gold),var(--gold-deep)); border:none;
+  color:#1a1206; display:flex; align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; font-size:13px; box-shadow:0 3px 10px rgba(200,150,62,0.4);}
+.cc-playbtn:hover{filter:brightness(1.08);}
+.cc-time{color:#e2e9f5; font-size:12px; font-weight:700; flex-shrink:0; min-width:118px; font-variant-numeric:tabular-nums;}
+.cc-scrub{flex:1; height:5px; border-radius:4px; background:rgba(255,255,255,0.16); position:relative; cursor:pointer;}
+.cc-scrub-fill{position:absolute; left:0; top:0; height:100%; border-radius:4px; background:linear-gradient(90deg,var(--blue-light),var(--gold)); width:0%;}
+.cc-scrub-handle{position:absolute; top:50%; width:13px; height:13px; border-radius:50%; background:#fff; transform:translate(-50%,-50%); left:0%; box-shadow:0 1px 4px rgba(0,0,0,0.5), 0 0 0 3px rgba(200,150,62,0.25);}
+.cc-clip-badge{color:#a7b8d8; font-size:10.5px; flex-shrink:0; padding:4px 11px; background:rgba(255,255,255,0.06); border-radius:12px; font-weight:700; border:1px solid rgba(255,255,255,0.08);}
+#ccFullBtn{background:rgba(255,255,255,0.1); color:#dbe6f2; box-shadow:none;}
+#ccFullBtn:hover{background:rgba(255,255,255,0.18);}
+#ccCaptionBtn{background:rgba(255,255,255,0.1); color:#dbe6f2; box-shadow:none; letter-spacing:.5px;}
+#ccCaptionBtn:hover{background:rgba(255,255,255,0.18);}
+#ccCaptionBtn.cc-off{color:#5f6c85;}
+video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans); font-size:0.7em; padding:1px 3px;}
+.video-wrap:fullscreen{display:flex; flex-direction:column; justify-content:center; background:#000;}
+.video-wrap:fullscreen video{flex:1; max-height:calc(100vh - 92px); width:100%; object-fit:contain;}
+.video-wrap:-webkit-full-screen{display:flex; flex-direction:column; justify-content:center; background:#000;}
+.video-wrap:-webkit-full-screen video{flex:1; max-height:calc(100vh - 92px); width:100%; object-fit:contain;}
+
+.section-label{font-size:11px; text-transform:uppercase; letter-spacing:1.2px; color:var(--gold-deep); font-weight:800; margin:0 0 12px; display:flex; align-items:center; gap:7px;}
+.section-label::before{content:''; width:5px; height:5px; border-radius:50%; background:var(--gold);}
+.terms-list{display:flex; flex-direction:column; gap:10px;}
+.term-row{padding:12px 15px; background:var(--accent-soft); border-radius:var(--r-sm); font-size:13px; border-left:3px solid var(--accent);}
+.term-row b{color:var(--navy);}
+.skill-chip{display:inline-block; background:linear-gradient(150deg,#f2f4f9,#e8ecf5); border:1px solid var(--line); padding:6px 13px; border-radius:16px; font-size:11.5px; margin:0 6px 6px 0; font-weight:700; color:#3a4250;}
+.takeaway{display:flex; gap:11px; padding:11px 0; border-bottom:1px solid var(--line-soft); font-size:13.5px;}
+.takeaway:last-child{border-bottom:none;}
+.takeaway .ic{color:var(--ok); font-weight:800; flex-shrink:0;}
+
+.practice-box{background:linear-gradient(160deg,#fff8ec,#fdf1d9); border:1px solid #eed9a8; border-radius:var(--r-md); padding:19px 21px; position:relative;}
+.practice-box .ptitle{font-weight:800; color:#8a5b00; font-size:12.5px; text-transform:uppercase; letter-spacing:.7px; margin-bottom:9px;}
+
+/* KNOWLEDGE CHECK */
+.quiz-box{border:1px solid var(--line); border-radius:var(--r-md); padding:22px 24px; background:linear-gradient(160deg,#fbfcfe,#f6f8fc);}
+.quiz-q{font-weight:700; font-size:14.5px; margin-bottom:16px; font-family:var(--serif);}
+.quiz-opt{display:block; width:100%; text-align:left; padding:12px 16px; border:1px solid var(--line); border-radius:var(--r-sm);
+  background:#fff; margin-bottom:9px; cursor:pointer; font-size:13.5px; transition:.15s; font-family:var(--sans);}
+.quiz-opt:hover{border-color:var(--accent); box-shadow:0 2px 8px rgba(42,95,214,0.1);}
+.quiz-opt.selected{border-color:var(--accent); background:var(--accent-soft);}
+.quiz-opt.correct{border-color:var(--ok); background:var(--ok-soft); font-weight:700;}
+.quiz-opt.incorrect{border-color:var(--warn); background:var(--warn-soft);}
+.quiz-feedback{margin-top:13px; padding:13px 15px; border-radius:var(--r-sm); font-size:13px; display:none; line-height:1.5;}
+.quiz-feedback.show{display:block;}
+.quiz-feedback.ok{background:var(--ok-soft); color:#04592a;}
+.quiz-feedback.bad{background:var(--warn-soft); color:#7a1710;}
+
+.nav-buttons{display:flex; justify-content:space-between; align-items:center; margin-top:32px; padding-top:22px; border-top:1px solid var(--line);}
+.pill-btn{padding:12px 24px; border-radius:9px; border:1px solid var(--line); background:#fff; font-weight:700; font-size:13.5px; cursor:pointer; transition:.15s; color:var(--ink);}
+.pill-btn.primary{background:linear-gradient(135deg,var(--blue),var(--indigo)); border-color:var(--indigo); color:#fff; box-shadow:0 6px 18px -6px rgba(42,95,214,0.5);}
+.pill-btn:hover{box-shadow:var(--shadow-sm); transform:translateY(-1px);}
+.pill-btn.primary:hover{filter:brightness(1.06);}
+.pill-btn:disabled{opacity:.4; cursor:default; transform:none;}
+.complete-toggle{display:flex; align-items:center; gap:8px; font-size:13px; color:var(--muted); cursor:pointer; user-select:none; font-weight:600;}
+.complete-toggle input{width:17px;height:17px; accent-color:var(--accent);}
+
+/* FINAL ASSESSMENT & COMPLETION */
+.score-ring{width:130px;height:130px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:800;margin:0 auto 20px; font-family:var(--serif); box-shadow:var(--shadow-sm);}
+.completion-wrap{text-align:center; padding:44px 20px;}
+.completion-wrap h1{font-size:30px; font-family:var(--serif); font-weight:600;}
+.cert-box{border:1px solid rgba(200,150,62,0.4); border-radius:var(--r-lg); padding:36px; margin-top:26px;
+  background:linear-gradient(160deg,#fffdf6,var(--gold-soft)); position:relative; box-shadow:var(--shadow-md);}
+.cert-box::before{content:''; position:absolute; inset:10px; border:1px dashed rgba(200,150,62,0.5); border-radius:calc(var(--r-lg) - 6px); pointer-events:none;}
+.cert-box h2{font-family:var(--serif); font-weight:600;}
+
+@media (max-width:900px){
+  .sidebar{display:none;}
+  .two-col{grid-template-columns:1fr;}
+  .content{padding:24px 20px 50px;}
+  .hero{padding:36px 26px;}
+  .hero h1{font-size:28px;}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <nav class="sidebar" id="sidebar"></nav>
+  <main class="main">
+    <div class="topbar">
+      <div>
+        <h2 id="topTitle">Aya-Lotus One Mastery</h2>
+        <div class="sub" id="topSub">Recruiter Training Course</div>
+      </div>
+      <div class="badge" id="topBadge">Course Home</div>
+    </div>
+    <div class="content" id="content"></div>
+  </main>
+</div>
+
+<script src="logo.js?v=17"></script>
+<script src="course-data.js?v=17"></script>
+<script>
+const STORAGE_KEY = "aya_lotus_course_progress_v1";
+let state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"completed":{},"collapsed":{},"quiz":{},"finalScore":null}');
+function saveState(){ localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+
+const ALL_LESSONS = COURSE.modules.flatMap(m => m.lessons.map(l => ({...l, moduleId:m.id, moduleTitle:m.title})));
+let currentView = {type:"home"};
+
+function totalLessons(){ return ALL_LESSONS.length; }
+function completedCount(){ return Object.keys(state.completed).filter(k=>state.completed[k]).length; }
+function pct(){ return Math.round((completedCount()/totalLessons())*100); }
+function isDone(id){ return !!state.completed[id]; }
+function moduleDone(m){ return m.lessons.every(l=>isDone(l.id)); }
+function allLessonsComplete(){ return ALL_LESSONS.every(l=>isDone(l.id)); }
+function isUnlocked(id){
+  const idx = ALL_LESSONS.findIndex(x=>x.id===id);
+  if(idx<=0) return true;
+  return isDone(ALL_LESSONS[idx-1].id);
+}
+function flashLocked(msg){
+  const topbar = document.querySelector(".topbar");
+  if(!topbar) return;
+  let note = document.getElementById("lockNote");
+  if(note) note.remove();
+  note = document.createElement("div");
+  note.id = "lockNote";
+  note.textContent = msg || "🔒 Complete the current lesson first to unlock this one.";
+  note.style.cssText = "position:fixed; top:76px; right:36px; background:#1a1a1a; color:#fff; padding:10px 16px; border-radius:8px; font-size:12.5px; font-weight:700; box-shadow:0 8px 24px rgba(0,0,0,0.25); z-index:50; max-width:340px;";
+  document.body.appendChild(note);
+  setTimeout(()=>{ note.remove(); }, 3200);
+}
+
+function renderSidebar(){
+  const sb = document.getElementById("sidebar");
+  let html = `
+  <div class="brand">
+    <div class="logo"><img src="${LOGO_DATA_URI}" alt="HonorVet"></div>
+    <div><h1>Aya-Lotus One Mastery</h1><span>Recruiter Training</span></div>
+  </div>
+  <div class="progress-wrap">
+    <div class="progress-bar"><div class="progress-fill" style="width:${pct()}%"></div></div>
+    <div class="progress-label"><span>${completedCount()}/${totalLessons()} lessons</span><span>${pct()}%</span></div>
+  </div>
+  <button class="nav-btn ${currentView.type==='home'?'active':''}" onclick="goHome()">🏠 Course Home</button>
+  `;
+  COURSE.modules.forEach((m, mi) => {
+    const collapsed = state.collapsed[m.id];
+    html += `<div class="mod-block">
+      <div class="mod-head ${moduleDone(m)?'done':''} ${collapsed?'collapsed':''}" onclick="toggleModule('${m.id}')">
+        <div class="mnum">${moduleDone(m)?'✓':(mi+1)}</div>
+        <div class="mtitle">${m.title}</div>
+        <div class="chev">▾</div>
+      </div>
+      <ul class="lesson-list ${collapsed?'collapsed':''}">`;
+    m.lessons.forEach((l,li)=>{
+      const active = currentView.type==='lesson' && currentView.id===l.id;
+      const locked = !isUnlocked(l.id);
+      html += `<li class="lesson-item ${active?'active':''} ${isDone(l.id)?'done':''} ${locked?'locked':''}" onclick="${locked?'flashLocked()':`goLesson('${l.id}')`}">
+        <div class="lnum">${isDone(l.id)?'✓':locked?'🔒':(li+1)}</div>
+        <div class="llbl">${l.title}</div>
+        <div class="ltime">${fmtTime(l.duration)}</div>
+      </li>`;
+    });
+    html += `</ul></div>`;
+  });
+  html += `<button class="nav-btn ${currentView.type==='final'?'active':''}" onclick="goFinal()">${allLessonsComplete()?'🏁':'🔒'} Final Assessment</button>`;
+  sb.innerHTML = html;
+}
+
+function toggleModule(id){ state.collapsed[id] = !state.collapsed[id]; saveState(); renderSidebar(); }
+function goHome(){ currentView = {type:"home"}; render(); }
+function goLesson(id){
+  if(!isUnlocked(id)){ flashLocked(); return; }
+  currentView = {type:"lesson", id}; render();
+}
+function goFinal(){
+  if(!allLessonsComplete()){
+    flashLocked(`🔒 Complete every lesson in every module first (${completedCount()}/${totalLessons()} done).`);
+    return;
+  }
+  currentView = {type:"final"}; render();
+}
+function goCompletion(){ currentView = {type:"completion"}; render(); }
+
+function markDone(id, val){
+  state.completed[id] = val; saveState(); renderSidebar();
+  if(currentView.type==='lesson' && currentView.id===id){
+    const nextBtn = document.getElementById("nextBtn");
+    if(nextBtn){ nextBtn.disabled = !val; nextBtn.title = val ? "" : "Mark this lesson complete to continue"; }
+    const hint = document.getElementById("lockHint");
+    if(hint) hint.style.display = val ? "none" : "block";
+  }
+}
+
+function render(){
+  renderSidebar();
+  const c = document.getElementById("content");
+  const topTitle = document.getElementById("topTitle");
+  const topSub = document.getElementById("topSub");
+  const topBadge = document.getElementById("topBadge");
+  if(currentView.type==="home"){
+    topTitle.textContent = COURSE.title; topSub.textContent = "Course Overview"; topBadge.textContent = "Course Home";
+    c.innerHTML = renderHome();
+  } else if(currentView.type==="lesson"){
+    const lesson = ALL_LESSONS.find(l=>l.id===currentView.id);
+    topTitle.textContent = lesson.moduleTitle; topSub.textContent = "Lesson " + lesson.id; topBadge.textContent = "In Progress";
+    c.innerHTML = renderLesson(lesson);
+    attachVideo(lesson);
+    attachAudio(lesson);
+    attachQuiz(lesson);
+  } else if(currentView.type==="final"){
+    topTitle.textContent = "Final Assessment"; topSub.textContent = "Test your Aya-Lotus One knowledge"; topBadge.textContent = "Assessment";
+    c.innerHTML = renderFinal();
+    attachFinal();
+  } else if(currentView.type==="completion"){
+    topTitle.textContent = "Course Complete"; topSub.textContent = "Congratulations"; topBadge.textContent = "Completed";
+    c.innerHTML = renderCompletion();
+  }
+  window.scrollTo(0,0);
+}
+
+function renderHome(){
+  return `
+  <div class="hero">
+    <div class="kicker">Recruiter Training · Aya-Lotus One VMS</div>
+    <h1>${COURSE.title}</h1>
+    <p>${COURSE.description}</p>
+    <button class="cta-btn" onclick="goLesson('${ALL_LESSONS[0].id}')">Start Course →</button>
+    <div class="hero-meta">
+      <div>Modules<b>${COURSE.modules.length}</b></div>
+      <div>Lessons<b>${totalLessons()}</b></div>
+      <div>Duration<b>${COURSE.totalDuration}</b></div>
+      <div>Your progress<b>${pct()}%</b></div>
+    </div>
+  </div>
+  <div class="two-col">
+    <div class="card"><h3>Who this is for</h3><p style="margin:0;color:var(--muted)">${COURSE.audience}</p></div>
+    <div class="card"><h3>Prerequisites</h3><p style="margin:0;color:var(--muted)">${COURSE.prerequisites}</p></div>
+  </div>
+  <div class="card">
+    <h3>What you'll learn</h3>
+    <ul>${COURSE.objectives.map(o=>`<li>${o}</li>`).join("")}</ul>
+  </div>
+  <div class="card">
+    <h3>Course Modules</h3>
+    <div class="module-grid">
+      ${COURSE.modules.map((m,i)=>`
+        <div class="module-card" onclick="goLesson('${m.lessons[0].id}')">
+          <div class="midx">${i+1}</div>
+          <div class="mbody"><h4>${m.title}</h4><p>${m.summary}</p></div>
+          <div class="mcount">${m.lessons.length} lessons ${moduleDone(m)?'· ✓ done':''}</div>
+        </div>`).join("")}
+    </div>
+  </div>
+  <div class="card" style="text-align:center;">
+    <h3>${allLessonsComplete()?'':'🔒 '}Final Assessment</h3>
+    <p style="color:var(--muted)">${allLessonsComplete()
+      ? `A ${FINAL_ASSESSMENT.length}-question checkpoint covering the full course. You've completed every lesson — it's unlocked.`
+      : `A ${FINAL_ASSESSMENT.length}-question checkpoint covering the full course. Locked until every lesson in every module is marked complete — ${completedCount()}/${totalLessons()} done so far.`}</p>
+    <button class="pill-btn primary" onclick="goFinal()">${allLessonsComplete()?'Go to Final Assessment':'🔒 Go to Final Assessment'}</button>
+  </div>
+  `;
+}
+
+function renderLesson(l){
+  const idx = ALL_LESSONS.findIndex(x=>x.id===l.id);
+  const prevL = ALL_LESSONS[idx-1], nextL = ALL_LESSONS[idx+1];
+  const prereq = l.prerequisite ? ALL_LESSONS.find(x=>x.id===l.prerequisite) : null;
+  const modIdx = COURSE.modules.findIndex(m=>m.id===l.moduleId);
+  const prevMod = COURSE.modules[modIdx-1], nextMod = COURSE.modules[modIdx+1];
+  return `
+  <div class="lesson-head">
+    <div class="module-nav">
+      <button class="mod-nav-btn" ${prevMod?"":"disabled"} onclick="${prevMod?`goLesson('${prevMod.lessons[0].id}')`:""}" title="${prevMod?prevMod.title:""}">« Previous Module</button>
+      <span class="module-nav-current">Module ${modIdx+1} of ${COURSE.modules.length}</span>
+      <button class="mod-nav-btn" ${(nextMod && isUnlocked(nextMod.lessons[0].id))?"":"disabled"} onclick="${nextMod?`goLesson('${nextMod.lessons[0].id}')`:""}" title="${nextMod?(isUnlocked(nextMod.lessons[0].id)?nextMod.title:"Complete this lesson to unlock"):""}">Next Module »</button>
+    </div>
+    <div class="lkicker">${l.moduleTitle}</div>
+    <h1>${l.title}</h1>
+    <div class="obj">🎯 ${l.objective}</div>
+    ${prereq ? `<div style="margin-top:8px;font-size:12px;color:var(--muted)">Recommended before this: <a href="#" onclick="goLesson('${prereq.id}');return false;" style="color:var(--accent);font-weight:700;">${prereq.title}</a></div>` : ""}
+  </div>
+
+  ${l.hasVideo ? `
+  <div class="video-wrap" id="videoWrap">
+    <video id="lessonVideo" preload="metadata" onclick="toggleLessonPlay()">
+      <track id="captionTrack" kind="subtitles" src="data:text/vtt;base64,${l.captions}" srclang="en" label="English">
+    </video>
+    <div class="custom-controls">
+      <div class="cc-playbtn" id="ccPlayBtn" onclick="toggleLessonPlay()">▶</div>
+      <div class="cc-time" id="ccTime">0:00 / ${fmtTime(l.duration)}</div>
+      <div class="cc-scrub" id="ccScrub" onmousedown="scrubStart(event)">
+        <div class="cc-scrub-fill" id="ccFill"></div>
+        <div class="cc-scrub-handle" id="ccHandle"></div>
+      </div>
+      <div class="cc-clip-badge">clip length ${fmtTime(l.duration)}</div>
+      <div class="cc-playbtn cc-cc-on" id="ccCaptionBtn" onclick="toggleCaptions(event)" title="Toggle captions" style="font-size:11px; font-weight:800;">CC</div>
+      <div class="cc-playbtn" id="ccFullBtn" onclick="toggleFullscreen(event)" title="Full screen" style="font-size:14px;">⛶</div>
+    </div>
+    <div class="video-meta" style="justify-content:flex-end;">
+      <button onclick="seekLesson()">⟲ Restart from beginning</button>
+    </div>
+  </div>` : `
+  <div class="card" style="background:linear-gradient(160deg,#fbfcfe,#f6f8fc);">
+    <div class="section-label">Reference Lesson · Narrated Audio</div>
+    <p style="margin:0 0 14px;color:var(--muted);font-size:13.5px;">No video exists for this topic in the source recording — listen to the narrated summary below, or read through the sections underneath.</p>
+    <audio id="lessonAudio" controls preload="metadata" style="width:100%;" src="${l.audio}"></audio>
+  </div>`}
+
+  <div class="card">
+    <div class="section-label">What You'll Learn</div>
+    <ul>${l.learn.map(x=>`<li>${x}</li>`).join("")}</ul>
+  </div>
+
+  <div class="two-col">
+    <div class="card">
+      <div class="section-label">Aya-Lotus One Skills Demonstrated</div>
+      <div>${l.skills.map(s=>`<span class="skill-chip">${s}</span>`).join("")}</div>
+    </div>
+    <div class="card">
+      <div class="section-label">Key Takeaways</div>
+      ${l.takeaways.map(t=>`<div class="takeaway"><span class="ic">✓</span><span>${t}</span></div>`).join("")}
+    </div>
+  </div>
+
+  ${l.terms && l.terms.length ? `
+  <div class="card">
+    <div class="section-label">Terminology</div>
+    <div class="terms-list">${l.terms.map(([t,d])=>`<div class="term-row"><b>${t}:</b> ${d}</div>`).join("")}</div>
+  </div>` : ""}
+
+  ${l.practice ? `
+  <div class="card">
+    <div class="section-label">Practice Activity</div>
+    <div class="practice-box"><div class="ptitle">Hands-On Exercise</div>${l.practice}</div>
+  </div>` : ""}
+
+  ${l.check ? renderQuiz(l, "check", "Knowledge Check") : ""}
+  ${l.check2 ? renderQuiz(l, "check2", "Knowledge Check (2)") : ""}
+
+  <div class="module-nav" style="margin-top:28px;">
+    <button class="mod-nav-btn" ${prevMod?"":"disabled"} onclick="${prevMod?`goLesson('${prevMod.lessons[0].id}')`:""}" title="${prevMod?prevMod.title:""}">« Previous Module</button>
+    <span class="module-nav-current">Module ${modIdx+1} of ${COURSE.modules.length}</span>
+    <button class="mod-nav-btn" ${(nextMod && isUnlocked(nextMod.lessons[0].id))?"":"disabled"} onclick="${nextMod?`goLesson('${nextMod.lessons[0].id}')`:""}" title="${nextMod?(isUnlocked(nextMod.lessons[0].id)?nextMod.title:"Complete this lesson to unlock"):""}">Next Module »</button>
+  </div>
+
+  <div class="nav-buttons">
+    <button class="pill-btn" ${prevL?"":"disabled"} onclick="${prevL?`goLesson('${prevL.id}')`:""}">← Previous</button>
+    <label class="complete-toggle"><input type="checkbox" id="doneToggle" ${isDone(l.id)?"checked":""} ${(state.watched[l.id]||isDone(l.id))?"":"disabled"} onchange="markDone('${l.id}', this.checked)"> Mark lesson complete</label>
+    <button class="pill-btn primary" id="nextBtn" ${isDone(l.id)?"":"disabled"} title="${isDone(l.id)?"":"Mark this lesson complete to continue"}" onclick="${nextL?`goLesson('${nextL.id}')`:`goFinal()`}">${nextL?"Next Lesson →":"Go to Final Assessment →"}</button>
+  </div>
+  <div id="watchHint" style="text-align:right;margin-top:8px;font-size:11.5px;color:var(--warn); display:${(state.watched[l.id]||isDone(l.id))?"none":"block"};">▶ ${l.hasVideo?"Watch the full video":"Listen to the full audio"} to unlock "Mark lesson complete."</div>
+  <div id="lockHint" style="text-align:right;margin-top:8px;font-size:11.5px;color:var(--muted); display:${isDone(l.id)?"none":"block"};">🔒 Check "Mark lesson complete" above to unlock the next lesson.</div>
+  `;
+}
+
+function renderQuiz(l, key, label){
+  const quiz = l[key];
+  return `
+  <div class="card">
+    <div class="section-label">${label}</div>
+    <div class="quiz-box" data-quiz="${l.id}_${key}">
+      <div class="quiz-q">${quiz.q}</div>
+      ${quiz.options.map((o,i)=>`<button class="quiz-opt" data-idx="${i}" onclick="answerQuiz('${l.id}_${key}', ${i}, ${quiz.answer})">${o}</button>`).join("")}
+      <div class="quiz-feedback" id="fb_${l.id}_${key}"></div>
+    </div>
+  </div>`;
+}
+
+function attachQuiz(l){
+  // restore previous answer state visually
+  ["check","check2"].forEach(key=>{
+    if(!l[key]) return;
+    const saved = state.quiz[l.id+"_"+key];
+    if(saved!==undefined) paintQuiz(l.id+"_"+key, saved, l[key].answer, l[key].explain);
+  });
+}
+function answerQuiz(qid, idx, correctIdx){
+  state.quiz[qid] = idx; saveState();
+  const [lessonId, key] = qid.split("_");
+  const lesson = ALL_LESSONS.find(x=>x.id===lessonId);
+  const explain = lesson[key].explain;
+  paintQuiz(qid, idx, correctIdx, explain);
+}
+function paintQuiz(qid, idx, correctIdx, explain){
+  const box = document.querySelector(`[data-quiz="${qid}"]`);
+  if(!box) return;
+  const opts = box.querySelectorAll(".quiz-opt");
+  opts.forEach((btn,i)=>{
+    btn.classList.remove("selected","correct","incorrect");
+    if(i===idx && i===correctIdx) btn.classList.add("correct");
+    else if(i===idx) btn.classList.add("incorrect");
+    else if(i===correctIdx) btn.classList.add("correct");
+  });
+  const fb = box.querySelector(".quiz-feedback");
+  fb.classList.add("show");
+  fb.classList.toggle("ok", idx===correctIdx);
+  fb.classList.toggle("bad", idx!==correctIdx);
+  fb.textContent = (idx===correctIdx ? "✓ Correct. " : "✗ Not quite. ") + (explain||"");
+}
+
+let ccScrubbing = false;
+let pausedAtEnd = false;
+if(!state.positions) state.positions = {};
+if(!state.watched) state.watched = {};
+if(state.captionsOff === undefined) state.captionsOff = false;
+function markWatched(id){
+  if(state.watched[id]) return;
+  state.watched[id] = true; saveState();
+  if(currentView.type==='lesson' && currentView.id===id){
+    const cb = document.getElementById("doneToggle");
+    if(cb) cb.disabled = false;
+    const hint = document.getElementById("watchHint");
+    if(hint) hint.style.display = "none";
+  }
+}
+function attachVideo(l){
+  const v = document.getElementById("lessonVideo");
+  if(!v) return;
+  v.src = l.video;
+  pausedAtEnd = false;
+  const track = document.getElementById("captionTrack");
+  const ccBtn = document.getElementById("ccCaptionBtn");
+  if(track) track.track.mode = state.captionsOff ? "hidden" : "showing";
+  if(ccBtn) ccBtn.classList.toggle("cc-off", state.captionsOff);
+  let clipLen = l.duration;
+  const timeEl = document.getElementById("ccTime");
+  const fillEl = document.getElementById("ccFill");
+  const handleEl = document.getElementById("ccHandle");
+  const playBtn = document.getElementById("ccPlayBtn");
+
+  function paint(relSeconds){
+    const rel = Math.max(0, Math.min(clipLen, relSeconds));
+    const pct = clipLen > 0 ? (rel/clipLen)*100 : 0;
+    if(timeEl) timeEl.textContent = `${fmtTime(rel)} / ${fmtTime(clipLen)}`;
+    if(fillEl) fillEl.style.width = pct + "%";
+    if(handleEl) handleEl.style.left = pct + "%";
+  }
+
+  v.addEventListener("loadedmetadata", ()=>{
+    if(v.duration && isFinite(v.duration)) clipLen = v.duration;
+    const saved = state.positions[l.id];
+    v.currentTime = (saved!==undefined && saved > 0 && saved < clipLen) ? saved : 0;
+    paint(v.currentTime);
+  }, {once:true});
+
+  let lastSaved = 0;
+  v.addEventListener("timeupdate", ()=>{
+    if(!ccScrubbing) paint(v.currentTime);
+    if(v.currentTime - lastSaved > 1 || v.currentTime < lastSaved){
+      lastSaved = v.currentTime;
+      state.positions[l.id] = v.currentTime;
+      saveState();
+    }
+  });
+  v.addEventListener("ended", ()=>{ delete state.positions[l.id]; saveState(); markWatched(l.id); });
+  v.addEventListener("pause", ()=>{ state.positions[l.id] = v.currentTime; saveState(); });
+  v.addEventListener("play", ()=>{ if(playBtn) playBtn.textContent = "❙❙"; });
+  v.addEventListener("pause", ()=>{ if(playBtn) playBtn.textContent = "▶"; });
+
+  const scrub = document.getElementById("ccScrub");
+  function seekFromEvent(evt){
+    const rect = scrub.getBoundingClientRect();
+    const pct = Math.max(0, Math.min(1, (evt.clientX - rect.left) / rect.width));
+    const rel = pct * clipLen;
+    v.currentTime = rel;
+    paint(rel);
+  }
+  window.__ccSeek = seekFromEvent;
+  window.__ccScrubEnd = ()=>{ ccScrubbing = false; };
+}
+function attachAudio(l){
+  const a = document.getElementById("lessonAudio");
+  if(!a) return;
+  const saved = state.positions[l.id];
+  a.addEventListener("loadedmetadata", ()=>{
+    if(saved!==undefined && saved > 0 && a.duration && saved < a.duration) a.currentTime = saved;
+  }, {once:true});
+  let lastSaved = 0;
+  a.addEventListener("timeupdate", ()=>{
+    if(a.currentTime - lastSaved > 1 || a.currentTime < lastSaved){
+      lastSaved = a.currentTime;
+      state.positions[l.id] = a.currentTime;
+      saveState();
+    }
+  });
+  a.addEventListener("ended", ()=>{ delete state.positions[l.id]; saveState(); markWatched(l.id); });
+  a.addEventListener("pause", ()=>{ state.positions[l.id] = a.currentTime; saveState(); });
+}
+function scrubStart(evt){
+  ccScrubbing = true;
+  window.__ccSeek(evt);
+  const move = (e)=>window.__ccSeek(e);
+  const up = (e)=>{ window.__ccSeek(e); window.__ccScrubEnd(); document.removeEventListener("mousemove", move); document.removeEventListener("mouseup", up); };
+  document.addEventListener("mousemove", move);
+  document.addEventListener("mouseup", up);
+}
+function toggleLessonPlay(){
+  const v = document.getElementById("lessonVideo");
+  if(!v) return;
+  if(v.paused) v.play(); else v.pause();
+}
+function toggleCaptions(evt){
+  if(evt) evt.stopPropagation();
+  state.captionsOff = !state.captionsOff;
+  saveState();
+  const track = document.getElementById("captionTrack");
+  const ccBtn = document.getElementById("ccCaptionBtn");
+  if(track) track.track.mode = state.captionsOff ? "hidden" : "showing";
+  if(ccBtn) ccBtn.classList.toggle("cc-off", state.captionsOff);
+}
+function toggleFullscreen(evt){
+  if(evt) evt.stopPropagation();
+  const wrap = document.getElementById("videoWrap");
+  if(!wrap) return;
+  const isFs = document.fullscreenElement || document.webkitFullscreenElement;
+  if(!isFs){
+    (wrap.requestFullscreen || wrap.webkitRequestFullscreen).call(wrap);
+  } else {
+    (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+  }
+}
+document.addEventListener("fullscreenchange", ()=>{
+  const btn = document.getElementById("ccFullBtn");
+  if(btn) btn.textContent = document.fullscreenElement ? "⤢" : "⛶";
+});
+document.addEventListener("webkitfullscreenchange", ()=>{
+  const btn = document.getElementById("ccFullBtn");
+  if(btn) btn.textContent = document.webkitFullscreenElement ? "⤢" : "⛶";
+});
+function seekLesson(){
+  const l = ALL_LESSONS.find(x=>x.id===currentView.id);
+  const v = document.getElementById("lessonVideo");
+  if(v && l){ v.currentTime = 0; delete state.positions[l.id]; saveState(); }
+}
+
+function renderFinal(){
+  return `
+  <div class="lesson-head">
+    <h1>Final Assessment</h1>
+    <div class="obj">Answer all ${FINAL_ASSESSMENT.length} questions to test your understanding of the full course. There's no time limit — take your time.</div>
+  </div>
+  <form id="finalForm">
+  ${FINAL_ASSESSMENT.map((q,i)=>`
+    <div class="card">
+      <div class="quiz-box" data-fquiz="${i}">
+        <div class="quiz-q">${i+1}. ${q.q}</div>
+        ${q.options.map((o,oi)=>`<button type="button" class="quiz-opt" data-idx="${oi}" onclick="selectFinal(${i},${oi})">${o}</button>`).join("")}
+      </div>
+    </div>`).join("")}
+  </form>
+  <div class="nav-buttons" style="justify-content:center;">
+    <button class="pill-btn primary" onclick="submitFinal()">Submit Assessment</button>
+  </div>
+  <div id="finalResult"></div>
+  `;
+}
+let finalAnswers = {};
+function attachFinal(){
+  Object.keys(finalAnswers).forEach(qi=>{
+    const box = document.querySelector(`[data-fquiz="${qi}"]`);
+    if(box) box.querySelectorAll(".quiz-opt").forEach((btn,i)=>btn.classList.toggle("selected", i===finalAnswers[qi]));
+  });
+}
+function selectFinal(qi, oi){
+  finalAnswers[qi] = oi;
+  const box = document.querySelector(`[data-fquiz="${qi}"]`);
+  box.querySelectorAll(".quiz-opt").forEach((btn,i)=>btn.classList.toggle("selected", i===oi));
+}
+function submitFinal(){
+  let correct = 0;
+  FINAL_ASSESSMENT.forEach((q,i)=>{
+    const box = document.querySelector(`[data-fquiz="${i}"]`);
+    const opts = box.querySelectorAll(".quiz-opt");
+    const chosen = finalAnswers[i];
+    opts.forEach((btn,oi)=>{
+      btn.classList.remove("correct","incorrect");
+      if(oi===q.answer) btn.classList.add("correct");
+      else if(oi===chosen) btn.classList.add("incorrect");
+    });
+    if(chosen===q.answer) correct++;
+  });
+  const scorePct = Math.round((correct/FINAL_ASSESSMENT.length)*100);
+  state.finalScore = scorePct; saveState();
+  const passed = scorePct >= 70;
+  document.getElementById("finalResult").innerHTML = `
+    <div class="card" style="text-align:center;">
+      <div class="score-ring" style="background:${passed?'var(--ok-soft)':'var(--warn-soft)'};color:${passed?'var(--ok)':'var(--warn)'}">${scorePct}%</div>
+      <h3>${passed ? "You passed! 🎉" : "Not quite there yet"}</h3>
+      <p style="color:var(--muted)">You answered ${correct} of ${FINAL_ASSESSMENT.length} correctly. ${passed?"":"Review the highlighted lessons and try again — 70% is the passing threshold."}</p>
+      ${passed ? `<button class="pill-btn primary" onclick="goCompletion()">Continue to Course Completion →</button>` : `<button class="pill-btn" onclick="goFinal()">Retry Assessment</button>`}
+    </div>`;
+  window.scrollTo(0, document.body.scrollHeight);
+}
+
+function renderCompletion(){
+  return `
+  <div class="completion-wrap">
+    <div style="font-size:52px;">🏅</div>
+    <h1>Course Complete</h1>
+    <p style="color:var(--muted);max-width:520px;margin:0 auto;">You've completed <b>${COURSE.title}</b> — ${totalLessons()} lessons across ${COURSE.modules.length} modules, plus the final assessment (score: ${state.finalScore ?? "—"}%).</p>
+    <div class="cert-box">
+      <div style="font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent);font-weight:800;">Certificate of Completion</div>
+      <h2 style="margin:10px 0 4px;">Aya-Lotus One Mastery for Healthcare Staffing Recruiters</h2>
+      <p style="color:var(--muted);margin:0;">Aya-Lotus One Refresher Session Course</p>
+    </div>
+    <div style="margin-top:26px;">
+      <button class="pill-btn" onclick="goHome()">← Back to Course Home</button>
+    </div>
+  </div>`;
+}
+
+render();
+</script>
+</body>
+</html>

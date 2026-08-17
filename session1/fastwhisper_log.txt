@@ -1,0 +1,1324 @@
+C:\Users\Tanya Awasthi\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\file_download.py:141: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\Tanya Awasthi\.cache\huggingface\hub\models--Systran--faster-whisper-small.en. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+1.9s:  I am taking one random job ID from IaaS.
+12.6s:  Can you guys see my screen?
+14.6s:  Yeah.
+17.6s:  I've taken any job description from IaaS and I've searched it on Job Deva.
+23.6s:  When you search it on Job Deva, you will find this page opening up.
+27.6s:  Here, you see this attachment option.
+30.6s:  You need to open this attachment option.
+33.6s:  These are the two PDFs which are going to be there.
+35.6s:  Unit details, this is a very mandatory field,
+39.6s:  but you will find this field in, say, 60 or 70% of the jobs.
+44.6s:  Not every job from IaaS will have this unit details part.
+48.6s:  But job description, you'll find for every job.
+53.6s:  Some low-level positions, they don't give the unit detail,
+58.6s:  but majority, all the RN positions, you would always find the unit detail.
+63.6s:  This is what the PDF document looks like.
+70.6s:  It has all of the details about the job
+73.6s:  and what unit description field look like.
+77.6s:  This looks somehow like this.
+89.5s:  When you go through this unit description part,
+95.0s:  you will find unit name here.
+98.0s:  This will include the hospital's name along with the job title.
+102.0s:  Then the department where the department person is going to work with,
+105.0s:  unit type, further what is the department where the candidate is going to work,
+110.0s:  date when this was issued.
+112.0s:  This date may vary from months till year as well.
+117.0s:  You will find dates from 2025 as well.
+119.0s:  That is okay.
+121.0s:  Facility, density, discipline is like the field,
+126.0s:  job description or specialty.
+130.0s:  This is going to be the very basic information.
+133.0s:  You will find all of this information in job description as well.
+137.0s:  If I find-
+139.0s:  Nani, show it from the website so that you first of all show it from there.
+142.0s:  Then they know that this information exists over here as well.
+146.0s:  This is just a screenshot of whatever we are going to show you.
+149.0s:  Pick the job that Harshita gave me in the morning.
+160.4s:  I think the job has been closed now.
+167.6s:  I will not be able to find this.
+169.6s:  Anyways, I'll pick that, the other job.
+174.1s:  Doesn't matter. Pick anything.
+177.1s:  This one doesn't have the unit.
+179.1s:  This one has.
+182.6s:  This is the specific job which you were talking about.
+186.6s:  Okay. Let's go over this one.
+189.6s:  This has basically two fields, job details and requirements.
+193.6s:  First, I'll go through the requirement part because that is something
+196.6s:  which is a basic thing.
+198.6s:  This is going to be universal for all of the jobs.
+200.6s:  If required, that is going to vary from job to job again.
+204.6s:  This will have all of the details.
+206.6s:  Jahan, maybe say an RN license or maybe BLS
+212.6s:  or any sort of education which is required to be
+216.6s:  associated through some specific facility.
+219.6s:  BLS or ACLS has to be from AHA or ARC.
+223.6s:  No other association would be accepted.
+226.6s:  You will find all of the details here.
+228.6s:  Say, for example, you are confused that
+231.6s:  if this specific facility is going to accept ARC or no,
+234.6s:  you will always find it under requirements.
+238.6s:  You don't have to go back to the client checking in.
+240.6s:  You will always find it here in the requirements.
+246.1s:  Just like that, you will find all of the other associations
+249.1s:  and education where should it be verified
+253.1s:  or where should it be certified.
+255.1s:  You will find all of those here.
+259.1s:  Jahan, just give them a download of this page
+261.1s:  because it doesn't change much, right?
+263.1s:  But it changes some facility to facility.
+265.1s:  It does, but not a lot of changes are there.
+269.1s:  A majority, it would stay.
+271.1s:  You could use that as a general guide, right?
+274.1s:  Correct.
+277.7s:  Coming back to the job details,
+279.7s:  there's a general option where you'll find the status.
+281.7s:  Contract group is the group from which the facility
+285.7s:  has been associated.
+287.7s:  Union code and profession is ARAN,
+289.7s:  sociality should be wherever the candidate is going to be working.
+294.7s:  Then this is the main part, unit.
+296.7s:  This document contains all of the major information.
+299.7s:  For one, you guys can ignore this part
+302.7s:  or maybe the other things, but the end decision is unit.
+306.7s:  So, for example, I'll take an example of this.
+308.7s:  It says 16 hours non-billable orientation.
+314.7s:  But if I open this unit part,
+325.6s:  now this document says 48 hours of orientation.
+333.6s:  Which one would you consider?
+335.6s:  You will always consider the unit part.
+339.7s:  You do not go back to the description part and check that one.
+343.7s:  You will always consider the unit part.
+345.7s:  This is the major thing.
+347.7s:  Your access to yours of experience required.
+351.7s:  From top to bottom, don't jump through.
+354.7s:  Okay?
+359.7s:  So you want me to go through this?
+361.7s:  On the unit, you just start by scrolling down and explaining every field.
+366.7s:  Okay.
+367.7s:  So basically this has unit name,
+369.7s:  which will include again the title and along with that the facility.
+373.7s:  This is the information which is taken care by the client itself.
+378.7s:  You don't have to go through this.
+380.7s:  Again, like I said, this is from 2023.
+384.7s:  Coming back to the patient group,
+386.7s:  if your candidate does not have experience with adults,
+390.7s:  for example, and the candidate has experience with neonates,
+394.7s:  no, that is going to be a reject.
+396.7s:  You will have to take care of this part.
+399.7s:  If they have mentioned patient age group,
+401.7s:  you will have to be very specific when it comes to this thing.
+404.7s:  Now, this says staffing ratio.
+407.7s:  There is one is to six nights, one is to six and weekends also one is to six.
+410.7s:  You will have to make sure that your candidate has worked with one is to six patient ratio.
+416.7s:  It should not be in your selling points also that the candidate is comfortable working.
+421.7s:  One is to six patient ratio.
+423.7s:  You literally have to say that in your selling points.
+426.7s:  You have to say, remember, these are auto offer in auto offer.
+430.7s:  They expect that whatever is the job requirement, you have checked,
+433.7s:  you have acknowledged and you are giving that acknowledgement back to them.
+438.7s:  He ha many cardia many candidate, go, but I had the candidate.
+441.7s:  Okay.
+442.7s:  Hey, I got up here and he got okay.
+445.7s:  I got off and I, because they are not going to be the ones interview the honey.
+452.2s:  I got interview.
+453.2s:  How about the job on the interview letter?
+455.2s:  Well, push that we have one is to six of them.
+457.2s:  Okay.
+458.2s:  Oh, one is to five.
+459.2s:  Okay.
+460.2s:  Oh, one is to seven.
+461.2s:  Okay.
+462.2s:  Oh, what a honey happy.
+463.2s:  Well, Concarica.
+464.2s:  Well, come happening.
+466.2s:  That job falls on you.
+469.2s:  You are the one who is basically interviewing the candidate and based on all the
+475.2s:  required parameters, you are the ones who are telling the facility manager.
+479.2s:  Yeah.
+480.2s:  The candidate is okay with this.
+481.2s:  The candidate is okay with this.
+482.2s:  The candidate is okay with this.
+484.2s:  Okay.
+485.2s:  I got up.
+486.2s:  No, I got a car.
+487.2s:  So Joe, but the review car, I was going to put on the app.
+489.2s:  Nicky, I'm going to keep up.
+491.2s:  Okay.
+492.2s:  So my, uh, I got up.
+494.2s:  Bill book, perfect candidate.
+496.2s:  Like in happening, yeah.
+497.2s:  Coaching like I was making candidates.
+499.2s:  Okay.
+500.2s:  Hey, can it float?
+501.2s:  Okay.
+502.2s:  Hey, can it, we can coverage.
+503.2s:  So okay.
+504.2s:  Hey.
+505.2s:  Aenders got enough energy because of an event, right?
+506.2s:  They crisis, baby, not in a better way.
+507.2s:  So you get telepathically even go Merc a
+520.1s:  got poisoned.
+521.6s: Vssels?
+522.6s:  Yaka, barring that situation, how would they know whether I should I
+525.7s:  as to it or not.
+528.3s:  So this is why it is very important that you write it back there.
+532.8s:  These are your selling points.
+534.3s:  Those are your selling points.
+537.1s:  So, this is, you know...
+540.7s:  So, this is you know, LTC is the position.
+568.1s:  And
+597.7s:  this
+620.6s:  1 is to 5.
+621.6s:  So, this patient ratio is very important.
+629.6s:  So, easily you should ask them what is the maximum and mid-surge you have handled.
+640.5s:  So, both those candidates are comfortable with 1 is to 6 but can even handle up to 1
+647.5s:  is to 8.
+648.5s:  That is a selling point.
+652.5s:  So, you should ask them what is the maximum and mid-surge you have handled.
+655.5s:  So, you should ask them what is the maximum and mid-surge you have handled.
+657.5s:  Yes.
+686.9s:  So, if the person has enough experience working with adults, you will find all of the details.
+697.6s:  When it comes to unit section, the moment you see unit details, always open it and check it.
+703.6s:  You will find all of the details.
+706.6s:  If you have any questions, you will find all the answers here.
+709.6s:  You will not have to go back to the client.
+713.6s:  You will be checking in.
+715.6s:  Can we do this or no?
+716.6s:  We will check the
+746.6s:  Yes, you will even see that.
+751.6s:  So this tells you, yes.
+753.0s:  I can shift, 7 to 7 30.
+761.0s:  Shabam.
+762.5s:  Karshata clear.
+763.9s:  Clear on this part.
+765.4s:  Nitesh?
+765.8s:  Yes, sir.
+767.4s:  Because I want to make sure that you guys, and then again, I am not doubting that you
+771.1s:  do not know that.
+771.7s:  Nitesh, I'm not doubting that you do not know that, but I want to do my job in
+775.2s:  explaining it to you once.
+776.5s:  Once I know I have explained it to you, then you can never come back to me and
+779.5s:  say that you do not know this because I know I explained it to you.
+784.6s:  So then this, my expectation is
+796.6s:  so that you also train right before us, you are the trainer, you are the leads,
+801.3s:  you are the manager.
+802.7s:  So we want to train you.
+803.9s:  We want to make sure that you know this because then down your folks, you are able
+808.7s:  to explain to them also, but train them as well.
+812.6s:  These things are important.
+813.7s:  Again, it's an auto offer.
+824.1s:  You have to do all the job.
+832.9s:  You know, this is even harder than the other one because you, you have to do all of this.
+843.5s:  So you have to do all of this.
+845.0s:  So you have to do all of this.
+851.5s:  Okay.
+853.5s:  And from all of this, you will get to know that this is a 12 hours, three days shift.
+858.6s:  No rotational shifts would be provided in case this was, yes, you will have to
+862.2s:  check with a candidate if he's open for rotating shifts or no.
+865.6s:  Again, that should be there in the selling points as a confirmation that the
+868.8s:  candidate is open for rotation shifts.
+871.7s:  With that in place.
+877.2s:  Okay.
+879.5s:  When the timing changed, they are going to start crying.
+883.1s:  And the issue is going to be because you did not read the information
+887.6s:  that was already provided to you.
+889.2s:  So the fault does not lie with the candidate.
+891.2s:  The fault lies with you.
+898.2s:  Then if I come back to schedule requirements call required, it does not say
+902.8s:  yes, then it automatically says no.
+905.0s:  If there is no option of no, then it's a no.
+908.0s:  Otherwise if it is there, then you will have to go back and confirm this
+911.7s:  with the account manager or maybe the POC who's handling it here.
+917.7s:  Float.
+918.5s:  If yes, it is required, but if you tell the candidate and check in, if the
+922.4s:  candidate is okay floating to the other department, again, we can
+927.5s:  coverage one of the selling points.
+928.8s:  Eight second.
+929.8s:  Float.
+930.3s:  Just say, if you remember, right.
+934.1s:  So between the facilities, that is going to be between departments.
+941.0s:  You have to make sure that a candidate is okay to travel to different places.
+953.4s:  So that, and then if it is written in your selling points, you have to write
+958.0s:  the candidate is okay to float to different facilities.
+972.5s:  So this is why it is very, very important that you read it properly.
+980.5s:  That it is not just a float.
+983.0s:  Float can be two types, right?
+984.6s:  Float within the departments or within the units in the same facility or float
+990.6s:  between two different facilities, three different facilities, four different facilities,
+994.3s:  whatever number of facilities there are.
+999.3s:  Okay.
+1006.3s:  And here is why this confirmation, I mean, time and again,
+1009.7s:  confirmations are required is because of your thing only.
+1012.7s:  And even if you do not confirm, tell me one thing, I'll give you, I'll ask a
+1016.8s:  straight question from all of the team members here.
+1019.4s:  So going forward, you have a team and you know that there are three members in the team.
+1023.7s:  Just listen to a candidate.
+1024.9s:  If you have a candidate, you will confirm that you have a submission,
+1028.8s:  you will have a submission without checking anything.
+1031.6s:  And you know, the other two would do their work.
+1034.2s:  They will check everything and then only they'll submit.
+1037.2s:  What would you prefer?
+1040.6s:  Of course, the other two, the ones who do their work properly and eventually you
+1044.0s:  will ignore the submissions coming from the last one.
+1048.0s:  That is how teams work with Aya as well.
+1050.6s:  I will stop looking at the submissions.
+1054.4s:  They will stop looking at the submissions.
+1055.9s:  They will stop looking at the submissions.
+1059.9s:  Why would I even waste my time here?
+1063.2s:  They have 300 or maybe thousand.
+1065.8s:  I don't know how many vendors working with them already.
+1069.0s:  Do you think that they have time to waste?
+1073.7s:  So what happens is perception, right?
+1098.8s:  Sir, you will not look at it one more time.
+1101.2s:  You will just reject it right away or look for another option first.
+1104.4s:  Exactly.
+1107.8s:  You keep on guessing details.
+1109.5s:  You keep on guessing.
+1114.8s:  You keep on guessing.
+1116.3s:  You keep on guessing.
+1118.8s:  What they want you to qualify.
+1120.7s:  Right?
+1121.2s:  What they want you to qualify.
+1122.6s:  What they want you to qualify.
+1124.5s:  What they want you to qualify.
+1127.8s:  So you can't do that.
+1133.7s:  And honestly, I'm not going to sugarcoat it.
+1135.3s:  I'm not going to sugarcoat it.
+1139.2s:  I'm not going to sugarcoat it.
+1140.7s:  I'm going to sugarcoat it.
+1144.0s:  I'm going to sugarcoat it.
+1149.5s:  And you will not get a lot of time.
+1156.4s:  And then again, these things...
+1159.6s:  Remember this is how healthcare works.
+1163.4s:  It does not matter.
+1165.0s:  If you want to make a right sourcing, you can do it.
+1167.9s:  You can do it.
+1206.1s:  And then again, you are going to remain consistent.
+1211.3s:  If you want to make a right sourcing, you can do it.
+1215.2s:  But if you want to make a style of working, you can do it.
+1217.7s:  If you want to make a style of working, you can do it.
+1220.9s:  But if you want to make a right sourcing, you can do it.
+1228.5s:  You will check.
+1232.3s:  Otherwise, you will get confidence.
+1242.4s:  Take it.
+1242.8s:  Let's scroll down.
+1243.8s:  This is a good idea to make a right sourcing of your healthcare.
+1249.6s:  It will help you.
+1256.5s:  You can do it.
+1258.2s:  You can get information on it.
+1261.7s:  This is a good idea to make a right sourcing.
+1268.9s:  You can do it.
+1269.9s:  You can do it.
+1270.9s:  This is your company's company's company, because it is a great experience.
+1275.7s:  Experience
+1297.4s:  Because he mentioned that exactly
+1300.9s:  Yeah
+1304.2s:  Next time notice
+1309.7s:  system console this pick on here but was selling notes me Jana come here but
+1318.1s:  you had a crack on a Q and a pictures chief documentation system epic right
+1332.6s:  I'm seeing me in the facility key information next can give a radiology
+1337.9s:  be heavy heavy head who is it I'm the coverage Cassie oh Tia right
+1342.7s:  one on electric in-house how much intensivists who a car CRN a how much
+1347.7s:  a way he had a lot of so there is on the ground may NPV look even on a key
+1353.1s:  poor time but NPV way gate so I got we can deduct a push like even cars staff
+1358.3s:  guess about that this is what they're saying the her time paid JL of going
+1362.3s:  about okay you can scroll down yeah no you don't
+1375.0s:  okay current guy okay how they go Joe a papers yeah Joe a paper certifications
+1384.8s:  war Tn right cap required hair character was supposed to have a suit yeah so this
+1395.1s:  is where you see key a poke you can see it do required hair Agar one he had
+1400.3s:  yep and in a lady haka local yeah calco's give us very boss or resume submit
+1405.5s:  required. It should be available in hand.
+1414.0s:  It should be in your possession the moment you are submitting the resume.
+1432.6s:  It should be available in your possession the moment you are submitting the resume.
+1455.3s:  It should be available in your possession the moment you are submitting the resume.
+1501.7s:  You even
+1533.2s:  have to review.
+1535.2s:  And I'm not saying that we are dealing with humans on the other side.
+1552.5s:  I cannot say that every human is going to act the same way.
+1556.0s:  But I am telling you the fact that there are humans on the other side, they are so nitpicky
+1560.7s:  that there are interested in maintaining IV force, whatever, maintaining IV force.
+1566.4s:  I'm not saying that they are going to act the same way, but they are going to be able to
+1569.5s:  do that.
+1570.5s:  But I am going to say that if you are a human, then you are going to be able to do that.
+1578.1s:  But you are going to be able to do that.
+1581.7s:  So you have to be able to do that.
+1583.1s:  Here you are going to be able to do that.
+1584.9s:  It is all up to you.
+1586.7s:  But we cannot do anything, there is nothing you can do.
+1589.8s:  So, there is nothing you can do but I want you to understand that they even take on this
+1595.7s:  thing.
+1598.0s:  No skills required.
+1599.0s:  This is not a description of the job, right?
+1617.0s:  This is a description of the unit.
+1618.5s:  He is the unit in the character.
+1628.0s:  Say that if there are, there is something to say, this is required.
+1632.8s:  This is another required section.
+1634.6s:  Just in case if your candidate has marked himself out of four, one or two, they will reject
+1641.8s:  it.
+1642.8s:  That is not going to work.
+1644.3s:  Anything which is marked below three and is required that has to be taken care of.
+1653.3s:  They check.
+1655.3s:  Tell me if there is anyone who has not seen a checklist.
+1659.0s:  I assume all of you have seen a checklist, right?
+1668.8s:  You see all of these proficiency and frequency.
+1673.2s:  For example, this cardio pulmonary candidate has rated himself frequency.
+1678.2s:  So, it was a reject.
+1684.2s:  DCM was not too late.
+1689.5s:  If this is something which is required, this is not going to work.
+1696.5s:  You will have to check each and every detail in the checklist.
+1705.3s:  Coming back to the skills part.
+1706.8s:  So, you will find all of the skills preferred and required here in under the skill section.
+1716.8s:  All of this will match with the ones you have outside.
+1719.8s:  In case unit details is not there, you will find all of the details.
+1723.0s:  They consider this one.
+1724.0s:  But just in case unit section is there, always and always open the section and check.
+1729.8s:  Whenever I review a profile, I make sure that all of these skills are there in the resume.
+1736.2s:  If it is not there in the resume, I make sure that all of these skills are there in the checklist.
+1740.8s:  In case it is missing from the checklist.
+1742.5s:  For example, cardio monitoring and emergency response have some other name in the checklist.
+1749.2s:  It is missing.
+1751.1s:  And it is missing from the resume itself.
+1752.7s:  I will make sure that if it has another name in the checklist,
+1755.7s:  I will make sure that it should be there in the resume.
+1759.5s:  If it is missing, I will make sure that all of the skills are preferred and required.
+1765.0s:  If it is not required, it is a required skill.
+1769.9s:  Starting and maintaining IVs.
+1772.0s:  We showed you on the other unit detail.
+1774.2s:  It was a required skill.
+1775.1s:  So, what is the required skill?
+1776.2s:  Starting and maintaining.
+1778.0s:  If it is not required, you will be required to prepare line management and all of that.
+1782.5s:  So, pick line management, peripheral or routine management.
+1785.0s:  It is required for the required skill.
+1788.0s:  I hope this is not becoming too much overload.
+1797.5s:  This is something you guys have been doing.
+1805.9s:  I hope, you know, but we are like, we are going a little bit more in detail showing you both the sides of it.
+1814.0s:  That's the only thing.
+1814.8s:  Otherwise, I hope you already know all of this.
+1822.4s:  And if I come back, work experience.
+1825.5s:  This will always have all of the details.
+1828.0s:  If any charge experience is required, teaching experience is required,
+1831.8s:  community hospital experience is required, LTSE and trauma levels again.
+1837.5s:  Now, it says charge nurse experience is preferred.
+1841.2s:  So, you will always and always find somebody who has worked as a charge nurse
+1846.3s:  because this is something which is preferred.
+1847.9s:  And whenever they say preferred, in the only in the work experience part,
+1853.7s:  considerable that is required.
+1856.7s:  With AYA, if it says that preferred, consider it as required.
+1864.7s:  I bet my skinny ass on it, it actually means required.
+1871.5s:  That is how AYA works.
+1876.0s:  If they say two years of experience is required, you will always find this year.
+1880.2s:  Two years of experience is required.
+1881.7s:  They need somebody with two experience.
+1883.7s:  One year, eight months, 10 months, 11 months would not work.
+1887.7s:  Two years means two years.
+1889.1s:  Do not even think of
+1893.4s:  Again, patient ratio.
+1894.8s:  You can always submit somebody with one is to seven ratio,
+1897.6s:  but do not submit somebody with one is to five.
+1900.3s:  Do not.
+1902.5s:  Electronic documentation required, epic.
+1905.7s:  Even if they would have said preferred here, consider this as required.
+1912.0s:  Epic is required.
+1913.4s:  And when they say two years of experience,
+1915.2s:  late short or trying somebody who has experience with Epic as well for two years.
+1920.4s:  Yes, I was gonna good point.
+1922.9s:  If they say epic required and the years of experience required is two,
+1926.9s:  this same two years will translate to this also.
+1935.7s:  They literally calculated from month to month.
+1966.2s:  You have to then again, all of those things go into selling points.
+1973.0s:  So this experience,
+1975.9s:  right?
+1976.6s:  Epic,
+1981.0s:  but acknowledge the fact the candidate has over one and a half years of experience
+1984.2s:  in Epic and feels very comfortable with the software that goes into your selling points.
+1991.9s:  You're falling short somewhere.
+1994.2s:  You still have to say it in a bit of positive spin.
+2004.5s:  So it's very comfortable doing it.
+2013.3s:  So that all becomes how you sell it.
+2015.1s:  And that is where we keep on telling you, you should know how to sell your candidate.
+2018.7s:  You should know how to sell your candidate.
+2040.2s:  What type of facilities this.
+2048.1s:  So actually, I was with that.
+2063.9s:  That's fine.
+2066.6s:  Okay, when facilities have like hospital has multiple facilities,
+2072.1s:  quite drama level, one host of people trauma level to take quite drama level to you.
+2076.5s:  So you should always write the address as well.
+2095.1s:  This is giving all of this here because I have been,
+2098.5s:  I mean, my history says it's facility time level teaching trauma and whatnot.
+2102.9s:  Otherwise, if you are doing
+2105.1s:  Okay.
+2118.7s:  It's a private, non-profit, short term, acute care.
+2127.9s:  Like we were discussing in the morning.
+2171.2s:  It does not matter what is written in the resume.
+2184.8s:  Do you understand what I'm trying to say?
+2187.9s:  Yes, sir.
+2190.1s:  Yes, sir.
+2191.4s:  Right.
+2192.1s:  And this is exactly what all the recruiters need to understand.
+2195.3s:  But I hope you are able to carry that.
+2202.4s:  This is very, very, very important and that becomes the differentiator.
+2255.3s:  So you might think
+2285.3s:  Okay, this is how it is being interpreted on the other side.
+2309.2s:  That should make sense.
+2313.0s:  Yes, sir.
+2318.7s:  Do you want me to show one of the rejections?
+2321.7s:  No, I still want to go over to this person and then you could show them the rejections.
+2328.9s:  I don't think we need to show them a proof.
+2330.6s:  I hope you believe what we are telling you.
+2332.5s:  Right.
+2332.7s:  I mean, you know, you can always show you.
+2337.3s:  But we always incorporate.
+2351.5s:  So why am I going to take a chance?
+2366.9s:  Why would I not do that?
+2368.0s:  I don't know.
+2369.6s:  Once you start doing that and she can give you the exact, you know,
+2385.0s:  literally you can cut and paste this whole thing for the facility and type it over this.
+2390.0s:  Okay.
+2391.4s:  So I prepared teaching already.
+2394.6s:  Yes.
+2398.4s:  Then we go back to that unit type unit.
+2403.5s:  Scroll down.
+2406.9s:  To the last?
+2408.1s:  Yes.
+2412.5s:  Okay.
+2412.9s:  So teaching hospital experience.
+2418.5s:  Right.
+2422.9s:  Yeah.
+2423.3s:  Yeah.
+2423.8s:  It's many.
+2424.4s:  So you would see it preferred somewhere.
+2427.8s:  Perfect.
+2438.6s:  Long-term acute care, right?
+2440.5s:  Long-term acute care.
+2481.4s:  Right.
+2482.1s:  Okay.
+2490.3s:  Believe me.
+2492.3s:  If your candidate has worked in a teaching facility,
+2497.1s:  please write it in your selling points.
+2514.1s:  So this is why we always tell you that you should know
+2521.9s:  what is K Y C.
+2523.1s:  K Y C is know your customer.
+2525.3s:  Right.
+2544.4s:  Correct.
+2547.0s:  Okay.
+2547.4s:  Okay.
+2547.9s:  So
+2549.4s:  I'm going to do a teaching facility.
+2552.0s:  Yeah.
+2552.3s:  It's got normal level.
+2553.2s:  Yeah.
+2553.5s:  Normal level.
+2556.8s:  To working.
+2559.4s:  Normal level.
+2562.9s:  It's a much better.
+2565.0s:  But in general,
+2566.3s:  is facility.
+2566.9s:  Yeah.
+2567.4s:  Yeah.
+2569.4s:  Details.
+2569.8s:  Is facility.
+2571.0s:  True.
+2571.5s:  True.
+2571.8s:  Yeah.
+2572.8s:  It's got to work.
+2573.8s:  Okay.
+2575.0s:  So
+2598.2s:  you are trying to sell your resume, right?
+2600.4s:  So you're gonna write.
+2606.8s:  Fair.
+2607.4s:  Okay.
+2630.3s:  That's why we ask you to check these things.
+2636.8s:  When you do your K Y C,
+2638.2s:  you know what sort of a facility is.
+2640.1s:  Inpatient or outpatient facilities.
+2673.9s:  I'm not going to be able to open that situation.
+2676.9s:  I'm not going to open that situation.
+2678.9s:  Make sense?
+2687.4s:  I'm not going to reject any of these things.
+2690.4s:  You see how many things are going to play.
+2695.4s:  At least, I'm not going to play.
+2697.4s:  I'm not going to play.
+2698.4s:  I'm going to play 70% match on top summit.
+2701.4s:  I'm not going to play.
+2703.4s:  I'm going to play hard core requirements.
+2706.4s:  I'm going to play hard core requirements.
+2708.4s:  I'm not going to back up the situation else.
+2710.4s:  Even from 1-3, I'm going to flaw 65%
+2713.4s:  What I said how many questions are going to be there after
+2716.4s:  I'm going to agony reseting the situation.
+2720.4s:  It might just be very bizarre.
+2722.4s:  What was going on?
+2723.4s:  Last week I addressed a question about how we can fix local issues.
+2731.6s:  Looks like we still have an outpatient facility now,
+2735.6s:  without this value D 00.
+2739.6s:  But the candidate is comfortable working in an inpatient setting.
+2752.0s:  Is that a better situation than letting the IAA guys see you over there?
+2758.0s:  I have a very good experience in the inpatient facility.
+2762.4s:  And I acknowledge that the candidate is comfortable working in an inpatient facility.
+2768.1s:  So, I can tell you what is better.
+2770.0s:  Which is a better situation?
+2771.5s:  I address my shortcomings myself.
+2776.6s:  I call it that thing.
+2778.1s:  I have a lot of experience in the inpatient facility.
+2781.0s:  I have a lot of experience in the inpatient facility.
+2785.0s:  he is a man who has a lot of knowledge.
+2789.8s:  What is his situation better than yours?
+2795.8s:  Do you know what I have to say?
+2798.0s:  Do you know what's better than yours?
+2800.4s:  What is better than yours?
+2801.4s:  He is doing his job.
+2804.6s:  He's doing everything.
+2806.6s:  He's very happy to have a job with him.
+2809.6s:  He's very happy.
+2810.8s:  So he has to be surprised.
+2814.8s:  So what is better than yours?
+2815.8s:  He knows the facility.
+2821.8s:  So he knows the facility.
+2827.8s:  That is what it is.
+2841.4s:  Trust me, that is because of the reputation of this organization.
+2848.4s:  Maybe the company has built.
+2850.4s:  they must have neglected that part. they must have not seen it.
+2856.7s:  We have to struggle a lot.
+2873.9s:  and this is why we are so hardcore about
+2877.0s:  We do not let you deviate from that because we know that is what is going to work and then
+2889.7s:  again you know.
+2920.7s:  So you are not going to get hurt.
+2928.5s:  Make sense guys?
+2929.5s:  Yes sir.
+2934.0s:  Fair.
+2935.0s:  It is a friend of mine who is 50 miles away.
+2941.4s:  You should always write that the candidate is these many miles away and is eligible to
+2946.6s:  be a traveler.
+2947.6s:  How many miles?
+2948.6s:  50 miles radius.
+2950.9s:  If you get a driver license you have to travel.
+3021.0s:  Like we were discussing license this has to be in hand at the time of submission had this
+3053.9s:  been written that it is required at the time of offer. We could have given an exception
+3058.5s:  to get a VLS expired and the person will get renewed upon offer. But in this case, that
+3063.5s:  is not going to work. They need it at the time of the submission. With that in place,
+3069.6s:  like we were discussing floating, traveler may be floated to any Cone Health campus as
+3075.7s:  needed. You will have to check with a candidate that if he or she is comfortable floating
+3081.1s:  to the other facilities.
+3090.5s:  Yeah, let's go back to that unit thing because I just want to finish it off.
+3098.7s:  Orientation details, like 48 hours. It doesn't matter.
+3111.0s:  Again, you know, can anyone be back? I mean, I you're just in front of me. So can you
+3116.4s:  explain to me is,
+3117.5s:  what does this mean?
+3118.5s:  That they will take only one request. You have to mention at the time of submission.
+3124.8s:  And if they give us an offer after that, they will not accept if a candidate has any
+3129.6s:  request for time off.
+3133.0s:  Okay, so suggest I understand your explain one request, one span of time is
+3139.9s:  that's it. That's it. That one block, one block of vacation, one span of time.
+3145.8s:  That's it. That one block, one block of vacation would be allowed.
+3162.4s:  What she's trying to say is it can be 10th.
+3165.4s:  Say if your candidate needs day off on 10th and 12th. It can be 10th to 12th.
+3170.5s:  It cannot be 10 and 12th.
+3173.7s:  If you say 10th and 12th, yeah.
+3184.1s:  It's not a travel experience.
+3187.8s:  I think this is a...
+3213.3s:  Why is this point important?
+3215.9s:  Harchada, you cannot answer this question.
+3217.9s:  No, Harchada, somebody else tells me.
+3221.9s:  No.
+3223.9s:  Yeah, we are on camera.
+3231.3s:  Go ahead.
+3232.3s:  Yes sir. So in my perception, it is really important because some of the
+3236.9s:  candidate doesn't have the particular colour for that particular scrub.
+3240.3s:  If for example, in the other facility, for which facility we are going to
+3244.3s:  submit the candidate and the previous experience that particular candidate
+3248.3s:  having the red scrub, but here it is required blue.
+3251.3s:  So we need to ask the candidate, do you have that particular scrub?
+3254.3s:  So that's why.
+3256.3s:  Yes.
+3257.3s:  This is the...
+3260.3s:  So, this is the explicit meaning.
+3265.3s:  What is the implicit meaning of this?
+3268.3s:  Anybody knows that?
+3274.0s:  Talk about that.
+3275.0s:  What is the case?
+3276.0s:  What is the case of the facility?
+3277.0s:  It is called scrub colour.
+3280.0s:  Yes.
+3281.0s:  And majority of the nurses hate white.
+3285.0s:  So, what is the case?
+3287.0s:  What is the case?
+3288.0s:  What is the case?
+3289.0s:  What is the case of the candidate?
+3290.0s:  What is the case of the candidate?
+3291.0s:  What is the case of the scrub colour white?
+3294.0s:  What is the case of the job?
+3295.0s:  What is the case of the white scrub?
+3302.8s:  So, this is why this always needs to go into your selling points.
+3306.8s:  That candidate is okay with a...
+3309.8s:  Cissor blue scrub colours.
+3314.2s:  I think I told you guys a lot of things that need to go into the selling point.
+3322.2s:  I hope somebody was making notes of that.
+3324.2s:  I hope somebody was making notes of that.
+3327.2s:  Otherwise, next time, I will review the cardiothos.
+3331.2s:  Just go over it one more time with them.
+3333.2s:  But you understand now why it is so important.
+3336.2s:  So, I think that this is why this blue is not a bad thing.
+3339.2s:  It is because the car is not a bad thing.
+3342.2s:  So, I think that this is why this blue is not a bad thing.
+3346.2s:  But whatever reason, blue does not fit my skin colour.
+3349.2s:  Why blue is not a bad thing?
+3352.2s:  I think it is because the candidate is a good job.
+3358.2s:  It is a blue color.
+3362.4s:  But it is also because of white colour.
+3364.4s:  So, white colour is a bad thing.
+3367.4s:  So, white colour is a bad thing.
+3369.4s:  White colour is a bad thing.
+3371.4s:  So, this is why you have to read it, boss.
+3376.3s:  You have to read it over here.
+3383.4s:  Take it away.
+3385.4s:  Then there is one more thing that the scrub will be provided.
+3389.4s:  If this was a tick on the provided part, they would have provided.
+3394.4s:  Now that they are not providing it, the candidate has to get his own scrub.
+3400.4s:  That is why also colour is important.
+3402.4s:  Remember, P.J. and the candidate showed up at the facility in the wrong scrubs.
+3406.4s:  They terminated the contract or something like that.
+3410.4s:  They told them that they were not providing it.
+3414.4s:  They told them that they were not providing it.
+3418.4s:  They told them that they were not providing it.
+3421.4s:  They told them that they were not providing it.
+3423.4s:  Whatever screw up happened because of scrubs, that happened.
+3428.4s:  But the facility might even send a candidate back.
+3434.4s:  So, that is how important the scrub colour is.
+3441.5s:  Guys, anything that anybody did not understand,
+3451.0s:  any poor part that you want us to go over with you back again.
+3455.0s:  Yes, you want.
+3457.0s:  Sir, I just wanted to check regarding the orientation details.
+3460.0s:  It is mentioned like 48 hours.
+3462.0s:  Does it mean like only 16 hours is non-beliable and rest 2 hours are available?
+3467.0s:  What does it mean 48 hours are non-beliable?
+3469.0s:  48 hours is non-beliable.
+3471.0s:  This is why it is important you have to check over here.
+3477.2s:  Sir, as discussed today, like I discussed the same with Sunita,
+3484.1s:  and she told me the orientation hours will be 16,
+3488.1s:  as the orientation will be 48, but only 16 hours will be non-beliable.
+3493.1s:  This is what she told me.
+3495.1s:  Okay.
+3496.1s:  Look, I could be wrong.
+3498.1s:  So, I would rather go with whatever Harshita is saying.
+3501.1s:  Yes, sir.
+3505.1s:  Like him, did she check from the PO or how did she check?
+3512.7s:  She just told me that these are the orientation hours given by the facility.
+3523.7s:  But you heard of her own health right previously.
+3526.7s:  So, let's check all of those details that we must have shared in.
+3531.7s:  When you accept the PO, this is exactly what you need to check.
+3540.7s:  That is what you need to check.
+3542.7s:  So, that is what you need to check.
+3545.7s:  So, that is one thing that leads.
+3564.8s:  So, you need to know that you must accept the trigger.
+3574.8s:  Okay.
+3581.3s:  And you have to check the dates.
+3584.3s:  So, you have to check the dates.
+3586.3s:  So, you have to check the dates.
+3588.3s:  So, you have to check the dates.
+3592.3s:  Okay.
+3598.6s:  Okay.
+3599.6s:  Yeah, now you can go to the...
+3601.6s:  Just one more thing.
+3603.6s:  Anybody else who has any questions?
+3606.6s:  When it says unit accepts first-time travelers, it says travel experience required, no.
+3623.0s:  But they do accept first-time travelers.
+3627.7s:  You see, travel experience, no.
+3629.7s:  But travel experience is a plus as well.
+3631.7s:  So, this is something which is required and they do accept first-time travelers.
+3649.7s:  There was one more thing.
+3653.7s:  I wanted to end.
+3657.8s:  Yeah, I think I'm good.
+3659.8s:  Coming back to the job details part.
+3662.8s:  So, whatever information you find here, you might have to...
+3670.3s:  If the information contradicts from here along with that, the one in the unit details,
+3676.3s:  always consider the one which is there in the unit details.
+3679.3s:  Because here, the details which are mentioned here, these are almost...
+3684.3s:  Maximum number of times, these are copy-placed.
+3687.3s:  Here, they see cone here, MSP.
+3690.3s:  They will always put by default information.
+3695.8s:  So, always consider the one which has the unit details,
+3699.8s:  which is there in the unit details.
+3701.8s:  Then you'll always see a shift was 3 into 12.
+3708.8s:  But here, what they accept is day shift is 7 to 7.30
+3713.8s:  and then night was 7.30 in the morning.
+3718.8s:  Because this was night, that is why this is here.
+3723.8s:  Had this been days, too, you would have considered 7 to 7.30 in the evening.
+3730.8s:  Job location, this is again very important why.
+3733.8s:  Always and always check this, that if there is any local radius rule,
+3738.8s:  you will always have to check this address with the one you have.
+3744.8s:  And then address is important.
+3746.8s:  This is the type check.
+3748.8s:  The facility or the address, the trauma level,
+3752.8s:  facility to facility changes.
+3754.8s:  Teaching type, the vote, the bed size, this is the change.
+3758.8s:  This is why you want to make sure that you put in not just the name of the facility,
+3762.8s:  but the address.
+3764.8s:  When you are checking, what you have.
+3771.4s:  Then again, block schedules, it says no.
+3775.7s:  But if this has been, this would have reflected as yes,
+3780.7s:  you will again have to check with the candidate if he's okay with that.
+3783.7s:  With that in place, all of the COVID-19 and everything, it is required.
+3792.8s:  Now, if we know what's wrong, let's go section by section.
+3796.8s:  Let's not.
+3797.8s:  Page rate, pay when paid, overtime multiplier.
+3800.8s:  Yeah, that's right.
+3802.8s:  Again, 48 hours in one week, 1.25.
+3806.8s:  That would mean that while we have to pay the candidate overtime,
+3810.8s:  the facility is not paying us the overtime.
+3815.2s:  And even when they will pay us the overtime,
+3817.2s:  1.25 is the overtime.
+3819.2s:  1.59 is the overtime.
+3824.7s:  The overtime,
+3826.7s:  the candidate has the charge, except for the year.
+3830.7s:  So you get $5 more.
+3832.7s:  On call, written on the data.
+3838.1s:  And let me ask somebody else.
+3840.1s:  Can somebody explain to me the difference between on call and call back?
+3844.1s:  Harald, can you do that?
+3846.1s:  Sure, sir.
+3851.3s:  So on the meaning of on call is like the nurse is,
+3857.3s:  like the nurse is in the hospital.
+3859.3s:  And if she goes back to the home,
+3865.3s:  so from there, if the call can come,
+3868.3s:  so she has to come back to the hospital.
+3871.3s:  And the call back is like she can work from,
+3875.3s:  she has to be present in the hospital.
+3885.0s:  Kind of sort of, I know what you are trying to say,
+3887.0s:  but you still didn't explain it properly.
+3889.0s:  Anybody else wants to explain it?
+3891.0s:  Safna, you want to do that?
+3893.0s:  Yes, sir.
+3899.8s:  So the on call is when there is an emergency in the hospital,
+3902.8s:  so they will ask her nurse to schedule on a call outside the hospital.
+3907.8s:  She has to be available for the on call.
+3910.8s:  And call back is when she has to be present in the facility.
+3915.8s:  Yes, kind of correct.
+3922.6s:  So let me explain it to you guys.
+3924.6s:  In plain simple English.
+3926.6s:  What it means is, if I say you have to be on call from my shift ends at 7.30,
+3937.6s:  let's assume the shift ends in the evening at 7.30.
+3941.6s:  And I say you have to be on call from 10 p.m. to 1 a.m.
+3947.6s:  or 8 p.m. to 1 a.m.
+3949.6s:  Or you have to be on call from 7 p.m. to 7 a.m. in the morning.
+3954.6s:  That means,
+3956.6s:  I am compensating you with $7.50.
+3985.7s:  Akar mein abkoh on call jaap mein abkoh bhola wa abkoh on call rahoh.
+3990.1s:  Or mein abkoh call kar diya.
+3992.2s:  To come to the facility.
+3994.1s:  To firme abkoh, he call back time which is just jabap apne gharse nahi kalte.
+3999.3s:  Mein gharse yeh tapshiro jaat hain kal.
+4000.9s:  So 1.25 times johe hai.
+4003.5s:  Hame wo dengar again hain mein do bataag hai over time shiro jaag hai.
+4006.2s:  Ya call back rate.
+4009.9s:  Rajeev, call back is after the shift.
+4012.5s:  Ya ya ya.
+4013.5s:  After the shift if they ask.
+4014.7s:  Ya.
+4015.7s:  Two states.
+4016.7s:  One call and they have to come back.
+4019.5s:  So that's the call back.
+4022.0s:  So tap.
+4023.0s:  Hame yeh hain mein de nah padayga.
+4024.0s:  Ma hain mein to johe be rate de nah padayga, only de nah padayga.
+4027.0s:  Right.
+4028.0s:  But professor Reddy will.
+4029.0s:  So this is the basically the difference between these on call.
+4031.4s:  On call kamat labhat.
+4032.4s:  Aabhune gharah yeh bahiya tum pati manana kainee jana.
+4035.5s:  Be available.
+4036.5s:  Or to be available, ham tume sa dollar n 50 cents.
+4040.1s:  Un han toke lain, de hain toke lain han toke lain han nana dar hain vara bhi havara.
+4043.1s:  Lage nakar zurat pad gayi.
+4044.1s:  Hortume bapas hana.
+4045.1s:  Then of course we will have to pay you time.
+4047.1s:  Right.
+4048.1s:  We will have to compensate your time.
+4049.1s:  So that is the call back.
+4052.1s:  Pay the shift ends at 7.30 in the morning and you were working.
+4056.0s:  You were on call back till 9.30 then you will be compensated for 7.30 from 7.30 to 9.30
+4061.1s:  on 1.25 times of the pay rate.
+4064.5s:  This is what the client is going to be last.
+4065.5s:  If they continued but not there.
+4067.5s:  Yes.
+4068.5s:  But it does not mean only continuation of work.
+4071.0s:  It also means if they went back home and then they had to come back.
+4075.9s:  So any time that they come back and work all of that time would be that.
+4084.2s:  So one of our friend is a cardiologist and believe me.
+4086.3s:  Jabin ham pati manare othe ho hamay shaun kali oda hai.
+4089.3s:  Har hamay chaw sku pala jatia.
+4091.3s:  Ho hai rupi bibi do no different different cards manat hain.
+4094.3s:  Kage pata hai kar kal aag hai tojana padega.
+4097.3s:  Hah hai hai.
+4098.3s:  Ho hai hai hai hai.
+4099.3s:  Hah hai hai.
+4100.3s:  Hah hai hai.
+4101.3s:  So that he can leave.
+4103.2s:  So I know this thing very well because you know.
+4105.5s:  No, the kathas.
+4106.5s:  Jaap bata hai hai hai.
+4107.5s:  You know, tabhi teri kala hai tihi.
+4112.4s:  Okay.
+4113.4s:  Facility details.
+4114.4s:  This will have the facility address.
+4117.4s:  You will always find cone help MSP but there would be different different different different
+4121.9s:  locations.
+4123.0s:  So you will always have to check this job location rather than this one.
+4130.7s:  And schedule again block schedules.
+4132.8s:  No.
+4133.8s:  If this was yes you will have to check with the candidate.
+4136.0s:  All details observed holidays.
+4138.4s:  When they say that candidate will be compensated on 1.25, I mean we would be compensated on
+4145.4s:  1.25 times of the bill rate.
+4149.1s:  These are the holidays we are eligible for.
+4152.3s:  This 1.5 times.
+4153.3s:  Is nisargarpuhi auditing holiday, we cannot go back to the client saying 1.5 time compensate
+4158.8s:  for the because the candidate worked.
+4162.7s:  So, this is the case with Martin Luther King who has a federal holiday.
+4166.3s:  Again, Jaap bana hai.
+4167.3s:  So it does not matter.
+4168.3s:  One more thing that when this is something which is, which is related to us that the client
+4184.9s:  is billing us.
+4185.9s:  You will always have to check the holiday multiplier, the overtime multiplier and all
+4192.8s:  of the other multipliers as per the state rule as well.
+4196.7s:  Our candidate will be able to that as per the state mandate 1.5 times.
+4200.6s:  You didn't check that but you will go back to the candidate saying 1.25 times.
+4205.1s:  You will always have to check the state law and then speak with the candidate.
+4209.5s:  Minimum wage rate.
+4210.5s:  Then again, COVID-19.
+4216.0s:  Jaap bana hai.
+4217.0s:  Since flu vaccination is required.
+4219.8s:  Yes this is required at the time of the offer but you will always have to check
+4223.5s:  with the candidate if they have flu vaccination or no.
+4226.4s:  Or if there are any medical or religious exemptions.
+4230.3s:  In case there are any medical or religious exemptions please do go to the onboarding
+4234.1s:  team or do come to us checking in if this is something which is acceptable or no.
+4240.0s:  We do not want any backouts at the time of offers.
+4242.8s:  Sir, this is like some things that the religion,
+4287.5s:  the religion, the religion, the religion, the religion.
+4302.0s:  But you cannot use that because you will find lot of facilities.
+4312.6s:  They do not give the exemption.
+4314.6s:  Let's go over the job overview first and then we will go to the other side.
+4325.2s:  So job overview will always have the description.
+4328.4s:  Jaap bana hai.
+4329.4s:  Kuthu line of description.
+4330.4s:  Minsakti hai.
+4331.4s:  And a scc body description.
+4332.4s:  Minsakti hai.
+4333.4s:  But again you will have to refer to any details.
+4335.8s:  When they say that you have to answer the following questionnaire that doesn't mean
+4340.0s:  that this is the only questionnaire you will have to add in the selling points.
+4344.1s:  This is one of the additional part which you have to add.
+4346.7s:  But make sure to always and always answer this at the time of submission itself.
+4353.1s:  Is your candidate aware that they have been submitted on this XYZ location and have they
+4360.1s:  reviewed the job description?
+4361.6s:  It should always be Y or N.
+4363.6s:  Do not add yes or no.
+4365.5s:  Jaise likha vah vah se likna y or n likha to y and n he likna hai.
+4370.6s:  Yes or no mat likna.
+4372.8s:  Is your candidate flexible with scheduling and aware that the client has zero tolerance policy
+4377.0s:  and so read all of these questions and then answer accordingly.
+4382.1s:  Yes or no.
+4383.1s:  It doesn't mean that you go ahead yourself and write yes to all of them.
+4387.1s:  What it means is, kiaap uz bande ko patao ghe.
+4391.2s:  You will tell this to that candidate of yours, kibos in kie hai.
+4396.0s:  Are you okay with that?
+4397.0s:  Do you accept?
+4398.0s:  You know, literally, you know, are you okay with this?
+4401.6s:  You know, they're not having any zero tolerance for tardiness and absence.
+4405.9s:  You know, are there any barriers that will prevent you from completing compliance on
+4410.8s:  time?
+4411.8s:  Yes or no.
+4412.8s:  The compliance, the headline is 12 in the bedrooms.
+4413.8s:  They prior to the start date.
+4415.8s:  So, ye aku bataana padega.
+4418.8s:  Or, ye, nak paeya bataana.
+4422.6s:  Again, let me ask somebody.
+4426.0s:  Let me ask Sapna Goswami this time.
+4429.5s:  So Sapna, agar nai k bande ko me aaju svan desa baab karang.
+4433.8s:  Okay, our job kis star date hai 9 manki.
+4437.9s:  Or end date hai whatever, 12, 30 ki, right?
+4441.4s:  Tamai rtos ka ke manga.
+4443.4s:  Rtos ka ke manga.
+4449.6s:  You take kis duration ka rtos dane baab karang.
+4452.6s:  Requested time of like after one or two week of the joining, we will ask.
+4461.0s:  One or two week after the joining to mardang hai.
+4465.6s:  No.
+4466.6s:  Okay.
+4467.6s:  Just lean abatab.
+4473.2s:  When we call, we ask them that what are the requested time offs that you need.
+4480.8s:  Okay.
+4481.8s:  What kis duration ke manga?
+4483.8s:  Bahra gust hai, bande ki start job, date of start, ke kita first September hai.
+4491.0s:  And end 30th December hai.
+4494.0s:  What kis duration ke rtos manga?
+4497.0s:  What kis duration ke rtos dane hai?
+4500.0s:  What are 13 weeks haos ke?
+4503.0s:  Okay.
+4504.0s:  Anybody who disagrees with her, anybody who agrees with her, if you agree, say that.
+4516.3s:  But what hapig wahi hain hai?
+4518.3s:  Yes, wala hai.
+4519.3s:  Haar o tahne wala.
+4520.3s:  Tho wo hot hake manga ya bata.
+4521.3s:  All those who agree with her.
+4522.3s:  Okay.
+4538.3s:  Haar shara toh me bata hai.
+4541.3s:  You do not agree with them.
+4543.3s:  Yes sir, I don't agree with them because the rtos should be from the date of submission.
+4550.3s:  If I am submitting the candidate now, today, so I should know when the time of is from today to the end of the assignment.
+4561.2s:  Okay, you are having the on-boarding process as well.
+4562.2s:  Right.
+4563.2s:  You think the on-boarding, yes sir.
+4564.2s:  We missed that part, yeah.
+4565.2s:  Of course.
+4566.2s:  So now I am disagreeing with you.
+4569.2s:  Thar manga, you are working for him.
+4572.5s:  Yes.
+4573.5s:  Because one of my candidate went on vacations and later when she came back, her leg got fractured and due to that, the assignment was cancelled.
+4583.5s:  M, why is that important, right?
+4586.5s:  Aya me, again, haar aa nahi na baudh area bata aadi aa nahi ke kesin hai.
+4592.5s:  Time of lya bai.
+4593.5s:  Ferebi ki sikha, except ho gay ho gaya.
+4595.5s:  I can tell you there are a lot of account managers in aya.
+4598.5s:  Aa ghar bande ga koi bhi, time of during the, from today till the on-boarding process, where stardate me.
+4606.5s:  Aa ghar koi ji bhi una, request time of un hone wo kandit kabhi, except karna hai na hai.
+4612.5s:  Tukhi, risk hai.
+4617.9s:  Banda ga koch ho gaya, ye ho gaya, boh ho gaya, you know, wo rest na hai na chattai hai.
+4625.9s:  Tukhi abhavo kandaka hai, ke dee haam ne haam skedul kararete, ye gararete, aam hai chhotiyage, aam hai chadage, kos ke vezhe stardit pusho hai, un ko ye rakte, stardit pusho hai jareke.
+4636.9s:  Tia banda aori stard kar gaya, ho ske baad go, beach man doh din kyut chhoti laili, ye it's okay.
+4641.9s:  Tukhi, assignment stard ke nahi ga bhaad ga beach man chodh de hai, the penalties wo haan, right?
+4645.9s:  Hambh hai bhi penalty hai, ho ske bhaad ne, ho ske bhi penalty hai, aabhi doh koi penalty, ke ke nahi.
+4650.9s:  Toh, they do not want to take a risk. It's a very big risk.
+4659.2s:  Aya kusan, you know, like, just leave me, you understand what I'm trying to explain.
+4664.2s:  Tadaa me rakko, ki kyaasan, ye haam hai.
+4676.1s:  Ki matlab chabhan kyaan di reit ko matlab pusht hain hai, tabham usi from the time like.
+4685.1s:  Ki matlab onboarding times, pal, ye sein pushli, ke ke jo bhi te rei matlab hai, artyo zho gara.
+4691.1s:  Kike wo risk hai.
+4694.4s:  Ka hai, hamne bohat hai fati ka hai, more, it happens more than, you know, often.
+4700.4s:  Ki, ki, pusht hai, me pushna kus ho jataa, ban naga kis, ye me reit ho, ye ho gayi, me ban chala, ye ho gaya,
+4705.4s:  ye mohog, ye hai, ye she kadul ni, ya hiya, ye hiya, ye me bahamsa bahamsa, aang hai,
+4709.4s:  ye nahi hora, right, I mean fair ko choh, ye hai, aau, sta, ke started, push oni shi roti hai,
+4714.4s:  ye hai, roos ke baaj hai, kani, hai, klyan, ye hai, they get upset at us and then they cancel.
+4719.4s:  Baata kya hai, hai, mein bhande kale hai, hai, mein bhande kale hai, hai, mein bhandi kale,
+4722.4s:  ke hain, ye haam, position cancel.
+4723.4s:  But literally, ye ho jataa, the frustration ho jataa, ye hai.
+4725.4s:  So, it is very important that you have a BPP, which is a start date, and start date is a start date.
+4745.4s:  So, you have to have a decision to make a decision.
+4749.4s:  You have to have a client to make a decision.
+4752.4s:  So, you have to have a client to make a decision to make a decision.
+4756.4s:  So, you have to have a risk.
+4760.8s:  So, knowing the risk, you have to have a client to confirm that you have a boss to make a decision.
+4772.0s:  You have to have a conversation with the candidate.
+4783.0s:  How would you make sure that you have a client to make a decision?
+4788.0s:  So, you have to have a client to make a decision.
+4791.0s:  So, you have to have a client to make a decision.
+4795.0s:  So, you have to have a scenario to make a decision.
+4801.5s:  So, it is very, very important that you should know if there are any RTOs even during that time.
+4809.9s:  So, you have to have a risk.
+4818.8s:  You have to have a knowing risk.
+4830.5s:  Now, let's go back to this question.
+4834.5s:  Question number three.
+4837.5s:  Are there any barriers that would prevent you from completing a plan?
+4849.5s:  Of course, the same thing you just explained.
+4853.5s:  Right?
+4854.5s:  Yes.
+4855.5s:  Are there any barriers?
+4856.5s:  Upcoming vacation?
+4857.5s:  Yes.
+4858.5s:  No, sir, but maybe later started over.
+4859.5s:  Yes.
+4860.5s:  Maybe.
+4861.5s:  Maybe, yes.
+4862.5s:  Yes.
+4863.5s:  Yes.
+4864.5s:  Yes.
+4865.5s:  Yes.
+4866.5s:  Yes.
+4870.6s:  Yes.
+4871.6s:  Yes.
+4872.6s:  Yes.
+4873.6s:  Yes.
+4874.6s:  Yes.
+4875.6s:  Yes.
+4876.6s:  Yes.
+4877.6s:  Yes.
+4878.6s:  Yes.
+4881.2s:  Yes.
+4882.2s:  Yes.
+4883.2s:  Yes.
+4884.2s:  Yes.
+4885.2s:  Yes.
+4886.2s:  Yes.
+4887.2s:  Yes.
+4888.2s:  Yes.
+4889.2s:  Yes.
+4890.2s:  Yes, sir.
+4891.2s:  You can always figure out from this.
+4892.2s:  Yes.
+4893.2s:  It means, candidates are in a separate age.
+4894.2s:  They are in a separate age.
+4900.2s:  Yes.
+4902.8s:  Yes.
+4903.8s:  Yes.
+4907.9s:  Yes.
+4908.9s:  Yes.
+4909.9s:  Yes.
+4910.9s:  Yes.
+4911.9s:  Yes.
+4912.9s:  Yes.
+4913.9s:  Yes.
+4914.9s:  Yes.
+4915.9s:  Yes.
+4916.9s:  Yes.
+4917.9s:  Yes.
+4918.9s:  Yes.
+4919.9s:  Yes.
+4920.9s:  Yes.
+4921.9s:  low. Client co-candidates, medium, sub-middle count.
+4929.9s:  That means no, co-exception.
+4933.9s:  Always seek.
+4938.9s:  And negotiate.
+4941.9s:  Try to be taken in concentration.
+4950.9s:  And then you have to be taken in the
+4952.9s:  same way.
+4954.9s:  That's not how things work.
+4956.9s:  The candidate is taking vacation.
+4959.9s:  The explanation is that the candidate is taking vacation.
+4962.9s:  The candidate is aware that they would have to finish.
+4964.9s:  All the compliance work before leaving on vacation.
+4966.9s:  I mean, yes, this conversation has happened with the candidate.
+4970.9s:  You understand just now how important that is?
+4976.9s:  The client is going to be aware that they would have to finish.
+4979.9s:  All the compliance work before leaving on vacation.
+4987.4s:  I mean, yes, this conversation has happened with the candidate.
+4994.1s:  So you understand just now how important that is?
+5000.4s:  The client is going to be aware that the important thing is
+5005.4s:  that they will not even move forward.
+5007.4s:  They will not even move forward.
+5009.4s:  They will not even move forward.
+5011.4s:  They will not even move forward.
+5013.4s:  They will not even move forward.
+5017.7s:  They will not even move forward.
+5023.4s:  Point number four.
+5028.4s:  I think that's all.
+5030.4s:  Point number four.
+5033.3s:  So there is an EKG exam.
+5036.3s:  Your candidate should be aware that
+5038.3s:  the co-candidates should be aware that
+5040.3s:  EKG exam is not qualified.
+5042.3s:  If they do not qualify, they could not be hired.
+5046.3s:  It's important that if they fail,
+5050.3s:  they will not be able to get married.
+5052.3s:  They will not be able to get married.
+5054.3s:  They will not be able to get married.
+5056.3s:  They will not be able to get married.
+5065.3s:  There is no ifs and buts at that point in time.
+5068.3s:  It was explicitly told to you that if you do not clear this,
+5072.3s:  you cannot start the assignment.
+5078.1s:  You have to have a certain degree of confidence.
+5112.3s:  I hope you understand.
+5134.3s:  These are all risks.
+5137.3s:  It is called risk mitigation.
+5139.3s:  In this case, you are trying to mitigate risk.
+5144.3s:  If you do not have an EKG exam,
+5146.3s:  you might get an EKG exam at the end of the day,
+5149.3s:  and you are not getting an EKG exam.
+5152.3s:  It is risk mitigation.
+5154.3s:  It does not mean that it is not an EKG exam.
+5160.9s:  When people fall out, everything happens.
+5162.9s:  But you cannot start the assignment.
+5165.9s:  You have to mitigate it.
+5172.6s:  Anybody who does not understand this,
+5175.6s:  Sakshi, Kolbir, Rajneesh, anybody who has any doubts on any of the items that I know you guys are on the page too.
+5190.3s:  So I forgot to ask you guys.
+5192.3s:  But I think it's clear now.
+5196.3s:  I don't know why people don't like talking to me. I'm the most hated person.
+5205.2s:  I don't know.
+5206.2s:  I don't know why people don't like talking to me.
+5209.2s:  But if you don't want to ask me, it would be perfectly fine that you can ask Nandani later on.
+5217.2s:  But I would want you to go away understanding all of these points.
+5224.2s:  I don't know if you have noticed this or not.
+5239.9s:  But in the unit detail section, telemetry experience was mentioned as preferred.
+5245.9s:  This was not required.
+5248.9s:  You see, preferred. Telemetry was under-preferred.
+5252.9s:  This was the sole net search position, but this was mentioned as an study due to EKG requirement.
+5260.9s:  You will have to get this thing checked with the organinidate that EKG is something which is very important.
+5270.8s:  If they can change the title of the job, that means this is something very, very important.
+5276.8s:  And the patient population, as in the ones they're going to deal with, the patient they are going to deal with,
+5281.8s:  would be the ones which are usually tackled by the net search nurses.
+5290.9s:  Then 3s to 12 are the shift timings, days, and 71 to 7 p.m.
+5296.9s:  The audit says nights.
+5299.9s:  You will have to be very, very careful.
+5301.9s:  Now, this is something which is a copy paste thing.
+5307.9s:  This is a night's job. Always consider this one. Do not go after this.
+5317.8s:  Then EOW, every other weekend, is required. Holidays as needed.
+5323.8s:  You will have to check this thing with the candidate that if he or she is working on holidays or not.
+5329.8s:  And you will have to tell them that they will be compensated accordingly.
+5332.8s:  They will again check.
+5334.8s:  Eventually, you have no holiday.
+5337.8s:  Some candidates might tell you that I cannot work on this holiday, but I cannot work on this holiday.
+5344.8s:  So you would have to start writing that.
+5347.8s:  What happens is then, Haya goes and asks the physician if he is working on this holiday.
+5357.7s:  So, if they have to go on holiday coverage, then they will go ahead and check the holiday.
+5366.9s:  And one more thing.
+5367.9s:  If you are working on holidays, you will have to sell one point for a comfortable working on holidays.
+5375.9s:  You will have to make sure that these holidays are not included in the RTOs whenever there is this thing written.
+5381.9s:  Holidays are needed.
+5382.9s:  You understand that point?
+5388.3s:  What Nananija said?
+5390.3s:  Yes, sir.
+5392.3s:  Everybody else?
+5394.3s:  Sakshi, you understood that point?
+5400.7s:  Yes, sir.
+5406.2s:  Coming back to the float part again, candidate Kubatana, that candidate may have to float to any of the Kone Health facilities.
+5418.7s:  And he searched Kalena, maybe charged GPTs about Kalena Kaun, Kaun's Kone Health facilities.
+5431.0s:  I think it was N.C.
+5464.8s:  You can always and always find all of these information on charged GPT or maybe serve internet here and there.
+5472.1s:  And always cross verify information from charged GPT and Gemini.
+5475.1s:  They might contradict the information.
+5478.1s:  Minimum two years of experience required and first time travellers are okay.
+5487.4s:  Like we discussed, two years of experience means a minimum two years of experience.
+5491.4s:  Your one year and 11 months, one year, 10 months would not work.
+5497.4s:  First time travellers are okay, but you will have to get the confirmation again from the candidate and make sure that later on he or she doesn't back out from this first time traveller thing.
+5509.4s:  Let me ask, why do you think first time travellers are okay?
+5517.4s:  What would you do?
+5518.4s:  Why majority of the time they are not okay with first time travellers?
+5526.5s:  Because first time travellers may face issues in housing and the environment, culture and everything.
+5534.5s:  Exactly.
+5537.5s:  I think that if you travel, they do not know that there are 13 weeks of travel, right?
+5541.5s:  You can't wait for the next day, you can't wait for the next day, you can't wait for the next time, you can't wait for the next time.
+5546.5s:  I mean, that's a totally different experience.
+5549.5s:  If you travel, they should be able to adjust to this.
+5552.5s:  So this is why a lot of times, you know, or if you are a first time traveller, you have to go to a bus.
+5562.5s:  How do you think you will be able to manage all of this?
+5566.5s:  If somebody is travelling for the first time and you are putting their resume, do you even know this area?
+5571.5s:  No, I'm just saying, somebody might say, oh, I know Greensboro, I grew up over there.
+5576.5s:  Oh, I know Greensboro, I have friends over there, right?
+5578.5s:  So, who are the selling point?
+5580.5s:  The candidate is comfortable because he has friends and families in that area and a support system to help him out.
+5588.5s:  Right?
+5589.5s:  If you are a person travelling for the first time, he knows or she knows how to do this.
+5596.5s:  And worst case scenario is, there was already one support system.
+5602.7s:  You should have a conversation, how you would do this.
+5606.7s:  One more thing, guys.
+5607.7s:  For example, this is a situation question for everyone.
+5612.7s:  Say I have, or maybe I have an RN who has taken the licence in the month of March, in the month of March 2026.
+5623.7s:  Now, she wants to apply as a first time traveller.
+5626.7s:  Can I submit the candidate or no?
+5629.7s:  No.
+5630.7s:  And can somebody explain to me why?
+5642.9s:  I will simplify Nandini's question.
+5645.9s:  And I will simplify her question, right?
+5647.9s:  Because right now the question is very difficult.
+5649.9s:  You should know the exact answer, then only you can answer that.
+5652.9s:  I will simplify the question by saying, what is the minimum staff requirement to have been worked in a facility to be considered a traveller?
+5664.9s:  I gave you the answer.
+5666.9s:  You just fill in the number now.
+5668.9s:  Minimum one year?
+5673.4s:  No.
+5675.4s:  18 months?
+5676.4s:  No.
+5678.7s:  Two years?
+5679.7s:  I don't know, but after I tell you, you have the answer.
+5685.7s:  It's two years.
+5686.7s:  To be considered travel eligible, you need to have had staff experience in that particular specialty for two years.
+5698.6s:  Otherwise, you are not a traveller.
+5701.6s:  So what she said over there was,
+5714.6s:  First time traveller allowed.
+5724.6s:  They are not eligible to be a traveller
+5727.6s:  you know.
+5728.6s:  They're not eligible.
+5734.8s:  So that's universal rule, but isn't it one year?
+5741.8s:  Sir, I think this particular rule is only for Ohio Cleveland Clinic that they need a
+5752.5s:  10 months of home experience prior to travel.
+5755.5s:  But I have submitted mandates in the past with one year of staff experience and I have submitted
+5760.5s:  them of travel assignments and they have done like, you know, three, four extensions
+5763.6s:  there as well.
+5764.6s:  So I don't know.
+5766.6s:  Like I said, I've got to explicitly, like rule of the thumb, yes, you would want one or two
+5774.2s:  years experience and that, I think that they need to have license, like if you are a traveler,
+5779.6s:  you will have to have a minimum one year.
+5781.6s:  Minimum one year, I don't know, I don't know.
+5787.6s:  Yeah, Ohio Cleveland Clinic, then 18 months of experience prior to travel, only then they'll consider him as a traveler.
+5795.6s:  Yeah, you're right.
+5798.6s:  Then again, you got to remember, I don't do this every day, right?
+5801.6s:  I have a form, but it is okay.
+5806.6s:  Of course, sir.
+5807.6s:  I'm sure.
+5808.6s:  Then the traveler would be required to pass EKG exam during onboarding.
+5818.6s:  For locals, this might be at the first day or maybe in the first week of the, first week, but for travelers, this has to be done at the time of onboarding itself.
+5830.6s:  So you, again, you will have to get confirmations on this.
+5834.6s:  Then observation patients, if you remember this section, you're in unit details, patient diagnosis.
+5850.5s:  Candidate has to deal with all of this when it comes to the roles and responsibilities.
+5859.7s:  And then again, go back to this, scroll up.
+5864.7s:  No, go back to the, not this one, the other one, the job description.
+5868.7s:  Scroll up.
+5869.7s:  Look at the first question.
+5871.7s:  You see this question?
+5884.5s:  So expectation, expectation, yes, job description, observation of patient respiratory conditions, the problem, general medical diagnosis as appropriate,
+5895.5s:  and they are okay with doing that.
+5902.5s:  That's the meaning of that question over there.
+5909.8s:  So that's what you have to tell them.
+5917.2s:  Are you okay?
+5918.2s:  Are you okay?
+5919.2s:  Yes.
+5920.2s:  That is technically not a yes.
+5923.2s:  So that's what it's trying to tell you.
+5932.0s:  But just saying that med search, that does not finish our job.
+5938.0s:  You actually have to tell them.
+5940.0s:  I think it happened one time.
+5953.5s:  End of life, it goes against my Christian beliefs.
+5965.4s:  I think it happened one time.
+5968.2s:  I think it happened one time.
+5971.0s:  I think it happened one time.
+5973.0s:  So that's the reason that they are asking you specifically,
+5981.0s:  that you have discussed what you are asking.
+5984.6s:  Abab, I hope you understand.
+5992.9s:  When we ask you, did you screen the candidate?
+5994.9s:  Right?
+5995.4s:  Now you understand what we mean by that?
+5997.4s:  Yes, sir.
+5998.9s:  Right?
+6000.4s:  I think it happened.
+6002.4s:  Yes, I screened the candidate.
+6005.4s:  I think it happened.
+6007.4s:  I think it happened.
+6009.4s:  You are not understanding.
+6011.4s:  You have to understand.
+6013.4s:  You have to understand.
+6015.4s:  You have to understand.
+6017.4s:  Yes, you screened the candidate.
+6019.4s:  Yes.
+6021.4s:  So, what the expectation is, right?
+6024.4s:  The expectation of that, yes, I screened the candidate,
+6027.4s:  is this.
+6028.4s:  Absolutely.
+6031.8s:  You have to understand.
+6037.3s:  I think it happened.
+6038.3s:  You have to understand.
+6040.3s:  Yes, I get the expectation.
+6043.3s:  You have to understand.
+6045.3s:  What I was expecting.
+6047.3s:  What I was expecting was the expectation.
+6050.3s:  You would have seen that.
+6052.3s:  Because we are on the same page.
+6053.3s:  We know what you are expecting.
+6056.3s:  And I want you to be on the same page.
+6059.3s:  But literally we go by that.
+6093.1s:  We go item by item, we do not skip.
+6119.3s:  There is no complexity to the way we do things.
+6123.3s:  But you cannot rush through it.
+6125.2s:  That is one thing I will tell you.
+6126.8s:  You cannot rush through it.
+6133.2s:  It takes you five, I mean yes it is taking you longer to read through all of this today.
+6137.1s:  But when you will start doing it on your own, you would literally know how to skim through
+6141.1s:  the important points.
+6145.0s:  And you would have to do that.
+6146.4s:  I mean what is my expectation out of her.
+6160.4s:  My expectation is
+6178.7s:  I am going to go item by item, item by item and ask you if you can get the
+DONE in 2738.8s, 1319 segments

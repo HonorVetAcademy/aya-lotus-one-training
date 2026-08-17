@@ -1,0 +1,453 @@
+[
+ {
+  "id": "1.1",
+  "moduleTitle": "Orientation: What Is Aya-Lotus One?",
+  "title": "What Aya-Lotus One Is and Who Uses It",
+  "objective": "Explain what Aya-Lotus One is and identify the health systems recruiters submit into.",
+  "learn": [
+   "Aya-Lotus One is a Vendor Management System (VMS) portal — a client-side job and submission platform, distinct from JobDiva, HonorVet's own ATS. Recruiters find jobs, submit candidates, and track submission status inside the client's VMS, then manage the candidate relationship in JobDiva.",
+   "HonorVet recruiters use Aya-Lotus One to source and submit against health systems including UNC Health, Mount Sinai, NewYork-Presbyterian/NYCHH, Atrium Health, Children's Hospital of Philadelphia (CHOP), Cone Health, and CoreCivic (correctional healthcare), among others.",
+   "Every job posted in Aya-Lotus One is built from up to two documents, both found under the job's Attachments section: a Job Description (present on effectively every job) and a Unit Details PDF (present on roughly 60-70% of jobs, mostly RN positions).",
+   "Aya's review process is people-driven on the other side — real reviewers evaluate submissions against every detail in these documents, so incomplete or generic submissions get deprioritized quickly."
+  ],
+  "takeaways": [
+   "Aya-Lotus One is the client's system, not HonorVet's — treat every submission as being read by a real, detail-oriented reviewer on the other side.",
+   "Always check the Attachments section for both a Job Description and, where present, a Unit Details PDF before doing anything else."
+  ],
+  "hasVideo": false
+ },
+ {
+  "id": "1.2",
+  "moduleTitle": "Orientation: What Is Aya-Lotus One?",
+  "title": "Finding Jobs, Workers & Submissions in the Portal",
+  "objective": "Navigate to open jobs, candidate/worker profiles, and submission status inside Aya-Lotus One.",
+  "learn": [
+   "From the homepage, Requests > Search All lists jobs, filterable by client (e.g., Atrium Health, CHOP, CoreCivic, UNC, Mount Sinai) and by status (open, pending, closed).",
+   "Job-list filters let you narrow to Hot Jobs, Auto-Offer jobs, and jobs with a Block Schedule, and let you hide jobs that are On Hold — use these instead of scanning every open requisition manually.",
+   "Candidate/worker profiles are reachable two ways: search by name under a specific client (Workers), or open the full worker list without a client filter.",
+   "Recent submissions and their status are tracked from the Dashboard — filter to see submissions by day and by client."
+  ],
+  "takeaways": [
+   "Filter first (client, hot job, auto-offer, block schedule) rather than paging through every open requisition.",
+   "Submission status lives on the Dashboard, not inside the job record."
+  ],
+  "hasVideo": false
+ },
+ {
+  "id": "2.1",
+  "moduleTitle": "Anatomy of a Job Posting",
+  "title": "The Two Attachments: Job Description & Unit Details",
+  "objective": "Locate and distinguish a job's Job Description and Unit Details attachments.",
+  "learn": [
+   "Every Aya-Lotus One job has an Attachments section under the job record — open it before doing anything else.",
+   "A Job Description PDF is attached on essentially every job. A Unit Details PDF is attached on roughly 60-70% of jobs — mostly RN positions; lower-level positions often skip it.",
+   "The Unit Details document contains unit name (hospital name + job title), department, unit type, the date it was issued (can be a year or more old — that's normal), facility, and discipline/specialty — largely the same basic facts as the Job Description, but unit-specific."
+  ],
+  "takeaways": [
+   "Not every job has a Unit Details PDF — but when it exists, always open it.",
+   "An old issue date on Unit Details (even from a prior year) doesn't mean it's stale or wrong."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "2.2",
+  "moduleTitle": "Anatomy of a Job Posting",
+  "title": "Reading the Unit Description Fields & Requirements",
+  "objective": "Interpret the Unit Details fields and the Requirements section's certification rules.",
+  "learn": [
+   "The Requirements section is universal across a facility's jobs and covers licenses/certifications (e.g., RN license, BLS) plus which issuing bodies are accepted — for example, BLS/ACLS must come from AHA or ARC specifically; no other issuing association is accepted.",
+   "Requirements answers questions before you have to ask the client — if you're unsure whether a facility accepts a given certifying body, check Requirements first instead of contacting the client.",
+   "The general Job Details section covers status, contract group (which facility grouping the job belongs to), union code, profession, and specialty — largely static, low-risk fields."
+  ],
+  "takeaways": [
+   "Check Requirements before calling the client about a certification question — the answer is usually already documented.",
+   "A BLS/ACLS card from an unlisted issuer is a real rejection risk, not a technicality."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "2.3",
+  "moduleTitle": "Anatomy of a Job Posting",
+  "title": "The Golden Rule: Unit Details Overrides Job Description",
+  "objective": "Apply the rule that Unit Details wins whenever it conflicts with the Job Description.",
+  "learn": [
+   "When the Job Description and Unit Details disagree, Unit Details always wins — for example, one job listed 16 hours of non-billable orientation in the description, while its Unit Details specified 48 hours; the Unit Details figure is the one to use.",
+   "Read every field top to bottom without skipping around — the training explicitly warns against jumping straight to the fields that seem important.",
+   "This rule applies across every field type: orientation hours, shift, patient ratio, and more — whenever the two documents disagree, Unit Details is the source of truth."
+  ],
+  "takeaways": [
+   "When Job Description and Unit Details disagree, Unit Details always wins — no exceptions.",
+   "Read every field top to bottom; don't skip around looking for the \"important\" parts."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "3.1",
+  "moduleTitle": "Patient Match, Ratios & the Auto-Offer Mindset",
+  "title": "Patient Population & Staffing Ratio Must Match Exactly",
+  "objective": "Verify a candidate's patient-population and staffing-ratio experience before submitting.",
+  "learn": [
+   "If a unit's patient group is adults and your candidate's experience is with neonates (or any mismatched population), that's an automatic reject — patient age/population must be a genuine match, not a stretch.",
+   "Staffing ratio (e.g., 1:6 nights, 1:6 weekends) must be matched specifically — a submission cannot just say the candidate is \"comfortable working the ratio\"; the selling points must state the actual ratio the candidate has handled.",
+   "Auto-Offer jobs raise the stakes: the client expects that whatever is in the job requirements has been checked and acknowledged by the recruiter, not just glanced at.",
+   "Ask candidates directly what maximum and mid-surge ratios they've handled, not just their typical ratio — a candidate comfortable at 1:6 but able to flex to 1:8 is a stronger selling point than one who has only ever worked 1:6."
+  ],
+  "takeaways": [
+   "A patient-population mismatch (e.g., neonatal vs. adult experience) is an automatic reject — don't submit hoping it's close enough.",
+   "State the literal ratio a candidate has handled in your selling points — \"comfortable with the ratio\" is not sufficient for Auto-Offer jobs."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "3.2",
+  "moduleTitle": "Patient Match, Ratios & the Auto-Offer Mindset",
+  "title": "Floating: Within the Facility vs. Between Facilities",
+  "objective": "Distinguish the two types of floating requirements and confirm the right one with the candidate.",
+  "learn": [
+   "Floating can mean two different things: floating between departments/units within the same facility, or floating between two or more entirely different facilities.",
+   "When a schedule requirement field for \"Call Required\" or \"Float\" doesn't explicitly say yes, treat it as no — if there's no option marked yes, the default answer is no.",
+   "If float is required, confirm with the candidate specifically whether they're okay floating within the facility or between facilities — these are not interchangeable confirmations.",
+   "Whichever type applies, it must be written explicitly into the selling points (e.g., \"candidate is okay floating to different facilities\")."
+  ],
+  "takeaways": [
+   "If a yes/no field has no \"yes\" marked, treat it as a no by default.",
+   "Confirm the specific type of float with the candidate — within-facility and between-facility are different asks with different comfort levels."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "3.3",
+  "moduleTitle": "Patient Match, Ratios & the Auto-Offer Mindset",
+  "title": "Why Confirmations Matter: How Aya Reviews Vendor Submissions",
+  "objective": "Understand why thorough, confirmed submissions earn continued attention from client reviewers.",
+  "learn": [
+   "Aya's account managers handle submissions from many vendors and recruiters at once — a reviewer who sees a pattern of unconfirmed or generic submissions from a given recruiter will simply reject faster or stop reviewing that recruiter's submissions closely, rather than investigate every one.",
+   "Within a team, if some recruiters properly check every field and confirm with candidates while others submit without checking, reviewers naturally trust and prioritize the recruiters whose submissions are consistently accurate — and start discounting the others.",
+   "This is about earned reputation, not a formal scoring system — the training frames it explicitly as \"perception.\""
+  ],
+  "takeaways": [
+   "Consistently thorough submissions build reviewer trust over time — sloppy ones erode it, even without a formal penalty.",
+   "Assume every submission is being compared against your own submission history, not evaluated in isolation."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "4.1",
+  "moduleTitle": "Skills Checklists & Work Experience",
+  "title": "Reading the Skills Checklist: Proficiency & Frequency",
+  "objective": "Interpret a candidate's self-rated skills checklist against a unit's required skills.",
+  "learn": [
+   "Skills checklists rate candidates on two scales: Proficiency (1=None to 4=Supervise/Teach) and Frequency (1=Never/Observed Only to 4=Daily-Weekly).",
+   "Any required skill rated below 3 by the candidate (i.e., a 1 or 2) is a reject risk — a facility will not accept a required skill marked as only \"None\" or \"Intermittent.\"",
+   "Unit Details lists which skills are required vs. preferred separately from the checklist — cross-reference both before submitting."
+  ],
+  "takeaways": [
+   "A required skill rated 1 or 2 on the checklist is a reject risk — check every required line item, not just the overall score."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "4.2",
+  "moduleTitle": "Skills Checklists & Work Experience",
+  "title": "Matching Checklist Skills to the Resume",
+  "objective": "Cross-check that required skills appear consistently across the checklist, Unit Details, and the resume.",
+  "learn": [
+   "When reviewing a profile, confirm that every required skill (per Unit Details/checklist) is also reflected in the resume itself — not just checked off on a form.",
+   "Sometimes a required skill goes by a different name on the checklist than in the unit requirements (e.g., \"cardiac monitoring and emergency response\" appearing under another label) — trace the skill under whatever name it uses and make sure it's represented in the resume regardless of naming.",
+   "If a required skill (e.g., \"starting and maintaining IVs,\" or line management for less acute units) is missing from the resume, treat it the same as if it were missing from the checklist — it needs to be added or clarified before submission."
+  ],
+  "takeaways": [
+   "A required skill under a different name is still a required skill — trace it across documents rather than pattern-matching on exact wording.",
+   "The resume, the checklist, and Unit Details all need to agree on required skills before you submit."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "4.3",
+  "moduleTitle": "Skills Checklists & Work Experience",
+  "title": "Work Experience: When \"Preferred\" Really Means \"Required\"",
+  "objective": "Apply Aya-Lotus One's practical treatment of \"preferred\" work-experience fields as functionally required.",
+  "learn": [
+   "In the Work Experience section, fields like charge-nurse experience, teaching-hospital experience, or specific trauma-level experience may be marked \"preferred\" rather than \"required\" — but in practice, Aya-Lotus One reviewers treat \"preferred\" in this section as required. Submit candidates who actually have it.",
+   "\"Two years of experience\" means a literal two years — one year and eleven months, or ten months, does not qualify, regardless of how close it is.",
+   "The same literal-years rule applies to specific systems too: if EMR/charting experience (e.g., Epic) is required or effectively required, and years-of-experience is also listed, the years requirement applies to that system specifically, not just general nursing experience.",
+   "When a candidate is short on a specific requirement (e.g., less Epic experience than ideal), acknowledge the shortfall honestly but frame it positively in the selling points — e.g., noting genuine comfort with the system — rather than omitting the gap."
+  ],
+  "takeaways": [
+   "\"Preferred\" in the Work Experience section should be read as required in practice at Aya-Lotus One.",
+   "Years-of-experience requirements are literal — round up only in your own head, never in the submission."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "5.1",
+  "moduleTitle": "Facility Details & Selling Points",
+  "title": "Facility Type, Trauma Level, Address & Travel Radius",
+  "objective": "Record facility-specific details accurately, since they vary by location within the same health system.",
+  "learn": [
+   "Large health systems (e.g., Cone Health) operate multiple physical locations, each with its own trauma level, bed size, and teaching-hospital status — always record the specific facility address, not just the system name, since these details change location to location.",
+   "Facility type (e.g., private, non-profit, short-term acute care) is another field that varies by location and should be verified against the specific address on the job.",
+   "Local-radius rules (e.g., a 50-mile radius) determine whether a candidate is considered \"local\" or a traveler — check the candidate's address against the job's address to apply this correctly, and note that a valid driver's license may be required to support travel eligibility."
+  ],
+  "takeaways": [
+   "Never rely on the health-system name alone for trauma level, bed size, or teaching status — always check the specific facility address on the job.",
+   "Radius rules directly affect whether a candidate qualifies as local or traveler — check the candidate's address against the job's, every time."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "5.2",
+  "moduleTitle": "Facility Details & Selling Points",
+  "title": "Scrub Colors: A Small Detail That Can End an Assignment",
+  "objective": "Recognize why scrub-color requirements must be confirmed with the candidate and documented before submission.",
+  "learn": [
+   "Scrub color requirements matter because a candidate's prior facility may have used a different required color (e.g., red) than the new facility requires (e.g., blue) — candidates don't always own scrubs in every required color.",
+   "Beyond the stated color requirement, note whether scrubs will be provided by the facility or not — if \"provided\" isn't checked, the candidate needs to source their own scrubs in the correct color before starting.",
+   "This isn't a minor detail: a real case cited in training involved a candidate showing up in the wrong-color scrubs, which led to the facility ending the assignment on the spot.",
+   "Confirm scrub color (and whether it's provided) directly with the candidate, and write the confirmation into the selling points."
+  ],
+  "takeaways": [
+   "Always confirm scrub color and provision with the candidate before submission — don't assume they already own the right color.",
+   "A wrong-scrub-color incident has actually ended an assignment on day one; treat this field as high-stakes, not cosmetic."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "6.1",
+  "moduleTitle": "Reading the Rate Table",
+  "title": "Bill Rate & Overtime Multipliers",
+  "objective": "Read a job's rate table fields, including bill rate and overtime multiplier.",
+  "learn": [
+   "The rate table includes bill rate, \"pay when paid\" status, and the overtime multiplier — e.g., overtime after 48 hours in one week at a 1.25x multiplier.",
+   "The overtime multiplier describes both what the facility bills at and what must be paid to the candidate for hours over the threshold — it's not just an internal billing detail.",
+   "A charge-nurse premium (an added rate for working as charge) is a separate line from the base and overtime rates."
+  ],
+  "takeaways": [
+   "The overtime multiplier isn't just a billing number — it directly determines what the candidate is owed once they cross the weekly hour threshold."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "6.2",
+  "moduleTitle": "Reading the Rate Table",
+  "title": "On-Call vs. Callback: The Difference That Confuses Everyone",
+  "objective": "Correctly distinguish on-call pay from callback pay when explaining rates to a candidate.",
+  "learn": [
+   "On-call means a candidate, after their shift ends, must remain reachable and available to return to the facility during a defined window — they're paid a flat on-call rate for simply being available, whether or not they're actually called in.",
+   "Callback means the facility actually calls the candidate back in to work additional hours after their shift ended (or while off) — those worked hours are paid at the callback rate (a multiplier, e.g., 1.25x), separate from the flat on-call availability rate.",
+   "Example: a shift ends at 7:30pm; if the candidate is on call afterward and does get called back in until 9:30pm, they're paid the on-call flat rate for availability plus the callback multiplier rate for the hours actually worked from 7:30-9:30pm.",
+   "These two rates are frequently confused by new recruiters — being able to explain the distinction clearly to a candidate is a core competency, not a nice-to-have."
+  ],
+  "takeaways": [
+   "On-call pays for availability; callback pays for hours actually worked after being called in — they can both apply in the same window."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "6.3",
+  "moduleTitle": "Reading the Rate Table",
+  "title": "Holiday Multipliers, State Law & Vaccine Compliance",
+  "objective": "Apply holiday-pay multipliers correctly and handle vaccination-compliance requirements.",
+  "learn": [
+   "Facility details list observed holidays and the multiplier for working them (e.g., 1.25x) — but the multiplier actually owed can be governed by state law rather than just the facility's stated default, so check state rules before quoting a rate to a candidate or client.",
+   "A facility's stated multiplier is a floor, not necessarily the ceiling — if state law mandates a higher multiplier (e.g., 1.5x) than the facility lists, the higher, legally-mandated rate applies.",
+   "COVID-19 and flu vaccination requirements are typically required at time of offer — confirm the candidate's vaccination status directly, and if there's a medical or religious exemption request, escalate to the onboarding team before assuming it will be accepted, since many facilities do not grant exemptions."
+  ],
+  "takeaways": [
+   "Always check state law against the facility's listed holiday multiplier — the higher, legally mandated rate wins.",
+   "Never assume a medical or religious vaccine exemption will be accepted — escalate every exemption request to onboarding before committing to the candidate."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "7.1",
+  "moduleTitle": "Requested Time Off & Onboarding Risk",
+  "title": "Requested Time Off: The One-Block Rule",
+  "objective": "Apply Aya-Lotus One's rule that only a single, continuous block of requested time off (RTO) is allowed per assignment.",
+  "learn": [
+   "Only one continuous block of RTO is accepted per assignment — e.g., a candidate needing days off on the 10th and 12th must request it as one continuous block, \"10th through 12th,\" not as two separate non-adjacent days (\"10th and 12th\").",
+   "RTO must be evaluated across the candidate's entire assignment window, from the actual start date through the end date — not just around the middle of the contract.",
+   "Getting this right requires directly asking the candidate what time off they need and for what specific dates, rather than assuming none is needed just because none was mentioned."
+  ],
+  "takeaways": [
+   "RTO has to be one continuous block — always ask for a date range, not a list of separate days.",
+   "Ask the candidate proactively about needed time off; don't wait for them to bring it up."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "7.2",
+  "moduleTitle": "Requested Time Off & Onboarding Risk",
+  "title": "Why RTO Timing Can Cancel an Entire Assignment",
+  "objective": "Explain why RTO conflicts near onboarding are treated as a major cancellation risk, and how to mitigate it.",
+  "learn": [
+   "The real risk window isn't just the contract dates — it includes the onboarding/compliance period leading up to the start date. RTO or vacation plans that fall during that window can jeopardize the whole placement.",
+   "A real case cited in training: a candidate went on vacation and was injured while away (a fractured leg), and the entire assignment had to be cancelled as a result — illustrating why every planned absence across the full window needs to be surfaced up front.",
+   "This is framed explicitly as \"risk mitigation\": the goal isn't to guarantee nothing will ever go wrong, but to surface every known risk (planned absences, travel plans) before a client commits to an offer, so nobody is blindsided later.",
+   "If a candidate's known plans conflict with the compliance timeline (documents, exams, etc. due before the start date), that conflict must be raised and resolved before submission, not discovered afterward."
+  ],
+  "takeaways": [
+   "The RTO risk window starts at onboarding, not at the assignment's official start date.",
+   "Surfacing a risk doesn't guarantee it won't happen — but failing to surface it is what actually damages trust when something does go wrong."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "8.1",
+  "moduleTitle": "Compliance Gates & Travel Eligibility",
+  "title": "Non-Negotiables: EKG Exams and Other Compliance Gates",
+  "objective": "Treat pass/fail compliance requirements (like an EKG exam) as hard gates with no exceptions.",
+  "learn": [
+   "Some requirements are pass/fail gates with zero flexibility — e.g., some clients require all RNs to pass an EKG competency exam during onboarding regardless of specialty; if they don't pass it, they cannot start the assignment, full stop.",
+   "This is also framed as risk mitigation: flagging the requirement clearly up front doesn't guarantee the candidate will pass, but it ensures nobody is surprised if they don't.",
+   "These hard gates should be explained plainly to the candidate ahead of time so there's no ambiguity about what's riding on them."
+  ],
+  "takeaways": [
+   "Pass/fail compliance items have no exceptions — communicate them as absolute requirements, not friendly suggestions."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "8.2",
+  "moduleTitle": "Compliance Gates & Travel Eligibility",
+  "title": "First-Time Travelers: What to Confirm Before You Submit",
+  "objective": "Assess and document a first-time traveler's readiness before submission.",
+  "learn": [
+   "Jobs that accept first-time travelers still carry real risk — new travelers can struggle with unfamiliar housing, environment, and culture shock in ways that experienced travelers have already adapted to.",
+   "A genuine selling point for a first-time traveler is having a support system in the destination area — e.g., knowing the city already, or having friends or family nearby — since that mitigates the adjustment risk.",
+   "Always get explicit confirmation from a first-time traveler that they understand what a travel assignment involves, so they don't back out mid-process once the reality sets in."
+  ],
+  "takeaways": [
+   "A first-time traveler with a local support system (friends, family, familiarity with the area) is a stronger, more specific submission than one without."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "8.3",
+  "moduleTitle": "Compliance Gates & Travel Eligibility",
+  "title": "The Two-Year Rule: Who Actually Qualifies as a Traveler",
+  "objective": "Apply the general rule for minimum staff experience required for travel eligibility, and recognize facility-specific exceptions.",
+  "learn": [
+   "The general rule: a candidate needs a minimum of two years of staff (non-travel) experience in a specific specialty to be considered eligible to work that specialty as a traveler.",
+   "This is a general rule, not universal — some facilities set their own thresholds; one example cited was Cleveland Clinic Ohio, described as requiring roughly 10-18 months of home/staff experience before considering someone travel-eligible for their facility specifically.",
+   "When in doubt about a facility-specific exception, verify rather than assume the general two-year rule applies everywhere."
+  ],
+  "takeaways": [
+   "Two years of specialty staff experience is the general rule for travel eligibility — but always check for facility-specific variations before assuming it applies."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "9.1",
+  "moduleTitle": "The Screening Conversation",
+  "title": "The Job Overview Questionnaire: Why Y/N Means Y/N",
+  "objective": "Correctly complete the job's screening questionnaire based on an actual conversation with the candidate.",
+  "learn": [
+   "Every job's overview section includes a short questionnaire — e.g., \"Is your candidate aware they're being submitted to this location and have they reviewed the job description?\", \"Is your candidate flexible with scheduling and aware of the client's zero-tolerance policy?\", \"Are there any barriers (e.g., upcoming vacation) that would prevent your candidate from completing compliance on time?\" — often with a hard compliance deadline spelled out right in the question, such as \"12 Noon EST the Wednesday prior to the start date.\"",
+   "Answers must be entered as the literal letters \"Y\" or \"N\" — not the words \"yes\" or \"no.\"",
+   "Critically, these answers must reflect an actual conversation you had with the candidate about each question — not your own assumption or a default \"yes\" applied to every field."
+  ],
+  "takeaways": [
+   "Y/N fields mean the literal letter, not the word.",
+   "Every questionnaire answer must reflect a real conversation with the candidate about that specific question — never assume."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "9.2",
+  "moduleTitle": "The Screening Conversation",
+  "title": "Matching the Candidate to the Patient Population",
+  "objective": "Confirm a candidate is genuinely comfortable with the specific patient population and conditions described in the job.",
+  "learn": [
+   "The Job Description's opening questions (e.g., about observing/caring for patients with specific respiratory, medical, or end-of-life conditions) exist to confirm the candidate is comfortable with the actual patient population they'd encounter — not just the unit's specialty label.",
+   "A real example from training: a candidate ultimately declined a placement because caring for patients at end of life conflicted with their personal religious beliefs — a conflict that only surfaced because the recruiter actually screened for it.",
+   "Checking a box that a candidate was \"screened\" only has value if a real conversation happened about the specific conditions and situations described in the job — not a generic confirmation that the resume matches the specialty."
+  ],
+  "takeaways": [
+   "\"I screened the candidate\" should mean a specific conversation about the job's actual patient population and conditions — not a formality."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "9.3",
+  "moduleTitle": "The Screening Conversation",
+  "title": "Screening Is a Conversation, Not a Checkbox",
+  "objective": "Internalize the discipline of reading every field methodically rather than rushing to submit.",
+  "learn": [
+   "The overall expectation is to go through a job's documents item by item, without skipping — this takes longer at first, but becomes fast to skim once the pattern is familiar.",
+   "Every \"yes\" or confirmation entered on a submission should trace back to something the recruiter actually verified or a conversation they actually had — not a convenient assumption.",
+   "This discipline is what separates submissions that get taken seriously by client reviewers from ones that get quietly deprioritized over time."
+  ],
+  "takeaways": [
+   "Go item by item, every time — the speed comes later, once the pattern is familiar, not by skipping steps now."
+  ],
+  "hasVideo": true
+ },
+ {
+  "id": "10.1",
+  "moduleTitle": "Building the Submittal Packet",
+  "title": "The Right-Sourcing Cover Sheet, Field by Field",
+  "objective": "Complete a Right-Sourcing cover sheet accurately and consistently for any client.",
+  "learn": [
+   "The cover sheet format is standardized across clients (e.g., UNC, Mount Sinai, NYCHH) — the same fields and structure apply regardless of which health system the submission is going to.",
+   "Key fields: candidate name, permanent address, contact information, how soon the candidate is available (must match what's stated in the portal), interview availability by day of the week, shift preference (state \"nights\" explicitly if applicable — don't let it default silently), and weekend availability.",
+   "Certifications listed on the cover sheet (e.g., BLS, ACLS, NIHSS) must match what's on the resume exactly — as must state license number and education details.",
+   "Previous relevant experience should list the candidate's specific experience in that unit's specialty — hospital name, location, and duration — using judgment on how many contracts to include; recruiters are coached to be consistent, not to pad with every tangentially related contract."
+  ],
+  "takeaways": [
+   "Certifications, license numbers, and education on the cover sheet must exactly match the resume — mismatches are a common rejection cause.",
+   "Availability stated on the cover sheet must match what's recorded in the portal — don't let the two drift apart."
+  ],
+  "hasVideo": false
+ },
+ {
+  "id": "10.2",
+  "moduleTitle": "Building the Submittal Packet",
+  "title": "Standard Resume Formatting Rules",
+  "objective": "Format a candidate's resume to the standardized submission format before it goes out.",
+  "learn": [
+   "The candidate's name should not appear in the body of the resume itself — use a generic descriptor instead (e.g., \"highly skilled registered nurse\").",
+   "Professional summaries are typically 6-7 concise bullet points highlighting the candidate's core strengths and specialties.",
+   "Formatting conventions: facility name is bolded, location is not bolded, and dates plus job title follow a consistent unbolded style — applied the same way across every entry.",
+   "Each professional experience entry should include facility type, position type, bed count, trauma level (where applicable), patient ratio, and charting/EMR system — mirroring what the job's Unit Details will ask for.",
+   "Employment gaps must always be explained — even briefly (e.g., \"actively pursuing nursing opportunities and available to start work immediately\") rather than left blank."
+  ],
+  "takeaways": [
+   "Never include the candidate's name in the resume body — use a neutral role descriptor instead.",
+   "Every employment gap needs an explanation, even a short one — a blank gap reads as a red flag."
+  ],
+  "hasVideo": false
+ },
+ {
+  "id": "10.3",
+  "moduleTitle": "Building the Submittal Packet",
+  "title": "Facility Validation via ASD & References at Submittal",
+  "objective": "Validate facility claims independently and complete reference checks before submitting.",
+  "learn": [
+   "Trauma level, bed size, and facility type claims should be validated independently — using a resource like the American Hospital Directory (ASD/AHD) — rather than trusted at face value from the resume or the candidate's own description.",
+   "It doesn't matter what's written in the resume if it doesn't hold up against the independently verified facility data — the verified source wins.",
+   "References must be verified at the time of submittal, not left for later; results are marked (accepted or rejected) directly in JobDiva with supporting notes — a reference can't be submitted without documentation of the outcome.",
+   "Driver's license is not automatically mandatory, but if a facility does require one, the address on the license must match the candidate's stated permanent address — a mismatch has caused real rejections."
+  ],
+  "takeaways": [
+   "Verify facility details independently via a resource like the American Hospital Directory — don't take resume claims at face value.",
+   "A driver's license address that doesn't match the candidate's stated permanent address is a real, documented cause of rejection."
+  ],
+  "hasVideo": false
+ },
+ {
+  "id": "11.1",
+  "moduleTitle": "Course Recap",
+  "title": "End-to-End Recap: From Job Posting to Submission",
+  "objective": "Recap the full recruiter workflow in Aya-Lotus One from opening a job to a defensible submission.",
+  "learn": [
+   "Full flow recap: open the job's Attachments (Job Description + Unit Details) → resolve any conflicts in favor of Unit Details → verify patient population, ratio, and required skills against the resume and checklist → confirm floating, scrub color, RTO, and travel eligibility directly with the candidate → complete the screening questionnaire truthfully (Y/N based on real conversations) → build the Right-Sourcing cover sheet and standardized resume → validate facility claims independently and complete reference checks → submit.",
+   "Supporting threads throughout: \"selling points\" as the recruiter's core skill (turning verified matches into specific, confident statements), risk mitigation (surfacing RTO/compliance conflicts before they become cancellations), and reviewer trust (submissions are judged against your history, not in isolation).",
+   "When unsure which document or field governs a decision, remember the course's repeated rule of thumb: Unit Details overrides Job Description, and \"preferred\" in Work Experience should be read as required."
+  ],
+  "takeaways": [
+   "Every tool and rule in this course supports one linear goal: verify thoroughly, confirm directly with the candidate, and submit something a client reviewer can trust without having to double-check it themselves."
+  ],
+  "hasVideo": false
+ }
+]

@@ -1,0 +1,9 @@
+7.1: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\7.1.mp4 (narration 42.17s)
+7.2: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\7.2.mp4 (narration 55.9s)
+8.1: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\8.1.mp4 (narration 33.17s)
+8.2: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\8.2.mp4 (narration 42.6s)
+8.3: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\8.3.mp4 (narration 37.61s)
+9.1: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\9.1.mp4 (narration 49.94s)
+9.2: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\9.2.mp4 (narration 47.5s)
+9.3: built C:\Users\Tanya Awasthi\App-AI\aya-training\clips\9.3.mp4 (narration 36.46s)
+CLIPS2 DONE
