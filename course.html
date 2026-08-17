@@ -203,10 +203,43 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
 .score-ring{width:130px;height:130px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:800;margin:0 auto 20px; font-family:var(--serif); box-shadow:var(--shadow-sm);}
 .completion-wrap{text-align:center; padding:44px 20px;}
 .completion-wrap h1{font-size:30px; font-family:var(--serif); font-weight:600;}
-.cert-box{border:1px solid rgba(200,150,62,0.4); border-radius:var(--r-lg); padding:36px; margin-top:26px;
-  background:linear-gradient(160deg,#fffdf6,var(--gold-soft)); position:relative; box-shadow:var(--shadow-md);}
-.cert-box::before{content:''; position:absolute; inset:10px; border:1px dashed rgba(200,150,62,0.5); border-radius:calc(var(--r-lg) - 6px); pointer-events:none;}
-.cert-box h2{font-family:var(--serif); font-weight:600;}
+
+.name-entry-card{max-width:420px;margin:26px auto 0;padding:24px 26px;border-radius:var(--r-lg);background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow-sm);text-align:left;}
+.name-entry-card label{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);}
+.name-entry-card input{width:100%;margin-top:8px;padding:11px 13px;border-radius:9px;border:1px solid var(--line);font-size:15px;font-family:var(--sans);}
+.name-entry-card .pill-btn{margin-top:14px;width:100%;}
+
+.cert-frame{margin:26px auto 0; max-width:720px; border-radius:14px; padding:9px;
+  background:linear-gradient(100deg,#c8161d,#e8641c,#f2a71b,#f6c445,#f2a71b,#e8641c,#c8161d);
+  box-shadow:var(--shadow-lg);}
+.cert-inner{background:#fffefb; border-radius:8px; padding:38px 34px 30px; text-align:center;}
+.cert-logo{width:150px; margin:0 auto 8px; display:block;}
+.cert-tagline{font-size:10px; letter-spacing:2.5px; text-transform:uppercase; color:#9a9a9a; font-weight:700;}
+.cert-hr{border:none; border-top:1px solid var(--line); margin:16px 0;}
+.cert-kicker{font-size:12px; letter-spacing:2.5px; text-transform:uppercase; color:#c8161d; font-weight:800;}
+.cert-course{font-family:var(--serif); font-weight:700; font-size:23px; margin:4px 0 14px; color:var(--ink);}
+.cert-intro{font-size:13px; color:var(--muted); margin:0;}
+.cert-name{font-family:var(--serif); font-size:36px; font-weight:700; color:#c8161d; display:inline-block;
+  border-bottom:2px solid #c8161d; padding:2px 10px 6px; margin:8px 0 16px;}
+.cert-name.placeholder{color:#c9c9c9; border-bottom-color:#e2e2e2; font-size:20px; font-family:var(--sans); font-weight:600;}
+.cert-desc{font-size:12.5px; color:var(--muted); max-width:520px; margin:0 auto; line-height:1.6;}
+.cert-desc b{color:var(--ink);}
+.cert-stats{margin-top:18px; display:inline-flex; gap:14px; align-items:center; font-size:12.5px; font-weight:700; color:#c8161d;
+  background:#fdeceb; border:1px solid #f6c9c6; border-radius:20px; padding:9px 20px;}
+.cert-sig{font-family:var(--serif); font-style:italic; font-weight:700; font-size:19px; display:inline-block;
+  border-bottom:1.5px solid var(--ink); padding-bottom:4px; margin-bottom:6px;}
+.cert-sig-title{font-size:10.5px; letter-spacing:1.5px; font-weight:800; color:#c8161d;}
+.cert-site{font-size:11px; color:var(--muted); margin-top:2px;}
+.cert-footer{display:flex; justify-content:center; gap:40px; font-size:13px; margin-top:4px;}
+.cert-footer span{display:block; font-size:9.5px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:2px;}
+.cert-actions{margin-top:22px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;}
+
+@media print{
+  body *{visibility:hidden;}
+  .cert-frame, .cert-frame *{visibility:visible;}
+  .cert-frame{position:absolute; top:0; left:50%; transform:translateX(-50%); margin:0; box-shadow:none; max-width:90%;}
+  @page{ size:landscape; margin:0.4in; }
+}
 
 @media (max-width:900px){
   .sidebar{display:none;}
@@ -214,6 +247,7 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
   .content{padding:24px 20px 50px;}
   .hero{padding:36px 26px;}
   .hero h1{font-size:28px;}
+  .cert-name{font-size:26px;}
 }
 </style>
 </head>
@@ -232,8 +266,8 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
   </main>
 </div>
 
-<script src="logo.js?v=17"></script>
-<script src="course-data.js?v=17"></script>
+<script src="logo.js?v=18"></script>
+<script src="course-data.js?v=18"></script>
 <script>
 const STORAGE_KEY = "aya_lotus_course_progress_v1";
 let state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"completed":{},"collapsed":{},"quiz":{},"finalScore":null}');
@@ -717,8 +751,12 @@ function submitFinal(){
     if(chosen===q.answer) correct++;
   });
   const scorePct = Math.round((correct/FINAL_ASSESSMENT.length)*100);
-  state.finalScore = scorePct; saveState();
+  state.finalScore = scorePct;
   const passed = scorePct >= 70;
+  if(passed && !state.completionDate){
+    state.completionDate = new Date().toLocaleDateString('en-US', {year:'numeric', month:'long', day:'numeric'});
+  }
+  saveState();
   document.getElementById("finalResult").innerHTML = `
     <div class="card" style="text-align:center;">
       <div class="score-ring" style="background:${passed?'var(--ok-soft)':'var(--warn-soft)'};color:${passed?'var(--ok)':'var(--warn)'}">${scorePct}%</div>
@@ -730,20 +768,64 @@ function submitFinal(){
 }
 
 function renderCompletion(){
+  const name = state.attendeeName || "";
+  const dateStr = state.completionDate || new Date().toLocaleDateString('en-US', {year:'numeric', month:'long', day:'numeric'});
   return `
   <div class="completion-wrap">
     <div style="font-size:52px;">🏅</div>
     <h1>Course Complete</h1>
     <p style="color:var(--muted);max-width:520px;margin:0 auto;">You've completed <b>${COURSE.title}</b> — ${totalLessons()} lessons across ${COURSE.modules.length} modules, plus the final assessment (score: ${state.finalScore ?? "—"}%).</p>
-    <div class="cert-box">
-      <div style="font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent);font-weight:800;">Certificate of Completion</div>
-      <h2 style="margin:10px 0 4px;">Aya-Lotus One Mastery for Healthcare Staffing Recruiters</h2>
-      <p style="color:var(--muted);margin:0;">Aya-Lotus One Refresher Session Course</p>
+
+    ${!name ? `
+    <div class="name-entry-card">
+      <label for="certNameInput">Your name, for the certificate</label>
+      <input id="certNameInput" type="text" placeholder="e.g. Jordan Smith" onkeydown="if(event.key==='Enter') saveCertName();">
+      <button class="pill-btn primary" onclick="saveCertName()">Generate My Certificate →</button>
+    </div>` : `
+
+    <div class="cert-frame" id="certFrame">
+      <div class="cert-inner">
+        <img class="cert-logo" src="${LOGO_DATA_URI}" alt="HonorVet Technologies">
+        <div class="cert-tagline">Service-Disabled Veteran Owned Small Business</div>
+        <hr class="cert-hr">
+        <div class="cert-kicker">Certificate of Completion</div>
+        <div class="cert-course">${COURSE.title}</div>
+        <p class="cert-intro">This is to proudly certify that</p>
+        <div class="cert-name">${name}</div>
+        <p class="cert-desc">has successfully completed the <b>${COURSE.title}</b> immersive training program, demonstrating knowledge of navigating the Aya-Lotus One VMS portal, reading and interpreting the Unit Description field by field, matching candidates to job requirements, and building complete, defensible submittals.</p>
+        <div class="cert-stats">🏆&nbsp; Score: ${state.finalScore ?? 0}% &nbsp;&nbsp;|&nbsp;&nbsp; 📘&nbsp; Lessons: ${totalLessons()}/${totalLessons()}</div>
+        <hr class="cert-hr">
+        <div class="cert-sig">Rachana Narang</div>
+        <div class="cert-sig-title">AUTHORISED — HONORVET TECHNOLOGIES</div>
+        <div class="cert-site">honorvettech.com</div>
+        <hr class="cert-hr">
+        <div class="cert-footer">
+          <div><b>${dateStr}</b><span>Date of Completion</span></div>
+          <div><b>HonorVet Technologies</b><span>Issuing Organisation</span></div>
+        </div>
+      </div>
     </div>
-    <div style="margin-top:26px;">
+    <div class="cert-actions">
+      <button class="pill-btn" onclick="editCertName()">✎ Edit Name</button>
+      <button class="pill-btn primary" onclick="window.print()">🖨️ Print / Save as PDF</button>
+    </div>
+    `}
+
+    <div style="margin-top:22px;">
       <button class="pill-btn" onclick="goHome()">← Back to Course Home</button>
     </div>
   </div>`;
+}
+function saveCertName(){
+  const input = document.getElementById("certNameInput");
+  const val = input ? input.value.trim() : "";
+  if(!val) return;
+  state.attendeeName = val; saveState();
+  render();
+}
+function editCertName(){
+  state.attendeeName = ""; saveState();
+  render();
 }
 
 render();
