@@ -397,35 +397,36 @@ const COURSE = {
           "title": "The Golden Rule: Unit Details Overrides Job Description",
           "hasVideo": true,
           "prerequisite": "2.1",
-          "objective": "Apply the rule that Unit Details wins whenever it conflicts with the Job Description.",
+          "objective": "Apply the rule that Unit Details wins on true conflicts with the Job Description, and recognize when two numbers aren't actually conflicting at all.",
           "learn": [
-            "When the Job Description and Unit Details disagree, Unit Details always wins — for example, one job listed 16 hours of non-billable orientation in the description, while its Unit Details specified 48 hours; the Unit Details figure is the one to use.",
+            "Before calling something a conflict, check whether the two documents are describing different things — for example, one job's Job Description noted 16 hours of non-billable orientation, while its Unit Details specified 48 hours; that isn't a disagreement, it's two facts at once: the total orientation tenure is 48 hours (Unit Details), and 16 of those hours simply can't be billed to the client (Job Description).",
             "Read every field top to bottom without skipping around — the training explicitly warns against jumping straight to the fields that seem important.",
-            "This rule applies across every field type: orientation hours, shift, patient ratio, and more — whenever the two documents disagree, Unit Details is the source of truth."
+            "When the two documents do state contradictory values for the exact same fact — shift, patient ratio, and the like — Unit Details is the source of truth."
           ],
           "skills": [
-            "Conflict resolution between source documents",
+            "Distinguishing complementary facts from true conflicts",
             "Systematic field-by-field reading"
           ],
           "terms": [],
           "takeaways": [
-            "When Job Description and Unit Details disagree, Unit Details always wins — no exceptions.",
+            "Unit Details gives the total orientation tenure; Job Description's non-billable note tells you how many of those hours can't be billed to the client — they're complementary facts, not a conflict.",
+            "When the two documents truly disagree on the same fact, Unit Details is the source of truth — but check first that they're not simply describing two different things.",
             "Read every field top to bottom; don't skip around looking for the \"important\" parts."
           ],
           "check": {
-            "q": "A job's Job Description says 16 hours of non-billable orientation, but its Unit Details PDF says 48 hours. Which do you use?",
+            "q": "A job's Job Description notes 16 hours of non-billable orientation, and its Unit Details PDF lists 48 hours of orientation. What do these numbers actually mean?",
             "options": [
-              "Job Description, since it's the primary document",
-              "Unit Details — it always overrides the Job Description on conflicts",
-              "Whichever number is lower",
-              "Ask the client to clarify before doing anything else"
+              "They conflict; use the Job Description's 16 hours",
+              "They conflict; use the Unit Details' 48 hours",
+              "They aren't in conflict — total orientation is 48 hours (Unit Details), and 16 of those hours are simply non-billable to the client (Job Description)",
+              "Ask the client which number is accurate before doing anything else"
             ],
-            "answer": 1,
-            "explain": "Unit Details is the source of truth whenever it conflicts with the Job Description."
+            "answer": 2,
+            "explain": "These numbers describe two different things, not a disagreement: Unit Details gives the total orientation length (48 hours), while the Job Description's note tells you how many of those hours can't be billed to the client (16). Both are true at the same time."
           },
-          "duration": 45.62,
-          "captions": "V0VCVlRUCgoxCjAwOjAwOjAwLjAwMCAtLT4gMDA6MDA6MTEuMzU5CkhlcmUncyB0aGUgc2luZ2xlIG1vc3QgaW1wb3J0YW50IHJ1bGUgaW4gdGhpcyBlbnRpcmUgY291cnNlLCBzbyByZW1lbWJlciBpdDogd2hlbmV2ZXIgdGhlIEpvYiBEZXNjcmlwdGlvbiBhbmQgdGhlIFVuaXQgRGV0YWlscyBQLUQtRiBkaXNhZ3JlZSB3aXRoIGVhY2ggb3RoZXIsIFVuaXQgRGV0YWlscyBhbHdheXMgd2lucy4KCjIKMDA6MDA6MTEuMzU5IC0tPiAwMDowMDoxMS43OTEKQWx3YXlzLgoKMwowMDowMDoxMS43OTEgLS0+IDAwOjAwOjIyLjI4NQpIZXJlJ3MgYSByZWFsIGV4YW1wbGUgdGhhdCB0cmlwcyBwZW9wbGUgdXA6IG9uZSBqb2IncyBKb2IgRGVzY3JpcHRpb24gbGlzdGVkIHNpeHRlZW4gaG91cnMgb2Ygbm9uLWJpbGxhYmxlIG9yaWVudGF0aW9uLCBidXQgaXRzIFVuaXQgRGV0YWlscyBQLUQtRiBzYWlkIGZvcnR5LWVpZ2h0IGhvdXJzLgoKNAowMDowMDoyMi4yODUgLS0+IDAwOjAwOjI2LjU0NQpUaGUgY29ycmVjdCBudW1iZXIgdG8gdXNlIGlzIGZvcnR5LWVpZ2h0IOKAlCB0aGUgb25lIGZyb20gVW5pdCBEZXRhaWxzLgoKNQowMDowMDoyNi41NDUgLS0+IDAwOjAwOjMyLjEwMQpUaGF0IHJ1bGUgaG9sZHMgZm9yIGV2ZXJ5IGZpZWxkIHR5cGUg4oCUIG9yaWVudGF0aW9uIGhvdXJzLCBzaGlmdCwgcGF0aWVudCByYXRpbywgYWxsIG9mIGl0LgoKNgowMDowMDozMi4xMDEgLS0+IDAwOjAwOjM1LjkyOApBbmQgd2hpbGUgeW91J3JlIHJlYWRpbmcsIHJlYWQgZXZlcnkgZmllbGQgZnJvbSB0b3AgdG8gYm90dG9tLgoKNwowMDowMDozNS45MjggLS0+IDAwOjAwOjQ1LjYyMApEb24ndCBza2lwIGFoZWFkIHRvIHRoZSBwYXJ0cyB0aGF0IHNlZW0gaW1wb3J0YW50IGFuZCBhc3N1bWUgdGhlIHJlc3QgZG9lc24ndCBtYXR0ZXIg4oCUIHRoZSBkZXRhaWxzIHRoYXQgdHJpcCBwZW9wbGUgdXAgYXJlIHVzdWFsbHkgdGhlIG9uZXMgdGhhdCBnZXQgc2tpcHBlZC4K",
-          "narration": "Here's the single most important rule in this entire course, so remember it: whenever the Job Description and the Unit Details P-D-F disagree with each other, Unit Details always wins. Always. Here's a real example that trips people up: one job's Job Description listed sixteen hours of non-billable orientation, but its Unit Details P-D-F said forty-eight hours. The correct number to use is forty-eight — the one from Unit Details. That rule holds for every field type — orientation hours, shift, patient ratio, all of it. And while you're reading, read every field from top to bottom. Don't skip ahead to the parts that seem important and assume the rest doesn't matter — the details that trip people up are usually the ones that get skipped.",
+          "duration": 61.03,
+          "captions": "V0VCVlRUCgoxCjAwOjAwOjAwLjAwMCAtLT4gMDA6MDA6MTIuMTgzCkhlcmUncyBhbiBpbXBvcnRhbnQgbGVzc29uIGluIHRoaXMgY291cnNlOiBiZWZvcmUgeW91IGNhbGwgc29tZXRoaW5nIGEgY29uZmxpY3QgYmV0d2VlbiB0aGUgSm9iIERlc2NyaXB0aW9uIGFuZCB0aGUgVW5pdCBEZXRhaWxzIFAtRC1GLCBjaGVjayB3aGV0aGVyIHRoZSB0d28gZG9jdW1lbnRzIGFyZSBhY3R1YWxseSBkZXNjcmliaW5nIGRpZmZlcmVudCB0aGluZ3MuCgoyCjAwOjAwOjEyLjE4MyAtLT4gMDA6MDA6MjMuMTQyCkhlcmUncyBhIHJlYWwgZXhhbXBsZSB0aGF0IHRyaXBzIHBlb3BsZSB1cDogb25lIGpvYidzIEpvYiBEZXNjcmlwdGlvbiBub3RlZCBzaXh0ZWVuIGhvdXJzIG9mIG5vbi1iaWxsYWJsZSBvcmllbnRhdGlvbiwgd2hpbGUgaXRzIFVuaXQgRGV0YWlscyBQLUQtRiBsaXN0ZWQgZm9ydHktZWlnaHQgaG91cnMgb2Ygb3JpZW50YXRpb24uCgozCjAwOjAwOjIzLjE0MiAtLT4gMDA6MDA6MjYuMTE1ClRoYXQncyBub3QgYSBkaXNhZ3JlZW1lbnQg4oCUIGl0J3MgdHdvIGZhY3RzIGF0IG9uY2UuCgo0CjAwOjAwOjI2LjExNSAtLT4gMDA6MDA6MzAuMTM3ClRoZSB0b3RhbCBvcmllbnRhdGlvbiB0ZW51cmUgaXMgZm9ydHktZWlnaHQgaG91cnMsIGZyb20gVW5pdCBEZXRhaWxzLgoKNQowMDowMDozMC4xMzcgLS0+IDAwOjAwOjM1LjMyNQpBbmQgc2l4dGVlbiBvZiB0aG9zZSBob3VycyBzaW1wbHkgY2FuJ3QgYmUgYmlsbGVkIHRvIHRoZSBjbGllbnQsIHBlciB0aGUgSm9iIERlc2NyaXB0aW9uLgoKNgowMDowMDozNS4zMjUgLS0+IDAwOjAwOjM3LjEzMgpCb3RoIGFyZSB0cnVlIGF0IHRoZSBzYW1lIHRpbWUuCgo3CjAwOjAwOjM3LjEzMiAtLT4gMDA6MDA6NDUuMDYwCk5vdywgdHJ1ZSBjb25mbGljdHMgZG8gaGFwcGVuIOKAlCB3aGVyZSB0aGUgdHdvIGRvY3VtZW50cyBzdGF0ZSBjb250cmFkaWN0b3J5IHZhbHVlcyBmb3IgdGhlIGV4YWN0IHNhbWUgZmFjdCwgbGlrZSBzaGlmdCBvciBwYXRpZW50IHJhdGlvLgoKOAowMDowMDo0NS4wNjAgLS0+IDAwOjAwOjQ4LjI2NgpXaGVuIHRoYXQgaGFwcGVucywgVW5pdCBEZXRhaWxzIGlzIHRoZSBzb3VyY2Ugb2YgdHJ1dGguCgo5CjAwOjAwOjQ4LjI2NiAtLT4gMDA6MDA6NTEuODgwCkFuZCB3aGlsZSB5b3UncmUgcmVhZGluZywgcmVhZCBldmVyeSBmaWVsZCBmcm9tIHRvcCB0byBib3R0b20uCgoxMAowMDowMDo1MS44ODAgLS0+IDAwOjAxOjAxLjAzMgpEb24ndCBza2lwIGFoZWFkIHRvIHRoZSBwYXJ0cyB0aGF0IHNlZW0gaW1wb3J0YW50IGFuZCBhc3N1bWUgdGhlIHJlc3QgZG9lc24ndCBtYXR0ZXIg4oCUIHRoZSBkZXRhaWxzIHRoYXQgdHJpcCBwZW9wbGUgdXAgYXJlIHVzdWFsbHkgdGhlIG9uZXMgdGhhdCBnZXQgc2tpcHBlZC4K",
+          "narration": "Here's an important lesson in this course: before you call something a conflict between the Job Description and the Unit Details P-D-F, check whether the two documents are actually describing different things. Here's a real example that trips people up: one job's Job Description noted sixteen hours of non-billable orientation, while its Unit Details P-D-F listed forty-eight hours of orientation. That's not a disagreement — it's two facts at once. The total orientation tenure is forty-eight hours, from Unit Details. And sixteen of those hours simply can't be billed to the client, per the Job Description. Both are true at the same time. Now, true conflicts do happen — where the two documents state contradictory values for the exact same fact, like shift or patient ratio. When that happens, Unit Details is the source of truth. And while you're reading, read every field from top to bottom. Don't skip ahead to the parts that seem important and assume the rest doesn't matter — the details that trip people up are usually the ones that get skipped.",
           "video": "clips/2.8.mp4"
         }
       ]
@@ -1136,7 +1137,10 @@ const COURSE = {
           "duration": 63.07,
           "captions": "V0VCVlRUCgoxCjAwOjAwOjAwLjAwMCAtLT4gMDA6MDA6MDUuMzUwCk5vdyBsZXQncyBidWlsZCB0aGUgc3VibWl0dGFsIHBhY2tldCBpdHNlbGYsIHN0YXJ0aW5nIHdpdGggdGhlIFJpZ2h0LVNvdXJjaW5nIGNvdmVyIHNoZWV0LgoKMgowMDowMDowNS4zNTAgLS0+IDAwOjAwOjE1LjkzMQpUaGUgZm9ybWF0IGlzIHN0YW5kYXJkaXplZCBhY3Jvc3MgY2xpZW50cyDigJQgVS1OLUMsIE1vdW50IFNpbmFpLCBOZXcgWW9yay1QcmVzYnl0ZXJpYW4g4oCUIHNvIHRoZSBzYW1lIGZpZWxkcyBhbmQgc3RydWN0dXJlIGFwcGx5IG5vIG1hdHRlciB3aGljaCBoZWFsdGggc3lzdGVtIHlvdSdyZSBzdWJtaXR0aW5nIHRvLgoKMwowMDowMDoxNS45MzEgLS0+IDAwOjAwOjM2LjAyMwpLZXkgZmllbGRzIGluY2x1ZGUgdGhlIGNhbmRpZGF0ZSdzIG5hbWUsIHBlcm1hbmVudCBhZGRyZXNzLCBhbmQgY29udGFjdCBpbmZvcm1hdGlvbjsgaG93IHNvb24gdGhleSdyZSBhdmFpbGFibGUsIHdoaWNoIGhhcyB0byBtYXRjaCB3aGF0J3Mgc3RhdGVkIGluIHRoZSBwb3J0YWw7IHRoZWlyIGludGVydmlldyBhdmFpbGFiaWxpdHkgYnkgZGF5IG9mIHRoZSB3ZWVrOyBzaGlmdCBwcmVmZXJlbmNlIOKAlCBzdGF0ZSBxdW90ZSBuaWdodHMgdW5xdW90ZSBleHBsaWNpdGx5IGlmIGl0IGFwcGxpZXMsIGRvbid0IGxldCBpdCBkZWZhdWx0IHNpbGVudGx5OyBhbmQgd2Vla2VuZCBhdmFpbGFiaWxpdHkuCgo0CjAwOjAwOjM2LjAyMyAtLT4gMDA6MDA6NDUuNzcyCkNlcnRpZmljYXRpb25zIGxpc3RlZCBvbiB0aGUgY292ZXIgc2hlZXQg4oCUIEItTC1TLCBBLUMtTC1TLCBOLUktSC1TLVMg4oCUIGhhdmUgdG8gbWF0Y2ggdGhlIHJlc3VtZSBleGFjdGx5LCBhbmQgc28gZG9lcyB0aGUgc3RhdGUgbGljZW5zZSBudW1iZXIgYW5kIGVkdWNhdGlvbiBkZXRhaWxzLgoKNQowMDowMDo0NS43NzIgLS0+IDAwOjAwOjU3LjQ4MgpGb3IgcHJldmlvdXMgcmVsZXZhbnQgZXhwZXJpZW5jZSwgbGlzdCB0aGUgY2FuZGlkYXRlJ3Mgc3BlY2lmaWMgZXhwZXJpZW5jZSBpbiB0aGF0IHVuaXQncyBzcGVjaWFsdHkg4oCUIGhvc3BpdGFsIG5hbWUsIGxvY2F0aW9uLCBhbmQgZHVyYXRpb24g4oCUIGFuZCB1c2UgZ29vZCBqdWRnbWVudCBvbiBob3cgbWFueSBjb250cmFjdHMgdG8gaW5jbHVkZS4KCjYKMDA6MDA6NTcuNDgyIC0tPiAwMDowMTowMy4wNzAKQmUgY29uc2lzdGVudCBhY3Jvc3Mgc3VibWlzc2lvbnMsIG5vdCBwYWRkZWQgd2l0aCBldmVyeSBsb29zZWx5IHJlbGF0ZWQgY29udHJhY3QgeW91IGNhbiBmaW5kLgo=",
           "narration": "Now let's build the submittal packet itself, starting with the Right-Sourcing cover sheet. The format is standardized across clients — U-N-C, Mount Sinai, New York-Presbyterian — so the same fields and structure apply no matter which health system you're submitting to. Key fields include the candidate's name, permanent address, and contact information; how soon they're available, which has to match what's stated in the portal; their interview availability by day of the week; shift preference — state quote nights unquote explicitly if it applies, don't let it default silently; and weekend availability. Certifications listed on the cover sheet — B-L-S, A-C-L-S, N-I-H-S-S — have to match the resume exactly, and so does the state license number and education details. For previous relevant experience, list the candidate's specific experience in that unit's specialty — hospital name, location, and duration — and use good judgment on how many contracts to include. Be consistent across submissions, not padded with every loosely related contract you can find.",
-          "audio": "audio/10.1.mp3"
+          "audio": "audio/10.1.mp3",
+          "image": "images/cover-sheet-sample.png",
+          "imageAlt": "Sample Right-Sourcing submission cover sheet with placeholder candidate data",
+          "imageCaption": "Sample cover sheet shown with placeholder data for illustration — every real submission must use the candidate's actual information, matching the resume exactly."
         },
         {
           "id": "10.2",
