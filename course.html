@@ -234,11 +234,11 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
 .cert-footer span{display:block; font-size:9.5px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:2px;}
 .cert-actions{margin-top:22px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;}
 
+@page{ size:landscape; margin:0.35in; }
 @media print{
   body *{visibility:hidden;}
   .cert-frame, .cert-frame *{visibility:visible;}
-  .cert-frame{position:absolute; top:0; left:50%; transform:translateX(-50%); margin:0; box-shadow:none; max-width:90%;}
-  @page{ size:landscape; margin:0.4in; }
+  .cert-frame{position:absolute; top:0; left:50%; transform:translateX(-50%); margin:0; box-shadow:none; max-width:100%; width:90%;}
 }
 
 @media (max-width:900px){
@@ -266,8 +266,8 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
   </main>
 </div>
 
-<script src="logo.js?v=19"></script>
-<script src="course-data.js?v=19"></script>
+<script src="logo.js?v=20"></script>
+<script src="course-data.js?v=20"></script>
 <script>
 const STORAGE_KEY = "aya_lotus_course_progress_v1";
 let state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"completed":{},"collapsed":{},"quiz":{},"finalScore":null}');
