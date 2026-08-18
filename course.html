@@ -266,8 +266,8 @@ video::cue{background:rgba(5,15,20,0.75); color:#fdf6e6; font-family:var(--sans)
   </main>
 </div>
 
-<script src="logo.js?v=18"></script>
-<script src="course-data.js?v=18"></script>
+<script src="logo.js?v=19"></script>
+<script src="course-data.js?v=19"></script>
 <script>
 const STORAGE_KEY = "aya_lotus_course_progress_v1";
 let state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"completed":{},"collapsed":{},"quiz":{},"finalScore":null}');
@@ -472,8 +472,6 @@ function renderLesson(l){
     </div>
   </div>` : `
   <div class="card" style="background:linear-gradient(160deg,#fbfcfe,#f6f8fc);">
-    <div class="section-label">Reference Lesson · Narrated Audio</div>
-    <p style="margin:0 0 14px;color:var(--muted);font-size:13.5px;">No video exists for this topic in the source recording — listen to the narrated summary below, or read through the sections underneath.</p>
     <audio id="lessonAudio" controls preload="metadata" style="width:100%;" src="${l.audio}"></audio>
   </div>`}
 
