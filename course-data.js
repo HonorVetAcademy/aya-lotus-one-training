@@ -15,7 +15,7 @@ const COURSE = {
   "description": "A complete, hands-on walkthrough of Aya-Lotus One — the client-facing VMS portal HonorVet recruiters use to source and submit healthcare candidates. Built from a live trainer-led refresher session plus HonorVet's Right-Sourcing submission documentation. Covers reading a job posting correctly (Job Description vs. Unit Details), matching candidates on patient population, ratio, skills, and experience, the rate table, requested time off and risk mitigation, travel eligibility, the screening conversation, and building a complete, defensible submittal packet.",
   "audience": "Healthcare staffing recruiters (and their leads) who source and submit candidates through Aya-Lotus One on behalf of HonorVet Technologies' healthcare clients.",
   "prerequisites": "None required. Basic familiarity with travel-nursing/healthcare staffing terms (RN, BLS/ACLS, RTO, submittal) is helpful but not mandatory — key terms are defined as they appear.",
-  "totalDuration": "~63 min of video clips from the live refresher session + ~45 min of reference-based lessons on portal navigation and submittal-packet construction",
+  "totalDuration": "~1h 48m",
   "objectives": [
     "Explain what Aya-Lotus One is and how it differs from HonorVet's own ATS (JobDiva)",
     "Read a job's Job Description and Unit Details attachments correctly, and know which one wins when they conflict",
